@@ -33,7 +33,7 @@
       </div>
       <div class="navbar-collapse collapse">
         <p class="navbar-text pull-right">
-          Fork me on <a target="_blank" href="http://github.com/ryansb/ofCourse" class="navbar-link">Github</a>
+        Fork me on <a target="_blank" href="${course['repo']}" class="navbar-link">Github</a>
         </p>
         <ul class="nav navbar-nav">
           <li><a href="/syllabus">Syllabus</a></li>
