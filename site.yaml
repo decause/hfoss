@@ -8,6 +8,7 @@ course:
     course: 4085.582.01
     location: Orange Hall (ORN)-1380
     final: 5/20, 5:00PM-7:00pm, ORN-1372
+    repo: http://github.com/decause/hfoss
 
 instructor:
     name: Remy DeCausemaker
