@@ -250,26 +250,6 @@
             <td>02/18</td>
             <td>
                 <p class="topic ">
-                OLPC Distribution &amp; Smoke testing
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
-                </p>
-            </td>
-
-            <td>
-            </td>
-        </tr>
-
-        <tr>
-            <td rowspan="2">5</td>
-            <td class="sessionnumber">1</td>
-            <td>02/23</td>
-            <td>
-                <p class="topic ">
                 COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                 </p>
                 <p class="topic">
@@ -290,12 +270,32 @@
                 <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
+        </tr>
+
+        <tr>
+            <td rowspan="2">5</td>
+            <td class="sessionnumber">1</td>
+            <td>02/23</td>
+            <td>
+                <p class="topic special">
+                IRC Class: OLPC Distribution &amp; Smoke testing
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                </p>
+            </td>
+
+            <td>
+            </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
             <td>02/25</td>
             <td>
-                <p class="topic ">
-                Smoke Testing Results
+                <p class="topic special">
+                IRC Class: Smoke Testing Results
                 </p>
             </td>
 
@@ -370,7 +370,8 @@
             <td>03/11</td>
             <td>
                 <p class="topic guest">
-                EDU: Curriculum Exploration. (Tentatively) Remote Lecture via IRC from <a target="_blank" href="http://levelupcon.com">http://levelupcon.com</a></p>
+                EDU: Curriculum Exploration.
+                </p>
             </td>
 
             <td>
@@ -569,7 +570,7 @@
             <td>04/20</td>
             <td>
                 <p class="topic cancelled">
-                TUESDAY 4/21 ROCpy Demos (carpool in parking lot 6:15pm)
+                TUESDAY 4/21 ROCpy (carpool in parking lot 6:15pm)
                 </p>
             </td>
 
