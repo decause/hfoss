@@ -38,7 +38,7 @@
         <li><b>Blog Planet</b> - <a class="" href="http://foss.rit.edu/planet">http://foss.rit.edu/planet</a></li>
       </ul>
         The source for this syllabus can be found at
-        <a href="http://github.com/decause/hflossk">http://github.com/decause/hflossk</a>
+        <a href="http://github.com/decause/hfoss">http://github.com/decause/hfoss</a>
 
     </div>
   </blockquote>
@@ -46,7 +46,7 @@
 <div class="section">
   <a class="headerlink" name="text-books"></a>
   <h2>Text Books</h2>
-  <p>There are a number of textbooks we&#8217;ll be referencing throughout the quarter. You can
+  <p>There are a number of textbooks we&#8217;ll be referencing throughout the semester. You can
   find these books/texts/articles here <a href="/oer">on the resources page</a></p>
 </div>
 <div class="section">
@@ -75,9 +75,9 @@
   course is intended to be both <cite>open</cite> and <cite>fun</cite>.</p>
   <p>An <cite>open</cite> course &#8211; students will have access to the &#8216;document source&#8217; for the
   syllabus. While you are reading <cite>the syllabus</cite> right now,
-  as a student of the class you have a right to <a class="" href="http://github.com/decause/hflossk">fork the upstream repository</a>, make modifications, and submit patches for review. Barring a troll festival, this can create a fun,
+  as a student of the class you have a right to <a class="" href="http://github.com/decause/hfoss">fork the upstream repository</a>, make modifications, and submit patches for review. Barring a troll festival, this can create a fun,
   dynamic environment in which the course curriculum can develop by the very same
-  mechanism being taught during the quarter (community-driven).</p>
+  mechanism being taught during the semester (community-driven).</p>
 </div>
 <div class="section">
   <a class="headerlink" name="licensing"></a>
@@ -745,7 +745,7 @@
   <p>Assignments are due at 4:59pm of the day they are marked as due, to be useful in class.</p>
   <p>Late submissions will be deducted <span class="label label-danger">10%</span> per day they are late.</p>
   <hr class="docutils" />
-  <p>Your final grade for the quarter will be derived from the following weights.</p>
+  <p>Your final grade for the semester will be derived from the following weights.</p>
 
   <table class="table table-striped table-bordered"
    class="docutils">
