@@ -60,7 +60,7 @@ the NickServ</a>.</li>
 </div>
 
 <p>
-It is a good practice to “hang out” in IRC channels of projects that you use
+It is a good practice to "hang out" in IRC channels of projects that you use
 and especially of projects that you contribute to. Here you can find early
 alerts regarding any upcoming major changes or security vulnerabilities. It is
 also the easiest (lowest overhead) method for getting your questions answered.
@@ -72,12 +72,14 @@ also the easiest (lowest overhead) method for getting your questions answered.
 </p>
 
 <p>
-Only for the brave – if you want to be completely awesome, you can setup a
+Only for the brave--if you want to be completely awesome, you can setup a
 proxy node so you are always logged in. People can leave you messages this way.
 </p>
 
 <p>
-If you want to be completely <em>completely</em> awesome, you can setup <a target="_blank" href="http://www.bitlbee.org/main.php/news.r.html">BitlBee</a> so you can tweet from your IRC client.
+If you want to be <em>completely</em> awesome, you can setup <a target="_blank"
+href="http://www.bitlbee.org/main.php/news.r.html">BitlBee</a> so you can
+tweet from your IRC client.
 </div>
 
 
@@ -102,26 +104,30 @@ have an existing mailing list where messages of these sort are to be posted.
     and you typically find that solution in a blog post of some developer who
     has run into a similar situation. Blogging about your attempts, successes
     and failures (and writing tutorials!) is a best practice for increasing the
-    general body of searchable knowledge available, for increasing the <code><a class="reference external" href="http://xkcd.com/979/">Wisdom of the Ancients.</a></code></p>
+    general body of searchable knowledge available, for increasing the <code><a
+    class="reference external" href="http://xkcd.com/979/">Wisdom of the
+    Ancients.</a></code></p>
 
 <p>
-Blogs around a topic are also typically aggregated by a planet (an RSS feed
-aggregator). This way, all developers blogging about Project X can have their
-blog posts fast-tracked to a readership subscribed to Planet X. For instance,
-here’s a link to <code><a target="_blank" href="http://planet.python.org">Planet Python</a></code>.
+Blogs around a topic are also typically aggregated by a <a target="_blank"
+href="http://www.planetplanet.org/">planet</a> (an RSS feed aggregator). This
+way, all developers blogging about Project X can have their blog posts
+fast-tracked to a readership subscribed to Planet X. For instance, here’s a
+link to <code><a target="_blank" href="http://planet.python.org">Planet
+Python</a></code>.
 </p>
 
 <p>
 The Planet for the course <em>may</em> be hosted at some point in the future at
 <code><a target="_blank"
-        href="http://yacht.rit.edu/planet">http://yacht.rit.edu/planet</a></code>.
+href="http://yacht.rit.edu/planet">http://yacht.rit.edu/planet</a></code>.
 </p>
 
 
 <p>
-You must create a blog (if you don’t have one already) and <strong>write at least one
-post per week</strong> about your progress, attempts, successes, failures, reflections,
-and/or all of the above.
+You must create a blog (if you don’t have one already) and <strong>write at
+least one post per week</strong> about your progress, attempts, successes,
+failures, reflections, and/or all of the above.
 </p>
 
 <div class="alert alert-success">
@@ -130,11 +136,11 @@ and/or all of the above.
     <ol>
         <li>
         Create a blog if you don’t already have one. There are lots of free
-        services available. You might try <code><a target="_blank" href="http://wordpress.com">http://wordpress.com</a></code> or
-        <code><a target="_blank"
-                href="http://blogspot.com">http://blogspot.com</a></code>, or
-        even <code><a target="_blank"
-        href="http://foss.rit.edu">http://foss.rit.edu</a></code>.
+        services available. You might try <code><a target="_blank"
+        href="http://wordpress.com">http://wordpress.com</a></code> or <code><a
+        target="_blank"
+        href="http://blogspot.com">http://blogspot.com</a></code>, or even
+        hosting your own.
         </li>
         <li>Write an introductory post, detailing the process you went through
         to complete the <em>FirstFlight</em> assignment.</li>
@@ -151,9 +157,9 @@ and/or all of the above.
 Attention Wordpress Users!
 </strong>
 By default Wordpress will limit the number of posts that are listed in the
-RSS feed to 10. This will create an issue roughly halfway through the term when
-you are supposed to have more than 10 blog posts. In order to fix this issue
-you must take the following steps.
+RSS feed to <strong>10</strong>. This will create an issue roughly halfway
+through the term when you are supposed to have more than 10 blog posts. In
+order to fix this issue you must take the following steps:
   <ol>
       <li>
       Log in to your Wordpress Administration Site
@@ -171,11 +177,15 @@ you must take the following steps.
 </p>
 </div>
 
-<h2>Github</h2>
+<h2>GitHub</h2>
 
 <p>
 Code forges are service sites around which FOSS development orbits, some of
-the more popular sites are github, bitbucket, sourceforge, and launchpad.
+the more popular sites are <a target="_blanK"
+    href="http://github.com">GitHub</a>, <a target="_blank"
+href="http://bitbucket.com">BitBucket</a>, <a target="_blank"
+href="http://sourceforge.net">SourceForge</a>, and <a target="_blank"
+href="https://launchpad.net/">Launchpad</a>.
 </p>
 
 <p>
@@ -193,20 +203,22 @@ forges:
 </ul>
 
 <p>
-You’ll need to create your own account on github.com. All development for this
-course should be tracked on that forge. Github is, after all, the most popular
+You’ll need to create your own account on GitHub.com. All development for this
+course should be tracked on that forge. GitHub is, after all, the most popular
 forge.
 </p>
 <div class="alert alert-success">
 <h3 class="label label-success">Tasks:</h3>
     <ol>
-        <li>Create a <code><a target="_blank" href="http://github.com">Github</a></code> account if you don’t already have one.</li>
+        <li>Create a <code><a target="_blank"
+        href="http://GitHub.com">GitHub</a></code> account if you don’t already
+        have one.</li>
     </ol>
 </div>
 <div>
     <h2>Patch the Course Project</h2>
     <p>Check out the source repository for this course; it’s hosted at
-    <a class="reference external" href="https://github.com/ryansb/ofCourse">https://github.com/ryansb/ofCourse</a>.</p>
+    <a target="_blank" href="https://github.com/decause/hfoss">https://github.com/decause/hfoss</a>.</p>
     <p>Inside the repository, we’ll keep an index of all the students in the course and metadata about them (you!).</p>
     <div class="alert alert-success">
         <h3 class="label label-success">Tasks:</h3>
@@ -217,27 +229,31 @@ forge.
             <li>Work through this <a
                 href="http://gitimmersion.com/index.html">git tutorial</a> if
             you don’t have any experience with git.</li>
-            <li>Fork <a href="https://github.com/ryansb/ofCourse">the
+            <li>Fork <a href="https://github.com/decause/hfoss">the
                 repository</a> (link to <a
-            href="http://help.github.com/fork-a-repo/">github help</a> on
+            href="http://help.github.com/fork-a-repo/">GitHub help</a> on
         this).</li>
             <li>Clone a local copy.</li>
-            <li>Add a file in the <code>/scripts/people/$YEAR/$TERM</code> folder titled <code>$YOUR_IRC_NICK.yaml</code>. Perhaps obviously, it is
-            a <a href="http://www.yaml.org/">YAML</a> file. You can use the <code>rjbpop.yaml</code> file as an example. You will want to make sure
-            that you have $TERM in all lowercase. For example a student in HFOSS fall of 2014 would have their YAML file in the
-            <code>/scripts/people/2014/fall</code> folder.
-
+            <li>Add a file in the <code>/scripts/people/$YEAR/$TERM</code>
+            folder titled <code>$YOUR_IRC_NICK.yaml</code>. Perhaps obviously,
+            it is a <a href="http://www.yaml.org/">YAML</a> file. You can use
+            the <code>rjbpop.yaml</code> file as an example. You will want to
+            make sure that you have $TERM in all lowercase. For example a
+            student in HFOSS fall of 2014 would have their YAML file in the
+            <code>/scripts/people/2015/spring</code> folder.
 
             <div class="alert alert-warning">
-            <strong>BE WARNED</strong>: Your .yaml file must match the format *exactly* (meaning it is case and whitespace sensitive.)
+            <strong>BE WARNED</strong>: Your .yaml file must match the format
+            *exactly* (meaning it is case and whitespace sensitive.)
             </div>
-            <div class="alert alert-warning">
-            <strong>CRUFTY</strong>: There is a <code>people.yaml</code> file in that directory.  It is a legacy hangover from older code.  Do not bother editing it.  It will actually make merges more difficult.
-            </div></li>
+            </li>
 
-            <li>Once you've confirmed your .yaml file matches exactly, commit and push your changes to github, and issue a pull request.</li>
-            <li>Once the patch is accepted upstream and pushed to production, this
-            should add your blog feed to the <a href="http://hfoss-fossrit.rhcloud.com/checkblogs">Participants</a> page.)</li>
+            <li>Once you've confirmed your .yaml file matches exactly, commit
+            and push your changes to GitHub, and issue a pull request.</li>
+            <li>Once the patch is accepted upstream and pushed to production,
+            this should add your blog feed to the <a
+            href="http://hfoss-ritigm.rhcloud.com/participants">Participants</a>
+            page.)</li>
         </ul>
     </div>
 </div>
