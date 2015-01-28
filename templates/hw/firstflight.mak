@@ -234,7 +234,7 @@ forge.
             href="http://help.github.com/fork-a-repo/">GitHub help</a> on
         this).</li>
             <li>Clone a local copy.</li>
-            <li>Add a file in the <code>/scripts/people/$YEAR/$SEMESTER</code>
+            <li>Add a file in the <code>people/$YEAR/$SEMESTER</code>
             folder titled <code>$YOUR_IRC_NICK.yaml</code>. Perhaps obviously,
             it is a <a href="http://www.yaml.org/">YAML</a> file. You can use
             the <code>fake_student.yaml</code> file as an example. You will want to
