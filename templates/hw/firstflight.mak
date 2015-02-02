@@ -240,7 +240,7 @@ forge.
             the <code>fake_student.yaml</code> file as an example. You will want to
             make sure that you have $SEMESTER in all lowercase. For example a
             student in HFOSS fall of 2014 would have their YAML file in the
-            <code>/scripts/people/2015/spring</code> folder.
+            <code>/people/2015/spring</code> folder.
 
             <div class="alert alert-warning">
             <strong>BE WARNED</strong>: Your .yaml file must match the format
