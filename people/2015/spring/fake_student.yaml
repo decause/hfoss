@@ -1,7 +1,7 @@
+# Fake Student Sample YAML #YOLOSWAG
 blog: http://yourbloghere.wordpress.com/ # Link to the home page of your blog here.
 feed: http://en.blog.wordpress.com/feed/ # Link to the RSS feed of your blog here. If you are using Blogger, your RSS feed is "http://blogname.blogspot.com/feeds/posts/default?alt=rss"
 forges:
   - http://github.com/yourusernamehere # Github is recommended for this course but there are others.
 irc: Thunderdome # Your IRC username that you will be using in the rit-foss channel. This should always be consistent.
-name: Thunder Dome # Your legal name.
 rit_dce: abc1234 # RIT username.
