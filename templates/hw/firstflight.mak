@@ -234,11 +234,11 @@ forge.
             href="http://help.github.com/fork-a-repo/">GitHub help</a> on
         this).</li>
             <li>Clone a local copy.</li>
-            <li>Add a file in the <code>/scripts/people/$YEAR/$TERM</code>
+            <li>Add a file in the <code>people/$YEAR/$SEMESTER</code>
             folder titled <code>$YOUR_IRC_NICK.yaml</code>. Perhaps obviously,
             it is a <a href="http://www.yaml.org/">YAML</a> file. You can use
-            the <code>rjbpop.yaml</code> file as an example. You will want to
-            make sure that you have $TERM in all lowercase. For example a
+            the <code>fake_student.yaml</code> file as an example. You will want to
+            make sure that you have $SEMESTER in all lowercase. For example a
             student in HFOSS fall of 2014 would have their YAML file in the
             <code>/scripts/people/2015/spring</code> folder.
 
