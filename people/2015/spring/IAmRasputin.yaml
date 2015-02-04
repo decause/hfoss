@@ -4,4 +4,5 @@ forges:
   - http://github.com/IAmRasputin
 irc: IAmRasputin
 rit_dce: rmg8548
-firstflight: https://rasputinfoss.wordpress.com/2015/02/02/first-flight/
+hw:
+    firstflight: https://rasputinfoss.wordpress.com/2015/02/02/first-flight/
