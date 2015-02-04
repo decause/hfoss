@@ -5,4 +5,5 @@ forges:
   - https://github.com/Kaffys
 irc: Kaffys
 rit_dce: kat1219
-firstflight: http://kaffys.github.io/hfoss/2015/02/03/first-flight.html
+hw:
+  firstflight: http://kaffys.github.io/hfoss/2015/02/03/first-flight.html
