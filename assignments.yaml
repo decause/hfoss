@@ -4,19 +4,19 @@
 hw:
   - firstflight
   - litreview1
-  - litreview2
-  - quiz1
-  - quiz2
-  - meetup1
-  - meetup2
-  - meetup3
-  - bugfix
-  - commarchreport
-  - commarchpreso
-  - smoketest
-  - vidreview1
-  - vidreview2
-  - finalrepo
-  - curriculum
-  - teamprop1
-  - teamprop2
+    #- litreview2
+    #- quiz1
+    #- quiz2
+    #- meetup1
+    #- meetup2
+    #- meetup3
+    #- bugfix
+    #- commarchreport
+    #- commarchpreso
+    #- smoketest
+    #- vidreview1
+    #- vidreview2
+    #- finalrepo
+    #- curriculum
+    #- teamprop1
+    #- teamprop2
