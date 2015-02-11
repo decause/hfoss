@@ -5,5 +5,7 @@ forges:
   - http://github.com/fortnight
 irc: Fortnight
 rit_dce: fae6505
-firstflight: https://fortnightblog.wordpress.com/2015/02/04/first-flight-part-deux/ 
+hw:
+  firstflight: https://fortnightblog.wordpress.com/2015/02/04/first-flight-part-deux/ 
+  litreview1: https://fortnightblog.wordpress.com/2015/02/09/litreview0-what-is-open-source-by-steve-weber/
 
