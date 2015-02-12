@@ -1,5 +1,5 @@
 blog: http://sarahbethfederman.com/blog/
-feed: http://sarahbethfederman.com/feed/
+feed: http://sarahbethfederman.com/blog/feed/
 forges:
   - https://github.com/sarahbethfederman
   - https://bitbucket.org/sarahbethfederman
@@ -7,3 +7,4 @@ irc: Federcheese
 rit_dce: sbf1973
 hw:
   firstflight: http://sarahbethfederman.com/blog/hfoss-first-flight/
+  litreview1: http://sarahbethfederman.com/blog/lit-review-1/

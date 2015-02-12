@@ -9,6 +9,7 @@ course:
     location: Orange Hall (ORN)-1375
     final: 5/20, 5:00PM-7:00pm, ORN-1375
     repo: http://github.com/decause/hfoss
+    public_url: http://hfoss-ritigm.rhcloud.com
 
 instructor:
     name: Remy DeCausemaker
