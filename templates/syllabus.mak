@@ -249,10 +249,9 @@
             <td class="sessionnumber">2</td>
             <td>02/18</td>
             <td>
-                <p class="topic ">
-                COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
-                </p>
-                <p class="topic">
+                <p class="topic cancelled">
+                Class CANCELLED
+                <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail. -->
                 </p>
             </td>
 
@@ -277,8 +276,8 @@
             <td class="sessionnumber">1</td>
             <td>02/23</td>
             <td>
-                <p class="topic special">
-                IRC Class: OLPC Distribution &amp; Smoke testing
+                <p class="topic">
+                OLPC Distribution &amp; Smoke testing
                 </p>
             </td>
 
@@ -294,8 +293,8 @@
             <td class="sessionnumber">2</td>
             <td>02/25</td>
             <td>
-                <p class="topic special">
-                IRC Class: Smoke Testing Results
+                <p class="topic">
+                Smoke Testing Results
                 </p>
             </td>
 
@@ -335,8 +334,8 @@
             <td class="sessionnumber">2</td>
             <td>03/04</td>
             <td>
-                <p class="topic guest">
-                Guest Lecture: TBD
+                <p class="topic cancelled">
+                Class CANCELLED
                 </p>
             </td>
 
@@ -506,7 +505,7 @@
             <td class="sessionnumber">2</td>
             <td>04/08</td>
             <td>
-                <p class="topic guest">
+                <p class="topic special">
                 IRC Class
                 </p>
             </td>
@@ -522,7 +521,7 @@
             <td class="sessionnumber">1</td>
             <td>04/13</td>
             <td>
-                <p class="topic guest">
+                <p class="topic special">
                 IRC Class
                 </p>
             </td>
@@ -536,7 +535,7 @@
             <td class="sessionnumber">2</td>
             <td>04/15</td>
             <td>
-                <p class="topic ">
+                <p class="topic special">
                 IRC Class
                 </p>
             </td>
@@ -570,6 +569,8 @@
             <td>04/20</td>
             <td>
                 <p class="topic cancelled">
+                Class CANCELLED
+                <br>
                 TUESDAY 4/21 ROCpy (carpool in parking lot 6:15pm)
                 </p>
             </td>
