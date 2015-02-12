@@ -232,8 +232,8 @@
             <td class="sessionnumber">1</td>
             <td>02/16</td>
             <td>
-                <p class="topic cancelled">
-                Class CANCELLED. GO TO ROC.py Tuesday!
+                <p class="topic ">
+                
                 </p>
             </td>
 
@@ -428,7 +428,7 @@
             <td>03/23</td>
             <td>
                 <p class="topic cancelled">
-                No Class: Go To <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">ROCpy</a> on 3/24
+                Spring Break! Go To <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">ROCpy</a> on 3/24
                 </p>
             </td>
 
@@ -442,8 +442,8 @@
             <td class="sessionnumber">2</td>
             <td>03/25</td>
             <td>
-                <p class="topic ">
-                TBD
+                <p class="topic cancelled">
+                Spring Break!
                 </p>
             </td>
 
@@ -718,7 +718,7 @@
             <td>05/22</td>
             <td>
                 <p class="topic cancelled">
-                No Class: &lt;/hfoss&gt;
+                No Class!
                 </p>
             </td>
 
