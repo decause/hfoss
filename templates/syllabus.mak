@@ -249,8 +249,8 @@
             <td class="sessionnumber">2</td>
             <td>02/18</td>
             <td>
-                <p class="topic cancelled">
-                Class CANCELLED
+                <p class="topic ">
+                    IRC Class
                 <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail. -->
                 </p>
             </td>
