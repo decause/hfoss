@@ -314,7 +314,7 @@
             <td>03/02</td>
             <td>
                 <p class="topic ">
-                Commarch Presentations I
+                Commarch Intro
                 </p>
             </td>
 
@@ -322,13 +322,17 @@
                 <p class="topic ">
                 <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
-            </td>
 
-            <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
+            <td>
+                <p class="topic ">
+                    <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+            </td>
+
 
         </tr><tr>
             <td class="sessionnumber">2</td>
@@ -354,7 +358,7 @@
             <td>03/09</td>
             <td>
                 <p class="topic ">
-                Commarch Presentations II &amp; Project Team Formation
+                Commarch Presentations &amp; Project Team Formation
                 </p>
             </td>
 
@@ -362,7 +366,9 @@
             </td>
 
             <td>
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                <p class="topic ">
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                </p>
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
