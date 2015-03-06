@@ -13,7 +13,7 @@ hw:
   - bugfix
     #- commarchreport
     #- commarchpreso
-    #- smoketest
+  - smoketest
     #- vidreview1
     #- vidreview2
     #- finalrepo
