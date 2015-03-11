@@ -328,9 +328,6 @@
                 </p>
             </td>
             <td>
-                <p class="topic ">
-                    <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
-                </p>
             </td>
 
 
@@ -357,9 +354,6 @@
             <td class="sessionnumber">1</td>
             <td>03/09</td>
             <td>
-                <p class="topic ">
-                Commarch Presentations &amp; Project Team Formation
-                </p>
             </td>
 
             <td>
@@ -367,7 +361,7 @@
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                    <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
             </td>
         </tr><tr>
@@ -386,6 +380,9 @@
             </td>
 
             <td>
+                <p class="topic">
+                Commarch Presentations Due
+                </p>
             </td>
 
         </tr>
@@ -395,13 +392,11 @@
             <td>03/16</td>
             <td>
                 <p class="topic ">
-                TBD
+                Commarch Presentations
                 </p>
             </td>
 
             <td>
-                <p class="topic ">
-                </p>
                 <p class="topic ">
                 </p>
             </td>
@@ -411,7 +406,7 @@
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>10/18</td>
+            <td>03/18</td>
             <td>
                 <p class="topic ">
                 EDU: Curriculum Discussion
