@@ -1,6 +1,8 @@
 hfoss
 ==========
 
+[![test status](https://api.travis-ci.org/decause/hfoss.svg)](https://travis-ci.org/decause/hfoss)
+
 This is the content repository for the <a target="_blank"
 href="http://rit.edu">RIT</a> <a target="_blank"
 href="http://igm.rit.edu">Department of Interactive Games and Media</a>
