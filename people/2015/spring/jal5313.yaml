@@ -4,6 +4,7 @@ feed: http://jalfoss.wordpress.com/feed/
 forges:
   - http://github.com/jal5313
 irc: JoLaks
+name: Josh Ladisic
 rit_dce: jal5313
 hw:
   firstflight: https://jalfoss.wordpress.com/2015/02/04/hello-world/
