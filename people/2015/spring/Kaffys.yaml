@@ -1,5 +1,5 @@
-#Kathleen Tigue 
-blog: Kaffys.github.io
+#Kathleen Tigue - HFOSS
+blog: Kaffys.github.io/blog
 feed: Kaffys.github.io/feed
 forges:
     - https://github.com/Kaffys
@@ -7,11 +7,8 @@ irc: Kaffys
 name: Kaffys
 rit_dce: kat1219
 hw:
-    firstflight: http://kaffys.github.io/bizleg/2015/02/03/first-flight.html
-    vidreview1: http://kaffys.github.io/bizleg/2015/02/04/vidreview.html
-    litreview1: http://kaffys.github.io/bizleg/2015/02/05/litreview1.html
-    litreview2: http://kaffys.github.io/bizleg/2015/02/10/litreview2.html
-    litreview3: http://kaffys.github.io/bizleg/2015/02/12/litreview2.html
-    litreview4: http://kaffys.github.io/bizleg/2015/02/19/litreview4.html
-    litreview4: http://kaffys.github.io/bizleg/2015/02/19/litreview5.html
+    firstflight: http://kaffys.github.io/hfoss/firstflight/
+    litreview1: http://kaffys.github.io/hfoss/litreview1/
+    quiz1: http://kaffys.github.io/hfoss/quiz/
+    smoketest: http://kaffys.github.io/design/smoketest/
     teamprop1: http://www.andrewmandula.com/team-prop-1/
