@@ -38,7 +38,7 @@
         <li><b>Blog Planet</b> - <a class="" href="http://foss.rit.edu/planet">http://foss.rit.edu/planet</a></li>
       </ul>
         The source for this syllabus can be found at
-        <a href="http://github.com/decause/hfoss">http://github.com/decause/hfoss</a>
+        <a href="http://github.com/decause/hflossk">http://github.com/decause/hflossk</a>
 
     </div>
   </blockquote>
@@ -46,7 +46,7 @@
 <div class="section">
   <a class="headerlink" name="text-books"></a>
   <h2>Text Books</h2>
-  <p>There are a number of textbooks we&#8217;ll be referencing throughout the semester. You can
+  <p>There are a number of textbooks we&#8217;ll be referencing throughout the quarter. You can
   find these books/texts/articles here <a href="/oer">on the resources page</a></p>
 </div>
 <div class="section">
@@ -75,9 +75,9 @@
   course is intended to be both <cite>open</cite> and <cite>fun</cite>.</p>
   <p>An <cite>open</cite> course &#8211; students will have access to the &#8216;document source&#8217; for the
   syllabus. While you are reading <cite>the syllabus</cite> right now,
-  as a student of the class you have a right to <a class="" href="http://github.com/decause/hfoss">fork the upstream repository</a>, make modifications, and submit patches for review. Barring a troll festival, this can create a fun,
+  as a student of the class you have a right to <a class="" href="http://github.com/decause/hflossk">fork the upstream repository</a>, make modifications, and submit patches for review. Barring a troll festival, this can create a fun,
   dynamic environment in which the course curriculum can develop by the very same
-  mechanism being taught during the semester (community-driven).</p>
+  mechanism being taught during the quarter (community-driven).</p>
 </div>
 <div class="section">
   <a class="headerlink" name="licensing"></a>
@@ -111,7 +111,7 @@
         <tr>
             <td rowspan="2">1</td>
             <td class="sessionnumber">1</td>
-            <td>01/26</td>
+            <td>08/26</td>
             <td>
                 <p class="topic ">
                 Welcome, intro, Syllabus, RTFM
@@ -120,7 +120,7 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
+                <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">LitReview1: <em>What is Open Source?</em> by Steve Weber</a>
                 </p>
             </td>
 
@@ -128,7 +128,7 @@
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>01/28</td>
+            <td>08/28</td>
             <td>
                 <p class="topic ">
                 <a target="_blank" href="/lectures/w01c2">First Flight</a>
@@ -148,7 +148,7 @@
         <tr>
             <td rowspan="2">2</td>
             <td class="sessionnumber">1</td>
-            <td>02/02</td>
+            <td>09/02</td>
             <td>
                 <p class="topic ">
                 Formal Introduction to Git and Github
@@ -163,7 +163,7 @@
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>02/04</td>
+            <td>09/04</td>
             <td>
                 <p class="topic ">
                 Writing for HFOSS - litreviews and blog posts
@@ -189,10 +189,10 @@
         <tr>
             <td rowspan="2">3</td>
             <td class="sessionnumber">1</td>
-            <td>02/09</td>
+            <td>09/09</td>
             <td>
                 <p class="topic ">
-                litreview Discussion: What is Open Source?
+                Lit Review Discussion: What is Open Source?
                 </p>
             </td>
 
@@ -201,16 +201,16 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
+                <a target="_blank" href="/books">LitReview1: <em>What is Open Source?</em> by Steve Weber</a>
                 </p>
             </td>
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>02/11</td>
+            <td>09/11</td>
             <td>
                 <p class="topic ">
-                5 Pillars of Opensource.com
+                LIT: 5 Pillars of Opensource.com
                 </p>
             </td>
 
@@ -230,10 +230,10 @@
         <tr>
             <td rowspan="2">4</td>
             <td class="sessionnumber">1</td>
-            <td>02/16</td>
+            <td>09/16</td>
             <td>
-                <p class="topic ">
-                
+                <p class="topic cancelled">
+                Class CANCELLED. GO TO ROC.py Tuesday!
                 </p>
             </td>
 
@@ -247,11 +247,48 @@
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>02/18</td>
+            <td>09/18</td>
             <td>
                 <p class="topic ">
-                    IRC Class
-                <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail. -->
+                OLPC Distribution &amp; Smoke testing
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                </p>
+            </td>
+
+            <td>
+            </td>
+        <tr>
+            <td></td>
+            <td>***</td>
+            <td>09/20 to<br/>09/21</td>
+            <td>
+                <p class="topic hackathon">
+                <a target="_blank" href="http://sfd14-roc.eventbrite.com">Software Freedom Day 2014</a>
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr>
+        </tr>
+
+        <tr>
+            <td rowspan="2">5</td>
+            <td class="sessionnumber">1</td>
+            <td>09/23</td>
+            <td>
+                <p class="topic ">
+                COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
+                </p>
+                <p class="topic">
                 </p>
             </td>
 
@@ -269,31 +306,11 @@
                 <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
-        </tr>
-
-        <tr>
-            <td rowspan="2">5</td>
-            <td class="sessionnumber">1</td>
-            <td>02/23</td>
-            <td>
-                <p class="topic">
-                OLPC Distribution &amp; Smoke testing
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
-                </p>
-            </td>
-
-            <td>
-            </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>02/25</td>
+            <td>09/25</td>
             <td>
-                <p class="topic">
+                <p class="topic ">
                 Smoke Testing Results
                 </p>
             </td>
@@ -309,12 +326,28 @@
             </td>
         </tr>
         <tr>
+            <td></td>
+            <td>***</td>
+            <td>11/26 <br/>to 11/28</td>
+            <td>
+                <p class="topic hackathon">
+                Hackathon @ Cornell: <a target="_blank" href="http://bigredhacks.com">http://bigredhacks.com</a>
+                </p>
+            </td>
+
+            <td><a target="_blank" href="http://bigredhacks.com">http://bigredhacks.com</a>
+            </td>
+
+            <td>
+            </td>
+        </tr>
+        <tr>
             <td rowspan="2">6</td>
             <td class="sessionnumber">1</td>
-            <td>03/02</td>
+            <td>09/30</td>
             <td>
                 <p class="topic ">
-                Commarch Intro
+                Commarch Presentations I
                 </p>
             </td>
 
@@ -322,21 +355,20 @@
                 <p class="topic ">
                 <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
+            </td>
 
+            <td>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
-            <td>
-            </td>
-
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>03/04</td>
+            <td>10/02</td>
             <td>
-                <p class="topic cancelled">
-                Class CANCELLED
+                <p class="topic guest">
+                Guest Lecture: Hudl &amp; FOSS in (SIH) 87-1600
                 </p>
             </td>
 
@@ -350,27 +382,43 @@
 
         </tr>
         <tr>
+            <td></td>
+            <td>***</td>
+            <td>10/04 <br/>to 10/05</td>
+            <td>
+                <p class="topic hackathon">
+                Hackathon @ Syracuse: <a target="_blank" href="http://hackupstate.com">http://hackupstate.com</a>
+                </p>
+            </td>
+
+            <td><a target="_blank" href="http://hackupstate.com">http://hackupstate.com</a>
+            </td>
+
+            <td>
+            </td>
+        </tr>
+        <tr>
             <td rowspan="2">7</td>
             <td class="sessionnumber">1</td>
-            <td>03/09</td>
-            <td>
-            </td>
-
-            <td>
-            </td>
-
+            <td>10/07</td>
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                Commarch Presentations II &amp; Project Team Formation
                 </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>03/11</td>
+            <td>10/09</td>
             <td>
                 <p class="topic guest">
-                EDU: Curriculum Exploration.
-                </p>
+                EDU: Curriculum Exploration. (Tentatively) Remote Lecture via IRC from <a target="_blank" href="http://levelupcon.com">http://levelupcon.com</a></p>
             </td>
 
             <td>
@@ -380,23 +428,22 @@
             </td>
 
             <td>
-                <p class="topic">
-                Commarch Presentations Due
-                </p>
             </td>
 
         </tr>
         <tr>
             <td rowspan="2">8</td>
             <td class="sessionnumber">1</td>
-            <td>03/16</td>
+            <td>10/14</td>
             <td>
-                <p class="topic ">
-                Commarch Presentations
+                <p class="topic cancelled">
+                No Class: Monday Class Schedule
                 </p>
             </td>
 
             <td>
+                <p class="topic ">
+                </p>
                 <p class="topic ">
                 </p>
             </td>
@@ -406,7 +453,7 @@
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>03/18</td>
+            <td>10/16</td>
             <td>
                 <p class="topic ">
                 EDU: Curriculum Discussion
@@ -426,10 +473,10 @@
         <tr>
             <td rowspan="2">9</td>
             <td class="sessionnumber">1</td>
-            <td>03/23</td>
+            <td>10/21</td>
             <td>
                 <p class="topic cancelled">
-                Spring Break! Go To <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">ROCpy</a> on 3/24
+                No Class: Go To <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">ROCpy</a>
                 </p>
             </td>
 
@@ -441,14 +488,15 @@
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>03/25</td>
+            <td>10/23</td>
             <td>
-                <p class="topic cancelled">
-                Spring Break!
+                <p class="topic guest">
+                Remote Lecture via IRC
                 </p>
             </td>
 
             <td>
+            <a target="_blank" href="http://allthingsopen.org">All Things Open Conference</a>
             </td>
 
             <td>
@@ -458,7 +506,7 @@
         <tr>
             <td rowspan="2">10</td>
             <td class="sessionnumber">1</td>
-            <td>03/30</td>
+            <td>10/28</td>
             <td>
                 <p class="topic ">
                 TBD
@@ -473,7 +521,7 @@
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>04/01</td>
+            <td>10/30</td>
             <td>
                 <p class="topic ">
                 TBD
@@ -485,14 +533,76 @@
 
             <td>
             </td>
+        <tr>
+            <td></td>
+            <td>***</td>
+            <td>11/01</td>
+            <td>
+                <p class="topic hackathon">
+                Unnofficial: Tentative Date for <a target="_blank" href="http://barcamproc.org">BarcampROC</a>
+                </p>
+            </td>
+
+            <td><a target="_blank" href="http://barcamproc.org">BarcampROC</a>
+            </td>
+
+            <td>
+            </td>
+        </tr>
 
         </tr>
         <tr>
             <td rowspan="2">11</td>
             <td class="sessionnumber">1</td>
-            <td>04/06</td>
+            <td>11/04</td>
             <td>
                 <p class="topic hackathon">
+                Election Night Hackathon: (SIH) 87-1600
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">2</td>
+            <td>11/06</td>
+            <td>
+                <p class="topic ">
+                TBD
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        <tr>
+            <td></td>
+            <td>***</td>
+            <td>11/07<br/>to 11/09</td>
+            <td>
+                <p class="topic hackathon">
+                Hackathon: <a target="_blank" href="http://rit48.com">RIT48</a>
+                </p>
+            </td>
+
+            <td><a target="_blank" href="http://rit48.com">RIT48</a>
+            </td>
+
+            <td>
+            </td>
+        </tr>
+        </tr>
+        <tr>
+            <td rowspan="2">12</td>
+            <td class="sessionnumber">1</td>
+            <td>11/11</td>
+            <td>
+                <p class="topic ">
                 TBD
                 </p>
             </td>
@@ -504,40 +614,10 @@
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>04/08</td>
+            <td>11/13</td>
             <td>
-                <p class="topic special">
-                IRC Class
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="2">12</td>
-            <td class="sessionnumber">1</td>
-            <td>04/13</td>
-            <td>
-                <p class="topic special">
-                IRC Class
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-            </td>
-        </tr><tr>
-            <td class="sessionnumber">2</td>
-            <td>04/15</td>
-            <td>
-                <p class="topic special">
-                IRC Class
+                <p class="topic ">
+                TBD
                 </p>
             </td>
 
@@ -547,32 +627,14 @@
             <td>
             </td>
 
-        </tr>
-        <tr>
-            <td></td>
-            <td>***</td>
-            <td>04/18</td>
-            <td>
-                <p class="topic hackathon">
-                Conference: <a target="_blank" href="http://brickhacks.io/">RIT Brickhacks.io</a>
-                </p>
-            </td>
-
-            <td>Conference: <a target="_blank" href="http://brickhacks.io/">RIT Brickhacks.io</a>
-            </td>
-
-            <td>
-            </td>
         </tr>
         <tr>
             <td rowspan="2">13</td>
             <td class="sessionnumber">1</td>
-            <td>04/20</td>
+            <td>11/18</td>
             <td>
-                <p class="topic cancelled">
-                Class CANCELLED
-                <br>
-                TUESDAY 4/21 ROCpy (carpool in parking lot 6:15pm)
+                <p class="topic special">
+                TUESDAY 7-9pm ROCpy Demos (carpool in parking lot 6:15pm)
                 </p>
             </td>
 
@@ -587,7 +649,7 @@
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>04/22</td>
+            <td>11/20</td>
             <td>
                 <p class="topic guest">
                 TBD
@@ -602,9 +664,25 @@
 
         </tr>
         <tr>
+            <td></td>
+            <td>***</td>
+            <td>11/22</td>
+            <td>
+                <p class="topic hackathon">
+                Conference: <a target="_blank" href="http://makerfairerochester.com/">Rochester Mini-Maker Faire</a>
+                </p>
+            </td>
+
+            <td><a target="_blank" href="http://makerfairerochester.com/">Rochester Mini-Maker Faire</a>
+            </td>
+
+            <td>
+            </td>
+        </tr>
+        <tr>
             <td rowspan="2">14</td>
             <td class="sessionnumber">1</td>
-            <td>04/27</td>
+            <td>11/25</td>
             <td>
                 <p class="topic ">
                 Lit Review 2
@@ -618,10 +696,10 @@
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>04/29</td>
+            <td>11/27</td>
             <td>
-                <p class="topic ">
-                TBD
+                <p class="topic cancelled">
+                No Class: Happy Thanksgiving
                 </p>
             </td>
 
@@ -635,7 +713,7 @@
         <tr>
             <td rowspan="2">15</td>
             <td class="sessionnumber">1</td>
-            <td>05/04</td>
+            <td>12/02</td>
             <td>
                 <p class="topic ">
                 TBD
@@ -650,7 +728,7 @@
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>05/06</td>
+            <td>12/04</td>
             <td>
                 <p class="topic ">
                 TBD
@@ -665,9 +743,9 @@
 
         </tr>
         <tr>
-            <td rowspan="2">16</td>
+            <td rowspan="4">16</td>
             <td class="sessionnumber">1</td>
-            <td>05/11</td>
+            <td>12/09</td>
             <td>
                 <p class="topic special">
                 Playtesting Session ???
@@ -679,10 +757,39 @@
 
             <td>
             </td>
-        </tr>
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>05/13</td>
+            <td>12/11</td>
+            <td>
+                <p class="topic special">
+                Playtesting Session ???
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+
+        </tr><tr>
+            <td>***</td>
+            <td>12/10</td>
+            <td>
+                <p class="topic special">
+                Playtesting Session ???
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+
+        </tr><tr>
+            <td>***</td>
+            <td>12/12</td>
             <td>
                 <p class="topic special">
                 Playtesting Session ???
@@ -699,7 +806,7 @@
         <tr>
             <td rowspan="2">17</td>
             <td class="sessionnumber">1</td>
-            <td>05/20</td>
+            <td>12/16</td>
             <td>
                 <p class="topic special">
                 Return XO's &amp; Final Presentations (w/ Pizza)
@@ -716,10 +823,10 @@
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>05/22</td>
+            <td>12/18</td>
             <td>
                 <p class="topic cancelled">
-                No Class!
+                No Class: &lt;/hfoss&gt;
                 </p>
             </td>
 
@@ -747,7 +854,7 @@
   <p>Assignments are due at 4:59pm of the day they are marked as due, to be useful in class.</p>
   <p>Late submissions will be deducted <span class="label label-danger">10%</span> per day they are late.</p>
   <hr class="docutils" />
-  <p>Your final grade for the semester will be derived from the following weights.</p>
+  <p>Your final grade for the quarter will be derived from the following weights.</p>
 
   <table class="table table-striped table-bordered"
    class="docutils">
@@ -794,7 +901,7 @@
     <div><ul class="simple">
       <li>You must make at least one blog post per week to receive full credit.
       This is in addition to any assignments that are posted to your blog for
-      that week. A week ends on Sunday at 11:59pm.</li>
+      that week. A week Ends on Sunday at 11:59pm.</li>
       <li>You must participate regularly in the course&#8217;s IRC channel: asking and answering questions.</li>
       <li>Contributions to the course curriculum, syllabus, and rubric are factored in here as well.</li>
     </ul>
