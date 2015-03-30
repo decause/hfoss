@@ -1,9 +1,23 @@
+@font-face{
+    font-family: 'Liberation Sans';
+    src: url('../fonts/LiberationSans-Regular-webfont.eot');
+    src: url('../fonts/LiberationSans-Regular-webfont.eot?iefix') format('eot'),
+         url('../fonts/LiberationSans-Regular-webfont.woff') format('woff'),
+         url('../fonts/LiberationSans-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/LiberationSans-Regular-webfont.svg#webfont') format('svg');
+}
+
 body {
     padding-top: 60px;
     padding-bottom: 40px;
 }
 
-h1,h2,h3,h4,h5,h6 {
+body, div, p {
+    font-family: 'Liberation Sans', Arial, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6, .jumbotron p {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: bold;
 }
 
@@ -24,6 +38,16 @@ h1,h2,h3,h4,h5,h6 {
     }
 }
 
+.container {
+    padding-top: 0;
+}
+
+@media(min-width: 1200px) {
+    .container {
+        padding-top: 15px;
+    }
+}
+
 .item {
     text-align: right;
 }
@@ -32,17 +56,10 @@ h1,h2,h3,h4,h5,h6 {
     text-align: center;
 }
 
-.lecture_list>li{
-    font-size: 24.5px;
-    margin: -10px 0;
-    font-weight: bold;
-    line-height: 40px;
-}
-.lecture_list>li ol, .lecture_list>li ul{
-    font-size: 14px;
-    font-weight: normal;
-    line-height: 20px;
-    margin-top: -10px;
+/* create new stacking context 1 above the auto level */
+.raise {
+  position: relative;
+  z-index: 1;
 }
 
 /* showblogs-specific */
@@ -82,18 +99,10 @@ h1,h2,h3,h4,h5,h6 {
     background: lightgreen;
 }
 
-.tbd {
-    background: lightgrey;
-}
-
 .hackathon {
     background: orange;
 }
 
 .vaycay {
     background: darkgrey;
-}
-
-.redtext {
-    color: darkred;
 }

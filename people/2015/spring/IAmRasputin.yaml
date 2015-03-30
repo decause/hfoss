@@ -1,0 +1,21 @@
+name: IAmRasputin
+blog: http://rasputinfoss.wordpress.com
+feed: http://rasputinfoss.wordpress.com/feed
+name: Ryan Gannon
+projteam: IAmRasputin, jolaks, Federcheese
+forges:
+  - http://github.com/IAmRasputin
+irc: IAmRasputin
+rit_dce: rmg8548
+hw:
+    firstflight: https://rasputinfoss.wordpress.com/2015/02/02/first-flight/
+    litreview1: https://rasputinfoss.wordpress.com/2015/02/09/litreview-what-is-open-source-and-how-does-it-work/
+    quiz1: https://rasputinfoss.wordpress.com/2015/02/11/quiz-1/
+    bugfix1: https://rasputinfoss.wordpress.com/2015/02/20/the-bugfix/
+    smoketest: https://rasputinfoss.wordpress.com/2015/02/25/olpc-smoke-test/
+    teamprop1: https://rasputinfoss.wordpress.com/2015/03/04/commarch-team-proposal
+    bugfix2: https://rasputinfoss.wordpress.com/2015/03/16/bugfix-2/
+    commarchpreso: http://sarahbethfederman.com/HFOSS/commarch/slides/
+    commarchreport: https://rasputinfoss.wordpress.com/2015/03/16/commarch-report/
+    curriculum: https://rasputinfoss.wordpress.com/2015/03/18/common-core-curriculum/
+    teamprop2: https://rasputinfoss.wordpress.com/2015/03/21/final-project-team-proposal/
