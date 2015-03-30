@@ -9,6 +9,8 @@
 
     <!-- Le styles -->
     <link href="/static/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/static/css/ripples.min.css" rel="stylesheet">
+    <link href="/static/css/material-wfont.min.css" rel="stylesheet">
     <link href="/static/css/site.css" rel="stylesheet" />
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -32,8 +34,8 @@
         </button>
       </div>
       <div class="navbar-collapse collapse">
-        <p class="navbar-text pull-right">
-        Fork me on <a target="_blank" href="${course['repo']}" class="navbar-link">Github</a>
+        <p class="navbar-text pull-right raise">
+          Fork me on <a target="_blank" href="http://github.com/ryansb/ofCourse" class="navbar-link">Github</a>
         </p>
         <ul class="nav navbar-nav">
           <li><a href="/syllabus">Syllabus</a></li>
@@ -80,6 +82,13 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/static/js/jquery.js"></script>
     <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/ripples.min.js"></script>
+    <script src="/static/js/material.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $.material.init();
+        });
+    </script>
 
   </body>
 </html>
