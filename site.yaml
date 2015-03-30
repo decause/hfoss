@@ -4,11 +4,14 @@ course:
     place: RIT
     start: 2015-01-26
     end: 2015-05-13
+    blog_start: 2015-02-08
+    blog_end: 2015-05-20
     times: Mon & Wed 5:00PM - 6:15PM
     course: 4085.582.01
     location: Orange Hall (ORN)-1375
     final: 5/20, 5:00PM-7:00pm, ORN-1375
     repo: http://github.com/decause/hfoss
+    public_url: http://hfoss-ritigm.rhcloud.com
 
 instructor:
     name: Remy DeCausemaker
@@ -28,6 +31,6 @@ instructor:
         opensource: http://opensource.com/users/remyd
 
 assistant:
-    name: teebeedee
-    email: teebeedee@foss.rit.edu
-    irc: teebeedee
+    name: Mike Nolan (Nolski)
+    email: me@michael-nolan.com
+    irc: Nolski

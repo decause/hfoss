@@ -1,7 +1,21 @@
+name: Sarah Federman
 blog: http://sarahbethfederman.com/blog/
-feed: http://sarahbethfederman.com/feed/
+feed: http://sarahbethfederman.com/blog/feed/
 forges:
   - https://github.com/sarahbethfederman
   - https://bitbucket.org/sarahbethfederman
 irc: Federcheese
 rit_dce: sbf1973
+lighteningtalk0: http://www.csh.rit.edu/~slunn/wichacks/#/
+hw:
+  firstflight: http://sarahbethfederman.com/blog/hfoss-first-flight/
+  litreview1: http://sarahbethfederman.com/blog/lit-review-1/
+  quiz1: http://sarahbethfederman.com/blog/the-success-of-open-source-the-open-source-way-quiz/
+  bugfix: http://sarahbethfederman.com/blog/hfoss-bugfix-assignment/
+  hackathon1: http://sarahbethfederman.com/blog/my-wic-hacks-2015-experience/
+  smoketest: http://sarahbethfederman.com/blog/xo-box-smoke-test/
+  teamprop1: http://sarahbethfederman.com/blog/commarch-team-proposal/
+  commarchreport: http://sarahbethfederman.com/blog/hfoss-commarch-project-socket-io/
+  commarchpreso: http://sarahbethfederman.com/HFOSS/commarch/slides/
+  curriculum: http://sarahbethfederman.com/blog/edu-curriculum-assignment/
+  teamprop2: http://sarahbethfederman.com/blog/hfoss-final-proposal/
