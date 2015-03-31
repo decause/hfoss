@@ -22,7 +22,7 @@ hw:
   commarchpreso: https://mellolikejello.wordpress.com/2015/03/11/commarch-presentation/
   curriculum: https://mellolikejello.wordpress.com/2015/03/18/curriculum/
   teamprop2: https://mellolikejello.wordpress.com/2015/03/20/anglegators-team-proposal/
-  projteam: amm4108, RedTwo
+  projteam: ["amm4108", "RedTwo"]
   #vidreview1:
   #vidreview2:
   #litreview2:
