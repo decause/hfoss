@@ -1,17 +1,18 @@
-blog: https://numbuhfour.wordpress.com/
-feed: https://numbuhfour.wordpress.com/feed/
+blog: http://fad4470.github.io/
+feed: http://fad4470.github.io/feed/
 forges:
   - https://github.com/fad4470/
 irc: NumbuhFour
 rit_dce: fad4470
 name: Frankie
 hw:
-  firstflight: https://numbuhfour.wordpress.com/2015/02/01/initial-commit/
-  litreview1: https://numbuhfour.wordpress.com/2015/02/09/hofss-lit-review-1/
-  quiz1: https://numbuhfour.wordpress.com/2015/02/12/hfoss-quiz-1/
-  bugfix: https://numbuhfour.wordpress.com/2015/02/20/first-bugfix/
-  smoketest: https://numbuhfour.wordpress.com/2015/02/25/xo-laptop-smoke-test/
-  teamprop1: https://numbuhfour.wordpress.com/2015/03/04/hfoss-community-architecture-project-proposal/
-  commarchreport: https://numbuhfour.wordpress.com/2015/03/09/community-architecture-assignment-for-hfoss/
+  firstflight: http://fad4470.github.io/Inital%20Commit/
+  litreview1: http://fad4470.github.io/HFOSS%20Lit%20Review%201/
+  quiz1: http://fad4470.github.io/HFOSS%20Quiz%201/
+  bugfix: http://fad4470.github.io/First%20Bugfix/
+  smoketest: http://fad4470.github.io/XO%20Laptop%20Smoke%20Test/
+  teamprop1: http://fad4470.github.io/HFOSS%20Commarch%20Proposal/
+  commarchreport: http://fad4470.github.io/HFOSS%20Commarch/
   commarchpreso: https://docs.google.com/presentation/d/1cyVsCSefI1A2-fpUz-XPYdua5Q_ah7MfFbmzDbCjckA/edit?usp=sharing
-  curriculum: https://docs.google.com/document/d/1GJFBf4zVS1g1MB6G_DFaCHDNPwHMIJHRAIfHKC0yhGE/edit?usp=sharing
+  curriculum: http://fad4470.github.io/CurrIdeas/
+  teamprop2: http://fad4470.github.io/XOTeamProp/
