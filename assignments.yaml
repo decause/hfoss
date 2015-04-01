@@ -11,12 +11,13 @@ hw:
     #- meetup2
     #- meetup3
   - bugfix
-    #- commarchreport
-    #- commarchpreso
   - smoketest
+  - teamprop1
+  - commarchreport
+  - commarchpreso
+  - teamprop2
+  - projteam
+  - curriculum
     #- vidreview1
     #- vidreview2
     #- finalrepo
-    #- curriculum
-  - teamprop1
-    #- teamprop2
