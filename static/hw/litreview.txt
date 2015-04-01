@@ -24,7 +24,7 @@ to remember the basics:
 
     The Gist
         You're in a social setting. Someone says "Hey, did you ever read X?"
-        You quickly respond "Oh heck yeah! X was teh {awesome,suck}!" The
+        You quickly respond "Oh heck yeah! X was {awesome,terrible}!" The
         person next to you in the circle says "Oh snap, I didn't read X. What
         was it about...?" 
 

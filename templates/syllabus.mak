@@ -201,7 +201,7 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/books">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
+                <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
                 </p>
             </td>
 
@@ -232,8 +232,8 @@
             <td class="sessionnumber">1</td>
             <td>02/16</td>
             <td>
-                <p class="topic cancelled">
-                Class CANCELLED. GO TO ROC.py Tuesday!
+                <p class="topic ">
+                
                 </p>
             </td>
 
@@ -250,9 +250,8 @@
             <td>02/18</td>
             <td>
                 <p class="topic ">
-                COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
-                </p>
-                <p class="topic">
+                    IRC Class
+                <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail. -->
                 </p>
             </td>
 
@@ -277,8 +276,8 @@
             <td class="sessionnumber">1</td>
             <td>02/23</td>
             <td>
-                <p class="topic special">
-                IRC Class: OLPC Distribution &amp; Smoke testing
+                <p class="topic">
+                OLPC Distribution &amp; Smoke testing
                 </p>
             </td>
 
@@ -294,8 +293,8 @@
             <td class="sessionnumber">2</td>
             <td>02/25</td>
             <td>
-                <p class="topic special">
-                IRC Class: Smoke Testing Results
+                <p class="topic">
+                Smoke Testing Results
                 </p>
             </td>
 
@@ -315,7 +314,7 @@
             <td>03/02</td>
             <td>
                 <p class="topic ">
-                Commarch Presentations I
+                Commarch Intro
                 </p>
             </td>
 
@@ -323,20 +322,21 @@
                 <p class="topic ">
                 <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
-            </td>
 
-            <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
+            <td>
+            </td>
+
 
         </tr><tr>
             <td class="sessionnumber">2</td>
             <td>03/04</td>
             <td>
-                <p class="topic guest">
-                Guest Lecture: TBD
+                <p class="topic cancelled">
+                Class CANCELLED
                 </p>
             </td>
 
@@ -354,16 +354,15 @@
             <td class="sessionnumber">1</td>
             <td>03/09</td>
             <td>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
                 <p class="topic ">
-                Commarch Presentations II &amp; Project Team Formation
+                    <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
@@ -381,6 +380,9 @@
             </td>
 
             <td>
+                <p class="topic">
+                Commarch Presentations Due
+                </p>
             </td>
 
         </tr>
@@ -390,13 +392,11 @@
             <td>03/16</td>
             <td>
                 <p class="topic ">
-                TBD
+                Commarch Presentations
                 </p>
             </td>
 
             <td>
-                <p class="topic ">
-                </p>
                 <p class="topic ">
                 </p>
             </td>
@@ -406,7 +406,7 @@
 
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>10/18</td>
+            <td>03/18</td>
             <td>
                 <p class="topic ">
                 EDU: Curriculum Discussion
@@ -429,7 +429,7 @@
             <td>03/23</td>
             <td>
                 <p class="topic cancelled">
-                No Class: Go To <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">ROCpy</a> on 3/24
+                Spring Break! Go To <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">ROCpy</a> on 3/24
                 </p>
             </td>
 
@@ -443,8 +443,8 @@
             <td class="sessionnumber">2</td>
             <td>03/25</td>
             <td>
-                <p class="topic ">
-                TBD
+                <p class="topic cancelled">
+                Spring Break!
                 </p>
             </td>
 
@@ -506,7 +506,7 @@
             <td class="sessionnumber">2</td>
             <td>04/08</td>
             <td>
-                <p class="topic guest">
+                <p class="topic special">
                 IRC Class
                 </p>
             </td>
@@ -522,7 +522,7 @@
             <td class="sessionnumber">1</td>
             <td>04/13</td>
             <td>
-                <p class="topic guest">
+                <p class="topic special">
                 IRC Class
                 </p>
             </td>
@@ -536,7 +536,7 @@
             <td class="sessionnumber">2</td>
             <td>04/15</td>
             <td>
-                <p class="topic ">
+                <p class="topic special">
                 IRC Class
                 </p>
             </td>
@@ -570,6 +570,8 @@
             <td>04/20</td>
             <td>
                 <p class="topic cancelled">
+                Class CANCELLED
+                <br>
                 TUESDAY 4/21 ROCpy (carpool in parking lot 6:15pm)
                 </p>
             </td>
@@ -717,7 +719,7 @@
             <td>05/22</td>
             <td>
                 <p class="topic cancelled">
-                No Class: &lt;/hfoss&gt;
+                No Class!
                 </p>
             </td>
 

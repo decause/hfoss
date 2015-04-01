@@ -1,10 +1,10 @@
 # Josh Ladisic's yaml
+name: JoLaks
 blog: http://jalfoss.wordpress.com
 feed: http://jalfoss.wordpress.com/feed/
 forges:
   - http://github.com/jal5313
 irc: JoLaks
-name: Josh Ladisic
 rit_dce: jal5313
 hw:
   firstflight: https://jalfoss.wordpress.com/2015/02/04/hello-world/
@@ -17,3 +17,4 @@ hw:
   commarchpreso: http://sarahbethfederman.com/HFOSS/commarch/slides/#/
   curriculum: https://jalfoss.wordpress.com/2015/03/18/nys-curriculum-review/
   teamprop2: https://jalfoss.wordpress.com/2015/03/20/final-hfoss-project-proposal/
+  projteam: https://jalfoss.wordpress.com/2015/03/20/final-hfoss-project-proposal/

@@ -1,0 +1,15 @@
+# Fortnight's .yaml
+name: Fortnight
+blog: https://fortnightblog.wordpress.com/
+feed: https://fortnightblog.wordpress.com/feed/
+forges:
+  - http://github.com/fortnight
+irc: Fortnight
+rit_dce: fae6505
+hw:
+  firstflight: https://fortnightblog.wordpress.com/2015/02/04/first-flight-part-deux/ 
+  litreview1: https://fortnightblog.wordpress.com/2015/02/09/litreview0-what-is-open-source-by-steve-weber/
+  quiz1: https://fortnightblog.wordpress.com/2015/02/11/quiz1-but-totally-quiz0/
+  bugfix1: https://fortnightblog.wordpress.com/2015/02/24/bugfix0/
+  smoketest: https://fortnightblog.wordpress.com/2015/02/24/smoketesting-for-an-xo-laptop/
+
