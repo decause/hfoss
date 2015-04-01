@@ -506,8 +506,8 @@
             <td class="sessionnumber">2</td>
             <td>04/08</td>
             <td>
-                <p class="topic special">
-                IRC Class
+                <p class="topic">
+                Guest Lecture from RyanSB
                 </p>
             </td>
 
