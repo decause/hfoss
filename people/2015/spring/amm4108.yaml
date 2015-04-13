@@ -1,7 +1,7 @@
 #hfoss
 name: amm4108
 blog: http://ghost-alexandriamack.rhcloud.com/
-feed: http://ghost-alexandriamack.rhcloud.com/tag/hfoss/rss
+feed: http://amm4108.github.io/feeds/hfoss.atom.xml
 forges:
   - http://github.com/amm4108
 irc: amm4108
