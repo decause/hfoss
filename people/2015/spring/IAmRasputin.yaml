@@ -2,7 +2,7 @@ name: IAmRasputin
 blog: http://rasputinfoss.wordpress.com
 feed: http://rasputinfoss.wordpress.com/feed
 name: Ryan Gannon
-projteam: IAmRasputin, jolaks, Federcheese
+projteam: IAmRasputin, JoLaks, Federcheese
 forges:
   - http://github.com/IAmRasputin
 irc: IAmRasputin
@@ -19,3 +19,4 @@ hw:
     commarchreport: https://rasputinfoss.wordpress.com/2015/03/16/commarch-report/
     curriculum: https://rasputinfoss.wordpress.com/2015/03/18/common-core-curriculum/
     teamprop2: https://rasputinfoss.wordpress.com/2015/03/21/final-project-team-proposal/
+    litreview2: https://rasputinfoss.wordpress.com/2015/04/28/lit-review-2-the-foss-primer/
