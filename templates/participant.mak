@@ -10,7 +10,7 @@
 </div>
 <div class="row">
     <div class="col-md-4">
-        <img width="132" height="132" alt="${participant_data['name']}'s avatar" src="${gravatar(participant_data['rit_dce'] + '@rit.edu')}"/>
+        <img width="132" height="132" alt="${participant_data['name']}'s avatar" src="${gravatar(participant_data, 'rit_dce', '@rit.edu')}"/>
         <h2><a href="${participant_data['blog']}"> Blog</a></h2>
         <p>
             %if 'coderwall' in participant_data:

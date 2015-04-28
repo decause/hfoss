@@ -3,7 +3,6 @@
 <div class="jumbotron">
     <h1>${course['name']}</h1>
     <p>${course['desc']}</p>
-    <p>SIGCSE</p>
 </div>
 
 <div class="row">

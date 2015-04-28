@@ -506,8 +506,8 @@
             <td class="sessionnumber">2</td>
             <td>04/08</td>
             <td>
-                <p class="topic special">
-                IRC Class
+                <p class="topic">
+                Guest Lecture from RyanSB
                 </p>
             </td>
 
@@ -595,6 +595,9 @@
             </td>
 
             <td>
+                <p class="topic ">
+                    Lit Review 2: Chapter 0, 1, and 2 of <a href="https://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">foss-primer</a>
+                </p>
             </td>
 
             <td>
@@ -606,15 +609,15 @@
             <td class="sessionnumber">1</td>
             <td>04/27</td>
             <td>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
                 <p class="topic ">
-                Lit Review 2
+                    Lit Review 2: Chapter 0, 1, and 2 of <a href="https://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">foss-primer</a>
                 </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
