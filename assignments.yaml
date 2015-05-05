@@ -5,8 +5,8 @@ hw:
   - firstflight
   - litreview1
   - quiz1
-    #- litreview2
-    #- quiz2
+  - litreview2
+  - quiz2
     #- meetup1
     #- meetup2
     #- meetup3
