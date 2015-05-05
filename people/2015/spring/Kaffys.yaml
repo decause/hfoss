@@ -1,6 +1,6 @@
 #Kathleen Tigue - HFOSS
-blog: https://Kaffys.github.io/blog
-feed: https://Kaffys.github.io/feed
+blog: http://Kaffys.github.io/blog
+feed: http://Kaffys.github.io/feed
 forges:
     - https://github.com/Kaffys
 irc: Kaffys
@@ -12,3 +12,4 @@ hw:
     quiz1: http://kaffys.github.io/hfoss/quiz/
     smoketest: http://kaffys.github.io/design/smoketest/
     teamprop1: http://www.andrewmandula.com/team-prop-1/
+    quiz2: http://kaffys.github.io/hfoss/Quiz2/
