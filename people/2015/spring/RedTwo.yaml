@@ -6,6 +6,7 @@ forges:
   - https://github.com/Red-Two
 irc: RedTwo
 rit_dce: war9646
+upstream1: https://github.com/kliment/Printrun/pull/639
 hw:
   firstflight: http://redtwo-foss.blogspot.com/2015/02/first-flight.html
   litreview1: http://redtwo-foss.blogspot.com/2015/02/litreview1-what-is-open-source-and-how.html
@@ -15,5 +16,6 @@ hw:
   teamprop2: http://redtwo-foss.blogspot.com/2015/03/teamprop2.html
   commarchreport: http://redtwo-foss.blogspot.com/2015/03/community-architecture-printrun.html
   commarchpreso: https://docs.google.com/presentation/d/1VMFNmQ3MWLgUZlVdhzT6ZHEliDg-dFIcr37QNsVZzcI/edit?usp=sharing
-  upstream1: https://github.com/kliment/Printrun/pull/639
   litreview2: http://redtwo-foss.blogspot.com/2015/04/foss-primer-review.html
+  quiz2: http://redtwo-foss.blogspot.com/2015/05/gfoss-quiz-2.html
+  meetup1: http://redtwo-foss.blogspot.com/2015/05/2015-fram-chair-in-applied-critical.html
