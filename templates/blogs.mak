@@ -48,15 +48,20 @@
 <div class="row">
   %for student in student_data:
     <div class="col-sm-4">
-      <div class="student shadowcard padded" data-student=${student['irc']} data-feed=${student['participant_page']}>
-        <div>
-          <img class="uglymug pull-left" src="${gravatar(student, 'rit_dce', '@rit.edu')}" alt="${student['irc']}'s Avatar" />
-          <h4 class="item"><a href="${student['participant_page']}">${student['irc']}</a></h4>
+      <div class="student panel panel-info" data-student=${student['irc']} data-feed=${student['participant_page']}>
+        <a href="${student['participant_page']}">
+          <div class="panel-heading withripple">
+          <h4 class="item panel-title">${student['irc']}</h4>
+          </div>
+        </a>
+        <div class="panel-body">
+          <a class="avatar-link" href="${student['participant_page']}">
+            <img class="uglymug pull-left" src="${gravatar(student, 'rit_dce', '@rit.edu')}" alt="${student['irc']}'s Avatar" />
+          </a>
           <div class="item blog clearfix">
             <a target="_blank" href="${student['blog']}">Blog</a>
             <span class="label" id=${student['irc']}></span>
           </div>
-        </div>
         <ul class="cardlist list-unstyled">
           % for forge_link in student['forges']:
             <li><a target="_blank" href="${forge_link}">${forge_link}</a></li>
@@ -83,6 +88,7 @@
           % endif-->
         </ul>
         <!--<p><a class="btn" href="#">View details &raquo;</a></p>-->
+        </div>
       </div>
     </div><!--/span-->
     %if (loop.index + 1) % 3 == 0:
