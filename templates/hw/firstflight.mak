@@ -200,8 +200,16 @@ forge.
 <div class="alert alert-success">
 <h3 class="label label-success">Tasks:</h3>
     <ol>
-        <li>Create a <code><a target="_blank" href="http://github.com">Github</a></code> account if you don’t already have one.</li>
+        <li>Create a <a target="_blank" href="http://github.com">Github</a> account if you don’t already have one.</li>
     </ol>
+</div>
+<div>
+    <h2>Upload an Avatar</h2>
+    <p>This is optional (but appreciated). Humans identify with faces more than they do nicknames (surprise!), so go ahead and associate an avatar that'll automatically show up in GitHub, the course web site, and other places around the web.</p>
+    <h3>Gravatar</h3>
+    <p>Gravatar is now owned by Automattic, who also make WordPress. Go to their <a href="https://en.gravatar.com/">site</a> and create a WordPress account (or use one you have already) and make sure your RIT email is in there.</p>
+    <h3>Libravatar</h3>
+    <p><a href="https://www.libravatar.org/">Libravatar</a> is a free equivalent to Gravatar and has the advantage of not requiring a WordPress.com account. Head over to their <a href="https://www.libravatar.org/account/new/">New Account</a> page and link up your email address with a picture.</p>
 </div>
 <div>
     <h2>Patch the Course Project</h2>
@@ -211,16 +219,9 @@ forge.
     <div class="alert alert-success">
         <h3 class="label label-success">Tasks:</h3>
         <ul>
-            <li>Load up the git cheatsheet at <a
-                href="http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html"><em>Zack
-            Rusin's blog</em></a> and keep it nearby.</li>
-            <li>Work through this <a
-                href="http://gitimmersion.com/index.html">git tutorial</a> if
-            you don’t have any experience with git.</li>
-            <li>Fork <a href="${course['repo']}">the
-                repository</a> (link to <a
-            href="http://help.github.com/fork-a-repo/">github help</a> on
-        this).</li>
+            <li>Load up the git cheatsheet at <a href="http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html"><em>Zack Rusin's blog</em></a> and keep it nearby.</li>
+            <li>Work through this <a href="http://gitimmersion.com/index.html">git tutorial</a> if you don’t have any experience with git.</li>
+            <li>Fork <a href="${course['repo']}">the repository</a> (link to <a href="http://help.github.com/fork-a-repo/">github help</a> on this).</li>
             <li>Clone a local copy.</li>
             <li>Add a file in the <code>/scripts/people/$YEAR/$TERM</code> folder titled <code>$YOUR_IRC_NICK.yaml</code>. Perhaps obviously, it is
             a <a href="http://www.yaml.org/">YAML</a> file. You can use the <code>rjbpop.yaml</code> file as an example. You will want to make sure
