@@ -12,6 +12,19 @@ body {
     padding-bottom: 40px;
 }
 
+a {
+    color: #303f9f;
+}
+
+a:hover {
+    color: #3f51b5;
+}
+
+body .well, .container .well, .container-fluid .well, body .jumbotron, .container .jumbotron, .container-fluid .jumbotron, body .well-default, .container .well-default, .container-fluid .well-default, body .jumbotron-default, .container .jumbotron-default, .container-fluid .jumbotron-default {
+    box-shadow: none;
+    background-color: none;
+}
+
 body, div, p {
     font-family: 'Liberation Sans', Arial, sans-serif;
 }
@@ -28,6 +41,17 @@ h1,h2,h3,h4,h5,h6, .jumbotron p {
 
 .headerlink {
     padding-top: 50px;
+}
+
+.navbar .navbar-toggle .icon-bar {
+    color: white;
+}
+
+@media(max-width:1200px){
+    .navbar .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 
 /* Don't overlap affix below md size*/
@@ -56,10 +80,34 @@ h1,h2,h3,h4,h5,h6, .jumbotron p {
     text-align: center;
 }
 
+.panel-info .panel-heading {
+    background-color: #3F51B5;
+}
+
 /* create new stacking context 1 above the auto level */
 .raise {
   position: relative;
   z-index: 1;
+}
+
+.panel-info .panel-heading {
+    color: #3F51B5;
+}
+
+.panel-title {
+    color: #FFF;
+    padding: 5px 0;
+}
+
+.panel-info a:hover {
+    text-decoration: none;
+}
+
+.avatar-link {
+    border-radius: 100%;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.23), 0px 10px 30px rgba(0, 0, 0, 0.19);
+    height: 70px;
+    width: 70px;
 }
 
 /* showblogs-specific */
@@ -67,6 +115,12 @@ h1,h2,h3,h4,h5,h6, .jumbotron p {
     border-radius: 64px;
     -webkit-border-radius: 64px;
     -moz-border-radius: 64px;
+    height: 70px;
+}
+
+.forge-list {
+    padding-left: 0;
+    list-style: none;
 }
 
 .blog {
@@ -105,4 +159,8 @@ h1,h2,h3,h4,h5,h6, .jumbotron p {
 
 .vaycay {
     background: darkgrey;
+}
+
+.label-warning {
+  background: #ffc722;
 }
