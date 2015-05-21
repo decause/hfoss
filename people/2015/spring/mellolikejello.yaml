@@ -7,6 +7,9 @@ irc: mellolikejello
 name: Melody Kelly
 twitter: mellolikejello
 rit_dce: mgk1068
+#meetupN
+#hackathonN
+#upstreamN
 conference1: https://mellolikejello.wordpress.com/2015/02/15/wecode-conference-day-1/
 conference2: https://mellolikejello.wordpress.com/2015/02/17/wecode-conference-day-2/
 conference3: https://mellolikejello.wordpress.com/2015/03/10/game-developers-conference/
@@ -27,7 +30,6 @@ hw:
   curriculum: https://mellolikejello.wordpress.com/2015/03/18/curriculum/
   teamprop2: https://mellolikejello.wordpress.com/2015/03/20/anglegators-team-proposal/
   projteam: ["amm4108", "RedTwo"]
-  #vidreview1:
-  #vidreview2:
   litreview2: https://mellolikejello.wordpress.com/2015/04/27/lit-review-2-foss-primer/
-  #meetup1:
+  finalrepo: https://github.com/amm4108/AngleGators
+  finalpreso: https://github.com/amm4108/AngleGatorsPreso
