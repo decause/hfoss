@@ -109,7 +109,7 @@ for link in html:
         "JoLaks": [],
         "amm4108": [],
         "RedTwo": [],
-        "Kaffys  ": [],
+        "Kaffys": [],
     }
 
     date = link.getText().split('.')[1]
