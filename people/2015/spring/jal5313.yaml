@@ -6,6 +6,10 @@ forges:
   - http://github.com/jal5313
 irc: JoLaks
 rit_dce: jal5313
+hackathon1: https://jalfoss.wordpress.com/2015/05/21/brickhack-at-rit/
+hackathon2: https://jalfoss.wordpress.com/2015/05/21/the-home-stretch-hackathon/
+upstream1: https://github.com/RBF-Automation/Web-Service/commit/0d2a4f1b542322ae35dc68d115b8ed890c256e2c
+upstream2: https://github.com/RBF-Automation/Web-Service/pull/3
 hw:
   firstflight: https://jalfoss.wordpress.com/2015/02/04/hello-world/
   litreview1: https://jalfoss.wordpress.com/2015/02/09/literature-review-what-is-open-source-and-how-does-it-work/
@@ -20,3 +24,5 @@ hw:
   projteam: https://jalfoss.wordpress.com/2015/03/20/final-hfoss-project-proposal/
   litreview2: https://jalfoss.wordpress.com/2015/04/27/literature-review-foss-legal-primer/
   quiz2: https://jalfoss.wordpress.com/2015/05/05/hfoss-quiz-2-licenses/
+  finalrepo: https://github.com/sarahbethfederman/pathman
+  finalpreso: http://sarahbethfederman.com/HFOSS/pathman/#/
