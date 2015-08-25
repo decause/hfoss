@@ -216,13 +216,14 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/quiz/quiz1">TOSW Quiz</a>
+                    TOSW Quiz
+                <!--a target="_blank" href="/quiz/quiz1">TOSW Quiz</a -->
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/quiz/quiz1">TOSW Quiz</a>
+                <!-- a target="_blank" href="/quiz/quiz1">TOSW Quiz</a -->
                 </p>
             </td>
 
@@ -245,7 +246,8 @@
 
             <td>
             </td>
-        </tr><tr>
+        </tr>
+        <tr>
             <td class="sessionnumber">2</td>
             <td>09/17</td>
             <td>
@@ -270,6 +272,33 @@
                 </p>
             </td>
         </tr>
+
+        <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>09/19</td>
+            <td>
+                <p class="topic ">
+                    Software Freedom Day
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.softwarefreedomday.org/">Software Freedom Day</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+
 
         <tr>
             <td rowspan="2">5</td>
@@ -392,7 +421,7 @@
             <td>10/13</td>
             <td>
                 <p class="topic ">
-                Commarch Presentations
+                (Shift everything a half-week, Monday schedule due to Columbus Day.)Commarch Presentations
                 </p>
             </td>
 
@@ -490,7 +519,7 @@
         <tr>
             <td rowspan="2">11</td>
             <td class="sessionnumber">1</td>
-            <td>10/31</td>
+            <td>11/03</td>
             <td>
                 <p class="topic hackathon">
                 TBD
@@ -507,7 +536,7 @@
             <td>11/05</td>
             <td>
                 <p class="topic">
-                Guest Lecture from RyanSB
+                TBD 
                 </p>
             </td>
 
@@ -520,7 +549,7 @@
         <tr>
             <td rowspan="2">12</td>
             <td class="sessionnumber">1</td>
-            <td>11/07</td>
+            <td>11/10</td>
             <td>
                 <p class="topic special">
                 IRC Class
@@ -532,18 +561,16 @@
 
             <td>
             </td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>***</td>
+        </tr><tr>
+            <td class="sessionnumber">2</td>
             <td>11/12</td>
             <td>
-                <p class="topic hackathon">
-                Conference: <a target="_blank" href="http://brickhacks.io/">RIT Brickhacks.io</a>
+                <p class="topic">
+                TBD
                 </p>
             </td>
 
-            <td>Conference: <a target="_blank" href="http://brickhacks.io/">RIT Brickhacks.io</a>
+            <td>
             </td>
 
             <td>
@@ -552,49 +579,53 @@
         <tr>
             <td rowspan="2">13</td>
             <td class="sessionnumber">1</td>
-            <td>11/14</td>
+            <td>11/17</td>
             <td>
-                <p class="topic cancelled">
-                Class CANCELLED
-                <br>
-                TUESDAY 4/21 ROCpy (carpool in parking lot 6:15pm)
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">ROCpy on Meetup.com</a>
+                <p class="topic special">
+                IRC Class
                 </p>
             </td>
 
             <td>
             </td>
 
+            <td>
+            </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
             <td>11/19</td>
             <td>
-                <p class="topic guest">
-                No class.  Thanksgiving.
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                    Lit Review 2: Chapter 0, 1, and 2 of <a href="https://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">foss-primer</a>
+                <p class="topic">
+                TBD
                 </p>
             </td>
 
             <td>
             </td>
 
+            <td>
+            </td>
         </tr>
         <tr>
-            <td rowspan="2">15</td>
+            <td rowspan="2">14</td>
             <td class="sessionnumber">1</td>
+            <td>11/24</td>
+            <td>
+                <p class="topic special">
+                IRC Class
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">2</td>
             <td>11/26</td>
             <td>
-                <p class="topic ">
+                <p class="topic">
                 No class. Thanksgiving.
                 </p>
             </td>
@@ -604,43 +635,38 @@
 
             <td>
             </td>
-
         </tr>
         <tr>
-            <td rowspan="2">16</td>
-            <td class="sessionnumber">1</td>
-            <td>12/01</td>
-            <td>
-                <p class="topic special">
-                Playtesting Session ???
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="2">17</td>
+            <td rowspan="2">15</td>
             <td class="sessionnumber">1</td>
             <td>12/03</td>
             <td>
                 <p class="topic special">
-                Return XO's &amp; Final Presentations (w/ Pizza)
+                TBD
                 </p>
             </td>
 
             <td>
-                <p class="topic ">
-                <a target="_blank" href="/hw/final">Final Presentation Details</a>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">2</td>
+            <td>12/10</td>
+            <td>
+                <p class="topic">
+                Last class
                 </p>
+            </td>
+
+            <td>
             </td>
 
             <td>
             </td>
         </tr>
+
         </tbody>
     </table>
 </div>
