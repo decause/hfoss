@@ -6,10 +6,10 @@ course:
     end: 2015-12-10
     blog_start: 2015-09-08
     blog_end: 2015-12-20
-    times: Mon & Wed 5:00PM - 6:15PM
-    course: 4085.582.01
-    location: Orange Hall (ORN)-1375
-    final: 5/20, 5:00PM-7:00pm, ORN-1375
+    times: Tue & Thu 6:30PM - 7:45PM
+    course: IGME58201.2151
+    location: Orange Hall (ORN)-1380
+    final: TBD, 6:30PM-7:45pm, ORN-1380
     repo: http://github.com/ritjoe/hfoss
     public_url: http://hfoss-ritigm.rhcloud.com
 
@@ -21,8 +21,8 @@ instructor:
     openhub: None
     twitter: deej0e
     office:
-        location: The MAGIC Center - SIH 1680
-        hours: Monday, Wednesday, 4:00-5:00pm
+        location: 70-2500
+        hours: Tuesday, Thursday, 5:55-6:25pm
     links:
         blog: None
         linkedin: None
@@ -30,7 +30,7 @@ instructor:
         opensource: None
 
 assistant:
-    name: Mike Nolan (Nolski)
-    email: me@michael-nolan.com
-    irc: Nolski
+    name: Matt Soucy (msoucy)
+    email: msoucy@csh.rit.edu
+    irc: msoucy
 
