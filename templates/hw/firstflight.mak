@@ -52,7 +52,7 @@ href="http://freenode.net/faq.shtml#userregistration">register yourself with
 the NickServ</a>.</li>
         <li>Connect to <code>#rit-foss</code> on <code>irc.freenode.net</code> and introduce yourself.
           <ul>
-            <li>The instructor’s nick is <code>decause</code>.</li>
+            <li>The instructor’s nick is <code>dzho</code>.</li>
           </ul>
         </li>
     </ul>
