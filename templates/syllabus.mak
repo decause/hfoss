@@ -424,7 +424,7 @@
 
             <td>
                 <p class="topic ">
-                   <a target="_blank" href="http://localhackday.mlh.io">Local Hack Day/a>
+                   <a target="_blank" href="http://localhackday.mlh.io">Local Hack Day</a>
                 </p>
                 <p class="topic ">
 
