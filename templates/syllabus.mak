@@ -272,7 +272,6 @@
                 </p>
             </td>
         </tr>
-
         <tr>
             <td></td>
             <!--td rowspan="2">***</td-->
@@ -298,8 +297,6 @@
                 </p>
             </td>
         </tr>
-
-
         <tr>
             <td rowspan="2">5</td>
             <td class="sessionnumber">1</td>
@@ -413,8 +410,33 @@
                 Commarch Presentations Due
                 </p>
             </td>
-
         </tr>
+        <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>10/10</td>
+            <td>
+                <p class="topic ">
+                    Local Hack Day (MAGIC Center 9am-9pm)
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://localhackday.mlh.io">Local Hack Day/a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+
         <tr>
             <td rowspan="2">8</td>
             <td class="sessionnumber">1</td>
