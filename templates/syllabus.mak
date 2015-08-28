@@ -38,7 +38,7 @@
         <li><b>Blog Planet</b> - <a class="" href="http://foss.rit.edu/planet">http://foss.rit.edu/planet</a></li>
       </ul>
         The source for this syllabus can be found at
-        <a href="http://github.com/decause/hfoss">http://github.com/decause/hfoss</a>
+        <a href="http://github.com/ritjoe/hfoss">http://github.com/ritjoe/hfoss</a>
 
     </div>
   </blockquote>
@@ -75,7 +75,7 @@
   course is intended to be both <cite>open</cite> and <cite>fun</cite>.</p>
   <p>An <cite>open</cite> course &#8211; students will have access to the &#8216;document source&#8217; for the
   syllabus. While you are reading <cite>the syllabus</cite> right now,
-  as a student of the class you have a right to <a class="" href="http://github.com/decause/hfoss">fork the upstream repository</a>, make modifications, and submit patches for review. Barring a troll festival, this can create a fun,
+  as a student of the class you have a right to <a class="" href="http://github.com/ritjoe/hfoss">fork the upstream repository</a>, make modifications, and submit patches for review. Barring a troll festival, this can create a fun,
   dynamic environment in which the course curriculum can develop by the very same
   mechanism being taught during the semester (community-driven).</p>
 </div>
