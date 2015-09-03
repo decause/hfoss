@@ -166,7 +166,7 @@
             <td>09/03</td>
             <td>
                 <p class="topic ">
-                Writing for HFOSS - litreviews and blog posts
+                IP and Licensing; Writing for HFOSS - litreviews and blog posts
                 </p>
             </td>
 
