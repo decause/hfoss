@@ -1,0 +1,58 @@
+
+The Success of Open Source
+Steven Weber
+ISBN 9780674018587
+Harvard University Press
+
+Free as in Freedom: Richard Stallman's Crusade for Free Software
+Sam Williams
+March 2002 
+0-596-00287-4
+http://www.oreilly.com/openbook/freedom/
+
+Free as in Freedom (2.0): Richard Stallman and the Free Software Revolution
+Sam Williams
+Second edition revisions by Richard M. Stallma
+https://static.fsf.org/nosvn/faif-2.0.pdf
+
+Open Sources: Voices from the Open Source Revolution
+Chris DiBona, Sam Ockman, Mark Stone, editors
+1st Edition January 1999
+1-56592-582-3
+http://www.oreilly.com/openbook/opensources/book/
+
+Fear of Forking essay
+ftp://linuxmafia.com/faq/Licensing_and_Law/forking.html
+
+Nick Moffitt's $7 History of Unix
+http://zork.net/seven-dollars/unix.html
+
+Open Source Bibliography
+http://opensource.org/links
+
+The Hacker Ethic: A Radical Approach to the Philosophy of Business
+Pekka Himanen
+
+Rebel Code: Linux And The Open Source Revolution
+Glyn Moody
+
+The open source way
+http://opensource.com/open-source-way
+
+The Meme Hustler: Tim O'Reilly's crazy talk
+Evgeny Morozov
+The Baffler, No. 22, 2013
+http://thebaffler.com/salvos/the-meme-hustler
+
+Hackers: Heroes of the Computer Revolution
+Steven Levy 1984,2010
+
+The Debian Free Software Guidelines (DFSG)
+https://www.debian.org/social_contract#guidelines
+
+How To Ask Questions The Smart Way
+http://www.catb.org/esr/faqs/smart-questions.html
+
+SHOTGUN RULES FOR BAD MEETINGS
+http://bad.debian.net/shotgun_rules.txt
+
