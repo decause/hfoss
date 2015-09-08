@@ -104,3 +104,6 @@ GFDL
 Think Python (for Python 3.0)
 http://faculty.stedwards.edu/mikek/python/thinkpython.pdf
 
+The Ethics of Unpaid Labor and the OSS Community
+http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
+
