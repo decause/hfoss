@@ -30,19 +30,23 @@ Practices component of your final grade.
     <ul class="first last simple">
         <li>Download and install an IRC client on your development machine.
           <ul>
-          	<li>Windows:
-          	  <ul>
+            <li>Windows:
+              <ul>
                 <li><a class="reference external" href="http://www.mirc.com/">mIRC</a></li>
                 <li><a class="reference external" href="http://hexchat.github.io/">HexChat</a></li>
                 <li><a class="reference external" href="http://www.hydrairc.com/">HydraIRC</a></li>
               </ul>
             </li>
-            <li>Mac OS X: <a class="reference external" href="http://colloquy.info/">Colloquy</a></li>
+            <li>Mac OS X:
+              <ul>
+                <li><a class="reference external" href="http://colloquy.info/">Colloquy</a></li>
+              </ul>
+            </li>
             <li>Linux:
               <ul>
+                <li><a class="reference external" href="https://weechat.org/">weechat</a> (Command-line)</li>
                 <li><a class="reference external" href="http://irssi.org/">irssi</a> (Command-line)</li>
                 <li><a class="reference external" href="http://hexchat.github.io/">HexChat</a></li>
-                <li><a class="reference external" href="http://xchat.org/">XChat</a> (Older version of HexChat)</li>
               </ul>
             </li>
           </ul>
@@ -52,7 +56,7 @@ href="http://freenode.net/faq.shtml#userregistration">register yourself with
 the NickServ</a>.</li>
         <li>Connect to <code>#rit-foss</code> on <code>irc.freenode.net</code> and introduce yourself.
           <ul>
-            <li>The instructor’s nick is <code>decause</code>.</li>
+            <li>The instructor’s nick is <code>dzho</code>.</li>
           </ul>
         </li>
     </ul>

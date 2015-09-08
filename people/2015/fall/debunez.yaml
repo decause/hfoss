@@ -1,0 +1,10 @@
+#hfoss
+name: debunez
+blog: http://mattguerrette.wordpress.com
+feed: https://mattguerrette.wordpress.com/feed/
+forges:
+  - http://github.com/MattGuerrette
+irc: debunez
+rit_dce: mpg7287
+hw:
+  firstflight: http://mattguerrette.wordpress.com
