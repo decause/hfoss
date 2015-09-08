@@ -54,6 +54,7 @@ How To Ask Questions The Smart Way
 http://www.catb.org/esr/faqs/smart-questions.html
 
 SHOTGUN RULES FOR BAD MEETINGS
+http://bad.debian.net/
 http://bad.debian.net/shotgun_rules.txt
 
 The Bayh Dole Act
@@ -102,3 +103,4 @@ GFDL
 
 Think Python (for Python 3.0)
 http://faculty.stedwards.edu/mikek/python/thinkpython.pdf
+
