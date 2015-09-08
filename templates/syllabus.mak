@@ -35,10 +35,10 @@
         <li><b>Teaching Assistant</b> - ${assistant['name']} &lt;<a class="" href="mailto:${assistant['email']}">${assistant['email']}</a>&gt;</li>
         % endif
         <li><b>IRC</b> - irc.freenode.net, <span class="docutils literal" style="font-family: monospace;"><span class="pre">#rit-foss</span></span></li>
-        <li><b>Blog Planet</b> - <a class="" href="http://foss.rit.edu/planet">http://foss.rit.edu/planet</a></li>
+        <!-- li><b>Blog Planet</b> - <a class="" href="http://foss.rit.edu/planet">http://foss.rit.edu/planet</a></li -->
       </ul>
         The source for this syllabus can be found at
-        <a href="http://github.com/decause/hfoss">http://github.com/decause/hfoss</a>
+        <a href="http://github.com/ritjoe/hfoss">http://github.com/ritjoe/hfoss</a>
 
     </div>
   </blockquote>
@@ -75,7 +75,7 @@
   course is intended to be both <cite>open</cite> and <cite>fun</cite>.</p>
   <p>An <cite>open</cite> course &#8211; students will have access to the &#8216;document source&#8217; for the
   syllabus. While you are reading <cite>the syllabus</cite> right now,
-  as a student of the class you have a right to <a class="" href="http://github.com/decause/hfoss">fork the upstream repository</a>, make modifications, and submit patches for review. Barring a troll festival, this can create a fun,
+  as a student of the class you have a right to <a class="" href="http://github.com/ritjoe/hfoss">fork the upstream repository</a>, make modifications, and submit patches for review. Barring a troll festival, this can create a fun,
   dynamic environment in which the course curriculum can develop by the very same
   mechanism being taught during the semester (community-driven).</p>
 </div>
@@ -151,7 +151,7 @@
             <td>09/01</td>
             <td>
                 <p class="topic ">
-                Formal Introduction to Git and Github
+                <a href="static/decks/g-b4-gh-txt.odp">Formal Introduction to Git and Github</a>
                 </p>
             </td>
 
@@ -166,7 +166,7 @@
             <td>09/03</td>
             <td>
                 <p class="topic ">
-                Writing for HFOSS - litreviews and blog posts
+                IP and Licensing; Writing for HFOSS - litreviews and blog posts
                 </p>
             </td>
 
@@ -424,7 +424,7 @@
 
             <td>
                 <p class="topic ">
-                   <a target="_blank" href="http://localhackday.mlh.io">Local Hack Day/a>
+                   <a target="_blank" href="http://localhackday.mlh.io">Local Hack Day</a>
                 </p>
                 <p class="topic ">
 
