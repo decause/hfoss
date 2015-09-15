@@ -210,13 +210,14 @@
             <td>09/10</td>
             <td>
                 <p class="topic ">
-                5 Pillars of Opensource.com
+                5 Pillars of Opensource.com, $7 Unix history, In the Beginning..., Ethics of Unpaid Labor
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                    TOSW Quiz
+                    <!-- TOSW Quiz -->
+                <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 <!--a target="_blank" href="/quiz/quiz1">TOSW Quiz</a -->
                 </p>
             </td>
@@ -240,11 +241,11 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
+                <!-- a target="_blank" href="/hw/bugfix">Homework - Bugfix</a -->
                 </p>
             </td>
-
             <td>
+                <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
             </td>
         </tr>
         <tr>
