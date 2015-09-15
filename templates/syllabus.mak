@@ -253,7 +253,7 @@
             <td>09/17</td>
             <td>
                 <p class="topic ">
-                    IRC Class
+                    Quiz
                 <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail. -->
                 </p>
             </td>
