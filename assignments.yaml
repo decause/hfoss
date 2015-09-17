@@ -4,13 +4,13 @@
 hw:
   - firstflight
   - litreview1
-  - quiz1
   - litreview2
-  - quiz2
+  - quiz1
     #- meetup1
     #- meetup2
     #- meetup3
   - bugfix
+  - quiz2
   - smoketest
   - teamprop1
   - commarchreport
