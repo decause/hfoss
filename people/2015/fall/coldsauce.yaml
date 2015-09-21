@@ -1,7 +1,7 @@
 #hfoss
 name: coldsauce
-blog: lambdacoldsauce.wordpress.com
-feed: lambdacoldsauce.wordpress.com/?feed=rss2
+blog: http://lambdacoldsauce.wordpress.com
+feed: http://lambdacoldsauce.wordpress.com/?feed=rss2
 forges:
     - https://github.com/coldsauce
 irc: coldsauce
