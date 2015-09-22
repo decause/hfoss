@@ -302,7 +302,7 @@
             <td>09/22</td>
             <td>
                 <p class="topic">
-                COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
+                Quiz comments; COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                 </p>
             </td>
 
@@ -341,7 +341,7 @@
             <td>09/29</td>
             <td>
                 <p class="topic ">
-                TBD
+                Commarch clean-up; TBD
                 </p>
             </td>
 
