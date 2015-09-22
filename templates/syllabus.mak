@@ -333,9 +333,6 @@
                 <p class="topic ">
                 <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
-                <p class="topic ">
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
-                </p>
             </td>
         </tr>
         <tr>
@@ -344,7 +341,7 @@
             <td>09/29</td>
             <td>
                 <p class="topic ">
-                Commarch reports
+                TBD
                 </p>
             </td>
 
@@ -357,7 +354,7 @@
             </td>
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
             </td>
 
@@ -366,8 +363,8 @@
             <td class="sessionnumber">2</td>
             <td>10/01</td>
             <td>
-                <p class="topic cancelled">
-                TBD
+                <p class="">
+                Commarch reports
                 </p>
             </td>
 
@@ -375,6 +372,9 @@
             </td>
 
             <td>
+                <p class="topic ">
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                </p>
                 <p class="topic ">
                 </p>
             </td>
@@ -385,15 +385,15 @@
             <td class="sessionnumber">1</td>
             <td>10/06</td>
             <td>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-                <p class="topic ">
-                    
+                <p class="special">
+                  Interlock Rochester    
                 </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
@@ -484,8 +484,8 @@
             <td class="sessionnumber">1</td>
             <td>10/20</td>
             <td>
-                <p class="topic cancelled">
-                TBD
+                <p class="special">
+                RocPy
                 </p>
             </td>
 
@@ -499,8 +499,8 @@
             <td class="sessionnumber">2</td>
             <td>10/22</td>
             <td>
-                <p class="topic cancelled">
-                (NOT Spring Break!)
+                <p class="">
+                TBD
                 </p>
             </td>
 
@@ -548,8 +548,11 @@
             <td class="sessionnumber">1</td>
             <td>11/03</td>
             <td>
-                <p class="topic hackathon">
-                TBD
+                <p class="special">
+                  Interlock Rochester
+                </p>
+                <p class="hackathon">
+                  Election Night    
                 </p>
             </td>
 
@@ -609,7 +612,7 @@
             <td>11/17</td>
             <td>
                 <p class="topic special">
-                IRC Class
+                RocPy
                 </p>
             </td>
 
@@ -666,9 +669,39 @@
         <tr>
             <td rowspan="2">15</td>
             <td class="sessionnumber">1</td>
-            <td>12/03</td>
+            <td>12/01</td>
             <td>
                 <p class="topic special">
+                  Interlock Rochester
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">2</td>
+            <td>12/03</td>
+            <td>
+                <p class="topic">
+                  TBD
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">16</td>
+            <td class="sessionnumber">1</td>
+            <td>12/08</td>
+            <td>
+                <p class="special">
                 TBD
                 </p>
             </td>
