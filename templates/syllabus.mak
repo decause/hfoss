@@ -253,17 +253,15 @@
             <td>09/17</td>
             <td>
                 <p class="topic ">
-                    Quiz
-                <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail. -->
+                    Quiz OLPC Distribution &amp; Smoke testing
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                Commarch Team Formation
                 </p>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
 
@@ -304,13 +302,16 @@
             <td>09/22</td>
             <td>
                 <p class="topic">
-                OLPC Distribution &amp; Smoke testing
+                COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+                <p class="topic ">
+                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
 
@@ -321,7 +322,7 @@
             <td>09/24</td>
             <td>
                 <p class="topic">
-                Smoke Testing Results
+                    COMMARCH: Reporting and analysis using GBAB et al
                 </p>
             </td>
 
@@ -331,7 +332,9 @@
             <td>
                 <p class="topic ">
                 <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
-                <p>Commarch Team Formation</p>
+                </p>
+                <p class="topic ">
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
             </td>
         </tr>
@@ -341,20 +344,21 @@
             <td>09/29</td>
             <td>
                 <p class="topic ">
-                Commarch Intro
+                Commarch reports
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
 
+                <p class="topic ">
+                </p>
+            </td>
+            <td>
                 <p class="topic ">
                     <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
-            </td>
-            <td>
             </td>
 
 
@@ -363,7 +367,7 @@
             <td>10/01</td>
             <td>
                 <p class="topic cancelled">
-                Class CANCELLED
+                TBD
                 </p>
             </td>
 
@@ -388,7 +392,7 @@
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                    
                 </p>
             </td>
         </tr><tr>
@@ -408,7 +412,7 @@
 
             <td>
                 <p class="topic">
-                Commarch Presentations Due
+                
                 </p>
             </td>
         </tr>
@@ -443,8 +447,8 @@
             <td class="sessionnumber">1</td>
             <td>10/13</td>
             <td>
-                <p class="topic ">
-                (Shift everything a half-week, Monday schedule due to Columbus Day.)Commarch Presentations
+                <p class="topic cancelled">
+                  NO CLASS (Monday schedule)
                 </p>
             </td>
 
