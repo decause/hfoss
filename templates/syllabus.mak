@@ -637,6 +637,32 @@
             </td>
         </tr>
         <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>11/21</td>
+            <td>
+                <p class="hackathon">
+                    Rochester Mini-Maker Faire
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://makerfairerochester.com">Rochester Mini Maker Faire</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+
+        <tr>
             <td rowspan="2">14</td>
             <td class="sessionnumber">1</td>
             <td>11/24</td>
