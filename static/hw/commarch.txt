@@ -15,11 +15,12 @@ to contribute to for your term project (highly recommended!)
 0.  Choose your team. We'll be doing this in class, and teams must be approved
     by your instructor.
 
-1.  Choose a FOSS Project. You can use Ohloh.net and OpenHatch.org collect
-    general information on Free/Open Source projects (including games!). Select
-    one active software project about which to write. Have an alternative handy
-    if you find that you cannot get much information about your first choice.
-    Project choices must be approved by your instructor.
+1.  Choose a FOSS Project. You can use distribution package databases or
+    OpenHatch.org collect general information on Free/Open Source
+    projects (including games!).  Select one active software project
+    about which to write.  Have an alternative handy if you find that
+    you cannot get much information about your first choice.  Project
+    choices must be approved by your instructor.
 
 2.  Follow the instructions included in the "Git By A Bus" repository on Github
     to generate a report on your selected project, available here:
