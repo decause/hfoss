@@ -1,6 +1,7 @@
-Humanitarian Open Source Software 
-Fall 2013 – Professor decause
-Original Design Professor David Shein
+Humanitarian Free and Open Source Software 
+Fall 2015 – D. Joe Anderson
+Original Design – Professor David Shein
+Refinements – Remy DeCausemaker
 
 “Commarch” -- Community Architecture
 
@@ -25,7 +26,7 @@ to contribute to for your term project (highly recommended!)
     https://github.com/tomheon/git_by_a_bus
 
 3.  Calculate your project's "Callaway Coefficient of Fail" using the rubric available here:
-    http://hfoss-fossrit.rhcloud.com/static/books/tomspotcallaway-howtotellifyourfossprojectisdoomedtofail.pdf
+    http://hfoss-ritigm.rhcloud.com/static/books/tomspotcallaway-howtotellifyourfossprojectisdoomedtofail.pdf
 
 4.  Dig deeper. Provide answers to the following questions:
 

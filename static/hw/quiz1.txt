@@ -1,0 +1,62 @@
+Humanitarian Free and Open Source Software
+
+Fall 2015, Quiz #1
+
+1) What is the name of the version control system we use in this course?
+
+
+
+Bonus: Give the name for another version control system.
+
+
+
+2) We refer to sites that host source code as "forges".  What is the name of
+the primary forge used in this course?
+
+
+
+3) Rearrange the items in the column on the right, as necessary, so that they
+best match the names of key figures in the column on the left. 
+
+For example:
+
+A) Randall Munroe                    a) Saturday Morning Breakfast Cereal
+B) Zach Weiner                       b) XKCD
+C) Walt Disney                       c) Mickey Mouse
+
+becomes
+
+A) Randall Munroe                    b) XKCD
+B) Zach Weiner                       a) Saturday Morning Breakfast Cereal
+C) Walt Disney                       c) Mickey Mouse
+
+So, rearrange these to make the best matches:
+
+A) Andrew Tannenbaum                 a) Debian Free Software Guidelines
+B) Linus Torvalds                    b) Free Software Foundation/Gnu Project
+C) Richard Stallman                  c) Perl  
+D) Brian Behlendorf                  d) Linux 
+E) Larry Wall                        e) Minix 
+F) Bruce Perens                      f) Apache
+
+
+
+4) We discussed 5 concepts that are often lumped together under the term
+"intellectual property".  Name 2 of them, and describe at least one way in
+which the ones you've chosen differ from one another.
+
+
+
+5) I've presented "the four R's" as a shorthand for the freedoms attached to
+software for it to be considered "free and open source".  List or describe
+each.  (If you cannot remember the "r term" I use, but can describe the
+freedom involved, that also counts.)
+
+1.
+  
+2.
+  
+3.
+  
+4.
+
