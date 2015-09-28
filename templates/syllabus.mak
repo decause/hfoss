@@ -253,17 +253,15 @@
             <td>09/17</td>
             <td>
                 <p class="topic ">
-                    Quiz
-                <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail. -->
+                    Quiz OLPC Distribution &amp; Smoke testing
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                Commarch Team Formation
                 </p>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
 
@@ -304,13 +302,16 @@
             <td>09/22</td>
             <td>
                 <p class="topic">
-                OLPC Distribution &amp; Smoke testing
+                Quiz comments; COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+                <p class="topic ">
+                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
 
@@ -321,7 +322,7 @@
             <td>09/24</td>
             <td>
                 <p class="topic">
-                Smoke Testing Results
+                    COMMARCH: Reporting and analysis using GBAB et al
                 </p>
             </td>
 
@@ -331,7 +332,6 @@
             <td>
                 <p class="topic ">
                 <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
-                <p>Commarch Team Formation</p>
                 </p>
             </td>
         </tr>
@@ -341,20 +341,21 @@
             <td>09/29</td>
             <td>
                 <p class="topic ">
-                Commarch Intro
+                Commarch clean-up; TBD
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
 
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
             <td>
+                <p class="topic ">
+                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
             </td>
 
 
@@ -362,8 +363,8 @@
             <td class="sessionnumber">2</td>
             <td>10/01</td>
             <td>
-                <p class="topic cancelled">
-                Class CANCELLED
+                <p class="">
+                Commarch reports
                 </p>
             </td>
 
@@ -371,6 +372,9 @@
             </td>
 
             <td>
+                <p class="topic ">
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                </p>
                 <p class="topic ">
                 </p>
             </td>
@@ -381,15 +385,15 @@
             <td class="sessionnumber">1</td>
             <td>10/06</td>
             <td>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-                <p class="topic ">
-                    <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                <p class="special">
+                  Interlock Rochester    
                 </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
@@ -408,7 +412,7 @@
 
             <td>
                 <p class="topic">
-                Commarch Presentations Due
+                
                 </p>
             </td>
         </tr>
@@ -443,8 +447,8 @@
             <td class="sessionnumber">1</td>
             <td>10/13</td>
             <td>
-                <p class="topic ">
-                (Shift everything a half-week, Monday schedule due to Columbus Day.)Commarch Presentations
+                <p class="topic cancelled">
+                  NO CLASS (Monday schedule)
                 </p>
             </td>
 
@@ -480,8 +484,8 @@
             <td class="sessionnumber">1</td>
             <td>10/20</td>
             <td>
-                <p class="topic cancelled">
-                TBD
+                <p class="special">
+                RocPy
                 </p>
             </td>
 
@@ -495,8 +499,8 @@
             <td class="sessionnumber">2</td>
             <td>10/22</td>
             <td>
-                <p class="topic cancelled">
-                (NOT Spring Break!)
+                <p class="">
+                TBD
                 </p>
             </td>
 
@@ -544,8 +548,11 @@
             <td class="sessionnumber">1</td>
             <td>11/03</td>
             <td>
-                <p class="topic hackathon">
-                TBD
+                <p class="special">
+                  Interlock Rochester
+                </p>
+                <p class="hackathon">
+                  Election Night    
                 </p>
             </td>
 
@@ -605,7 +612,7 @@
             <td>11/17</td>
             <td>
                 <p class="topic special">
-                IRC Class
+                RocPy
                 </p>
             </td>
 
@@ -629,6 +636,32 @@
             <td>
             </td>
         </tr>
+        <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>11/21</td>
+            <td>
+                <p class="hackathon">
+                    Rochester Mini-Maker Faire
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://makerfairerochester.com">Rochester Mini Maker Faire</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+
         <tr>
             <td rowspan="2">14</td>
             <td class="sessionnumber">1</td>
@@ -662,9 +695,39 @@
         <tr>
             <td rowspan="2">15</td>
             <td class="sessionnumber">1</td>
-            <td>12/03</td>
+            <td>12/01</td>
             <td>
                 <p class="topic special">
+                  Interlock Rochester
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">2</td>
+            <td>12/03</td>
+            <td>
+                <p class="topic">
+                  TBD
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">16</td>
+            <td class="sessionnumber">1</td>
+            <td>12/08</td>
+            <td>
+                <p class="special">
                 TBD
                 </p>
             </td>

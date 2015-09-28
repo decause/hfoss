@@ -1,6 +1,7 @@
-Humanitarian Open Source Software 
-Fall 2013 – Professor decause
-Original Design Professor David Shein
+Humanitarian Free and Open Source Software 
+Fall 2015 – D. Joe Anderson
+Original Design – Professor David Shein
+Refinements – Remy DeCausemaker
 
 “Commarch” -- Community Architecture
 
@@ -14,18 +15,19 @@ to contribute to for your term project (highly recommended!)
 0.  Choose your team. We'll be doing this in class, and teams must be approved
     by your instructor.
 
-1.  Choose a FOSS Project. You can use Ohloh.net and OpenHatch.org collect
-    general information on Free/Open Source projects (including games!). Select
-    one active software project about which to write. Have an alternative handy
-    if you find that you cannot get much information about your first choice.
-    Project choices must be approved by your instructor.
+1.  Choose a FOSS Project. You can use distribution package databases or
+    OpenHatch.org collect general information on Free/Open Source
+    projects (including games!).  Select one active software project
+    about which to write.  Have an alternative handy if you find that
+    you cannot get much information about your first choice.  Project
+    choices must be approved by your instructor.
 
 2.  Follow the instructions included in the "Git By A Bus" repository on Github
     to generate a report on your selected project, available here:
     https://github.com/tomheon/git_by_a_bus
 
 3.  Calculate your project's "Callaway Coefficient of Fail" using the rubric available here:
-    http://hfoss-fossrit.rhcloud.com/static/books/tomspotcallaway-howtotellifyourfossprojectisdoomedtofail.pdf
+    http://hfoss-ritigm.rhcloud.com/static/books/tomspotcallaway-howtotellifyourfossprojectisdoomedtofail.pdf
 
 4.  Dig deeper. Provide answers to the following questions:
 
