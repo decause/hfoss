@@ -12,7 +12,7 @@ hw:
   - bugfix
   # - quiz2
   - smoketest
-  # - teamprop1
+  - teamprop1
   # - commarchreport
   # - commarchpreso
   # - teamprop2
