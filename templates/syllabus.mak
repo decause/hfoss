@@ -364,7 +364,6 @@
             <td>10/01</td>
             <td>
                 <p class="">
-                Commarch reports
                 </p>
             </td>
 
@@ -373,7 +372,6 @@
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
                 <p class="topic ">
                 </p>
@@ -394,13 +392,14 @@
             </td>
 
             <td>
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
             <td>10/08</td>
             <td>
                 <p class="topic guest">
-                EDU: Curriculum Exploration.
+                Commarch reports
                 </p>
             </td>
 
@@ -465,7 +464,8 @@
             <td>10/15</td>
             <td>
                 <p class="topic ">
-                EDU: Curriculum Discussion
+                	EDU: Curriculum Exploration.
+                <!-- EDU: Curriculum Discussion -->
                 </p>
             </td>
 
