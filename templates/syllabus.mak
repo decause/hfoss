@@ -595,6 +595,31 @@
 
         </tr>
         <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>10/29-30</td>
+            <td>
+                <p class="topic ">
+                    <a href="http://fsoss.senecac.on.ca/2015/about/overview">Free Software & Open Source Symposium, Seneca@York, Toronto</a>
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+        <tr>
             <td rowspan="2">11</td>
             <td class="sessionnumber">1</td>
             <td>11/03</td>
