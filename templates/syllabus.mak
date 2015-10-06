@@ -381,6 +381,32 @@
 
         </tr>
         <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>10/03</td>
+            <td>
+                <p class="topic ">
+                    <a href="https://www.fsf.org/fsf30/celebration">FSF 30</a>
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+
+        <tr>
             <td rowspan="2">7</td>
             <td class="sessionnumber">1</td>
             <td>10/06</td>
@@ -478,6 +504,31 @@
                 </p>
             </td>
 
+        </tr>
+        <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>10/17</td>
+            <td>
+                <p class="topic ">
+                    Linux Workshop
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
         </tr>
         <tr>
             <td rowspan="2">9</td>
