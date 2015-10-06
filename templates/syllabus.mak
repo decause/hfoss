@@ -512,7 +512,7 @@
             <td>10/17</td>
             <td>
                 <p class="topic ">
-                    Linux Workshop
+                    <a href="http://www.interlock.org/contact">Linux Workshop at Interlock</a> or <a href="http://cposc.org/">CPOSC</a>
                 </p>
             </td>
 
