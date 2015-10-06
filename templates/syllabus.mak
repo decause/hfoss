@@ -415,10 +415,9 @@
                   Interlock Rochester    
                 </p>
             </td>
-
             <td>
+               Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a> 
             </td>
-
             <td>
             </td>
         </tr><tr>
