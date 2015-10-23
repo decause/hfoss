@@ -364,7 +364,6 @@
             <td>10/01</td>
             <td>
                 <p class="">
-                Commarch reports
                 </p>
             </td>
 
@@ -373,7 +372,6 @@
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
                 <p class="topic ">
                 </p>
@@ -419,13 +417,14 @@
                Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a> 
             </td>
             <td>
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
             <td>10/08</td>
             <td>
                 <p class="topic guest">
-                EDU: Curriculum Exploration.
+                Commarch reports
                 </p>
             </td>
 
@@ -490,7 +489,8 @@
             <td>10/15</td>
             <td>
                 <p class="topic ">
-                EDU: Curriculum Discussion
+                	EDU: Curriculum Exploration.
+                <!-- EDU: Curriculum Discussion -->
                 </p>
             </td>
 
