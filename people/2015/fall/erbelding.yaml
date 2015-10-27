@@ -1,7 +1,7 @@
 #hfoss
 name: erbelding
 blog: http://fossgame.blogspot.com/
-feed: http://fossgame.blogspot.com/feeds/comments/default?alt=rss
+feed: http://fossgame.blogspot.com/feeds/posts/default?alt=rss
 forges:
   - https://github.com/Erbelding
 irc: erbelding
