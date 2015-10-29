@@ -584,16 +584,41 @@
             <td>10/29</td>
             <td>
                 <p class="topic ">
-                TBD
+                  Quiz 2
                 </p>
             </td>
 
             <td>
+               Team Proposal 2
             </td>
 
             <td>
             </td>
 
+        </tr>
+        <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>10/30</td>
+            <td>
+                <p class="topic ">
+                    <a href="http://ritlug.github.io">RITLUG - Filesystems</a>
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+
+                </p>
+                <p class="topic ">
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -611,7 +636,6 @@
 
                 </p>
                 <p class="topic ">
-
                 </p>
             </td>
 
@@ -651,6 +675,7 @@
             </td>
 
             <td>
+              Team Proposal 2
             </td>
         </tr>
         <tr>
@@ -789,7 +814,6 @@
             <td>12/03</td>
             <td>
                 <p class="topic">
-                  TBD
                 </p>
             </td>
 
@@ -797,6 +821,7 @@
             </td>
 
             <td>
+              Projects completed 
             </td>
         </tr>
         <tr>
@@ -805,7 +830,7 @@
             <td>12/08</td>
             <td>
                 <p class="special">
-                TBD
+                Final presentations - tentative
                 </p>
             </td>
 
@@ -819,7 +844,7 @@
             <td>12/10</td>
             <td>
                 <p class="topic">
-                Last class
+                Final presentations
                 </p>
             </td>
 
