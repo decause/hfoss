@@ -555,6 +555,7 @@
             </td>
 
             <td>
+                 Team formation
             </td>
 
             <td>
@@ -567,7 +568,7 @@
             <td>10/27</td>
             <td>
                 <p class="topic ">
-                TBD
+                Creative Commons & Free Culture
                 </p>
             </td>
 
@@ -575,6 +576,7 @@
             </td>
 
             <td>
+                 Team formation
             </td>
 
         </tr><tr>
