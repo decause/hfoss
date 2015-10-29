@@ -16,8 +16,8 @@ hw:
   - commarchreport
   - commarchpreso
   # - projteam
-  # - teamprop2
+  - teamprop2
   # - curriculum
     #- vidreview1
     #- vidreview2
-  # - finalrepo
+  - finalrepo
