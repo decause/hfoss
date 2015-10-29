@@ -10,12 +10,12 @@ hw:
   - meetup2
   - meetup3
   - bugfix
-  # - quiz2
   - smoketest
   - teamprop1
   - commarchreport
   - commarchpreso
   # - projteam
+  - quiz2
   - teamprop2
   # - curriculum
     #- vidreview1
