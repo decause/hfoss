@@ -76,7 +76,7 @@ to the description of that license element below (1 pt for each match).
     6.2) SA ___
   </li>
   <li>
-    6.3) NC ___
+    6.3) ND ___
   </li>
   <li>
     6.4) BY ___
