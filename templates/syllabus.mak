@@ -770,7 +770,7 @@
             <td>11/24</td>
             <td>
                 <p class="topic special">
-                IRC Class
+                TBD
                 </p>
             </td>
 
@@ -830,7 +830,7 @@
             <td>12/08</td>
             <td>
                 <p class="special">
-                Final presentations - tentative
+			TBD
                 </p>
             </td>
 
@@ -853,6 +853,36 @@
 
             <td>
             </td>
+        </tr>
+        <tr>
+            <td rowspan="2">16</td>
+            <td class="sessionnumber">1</td>
+            <td>12/15</td>
+            <td>
+                <p class="special">
+                EXAM SLOT Final presentations
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <!--td class="sessionnumber">2</td>
+            <td>12/10</td>
+            <td>
+                <p class="topic">
+                Final presentations
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td -->
         </tr>
 
         </tbody>
