@@ -924,7 +924,7 @@
     <tr><td>Literature Reviews</td>
       <td class="center padded"><span class="label label-warning">10%</span></td>
     </tr>
-    <tr><td>Team Peer Assessment</td>
+    <tr><td>Team Peer Assessments</td>
       <td class="center padded"><span class="label label-info">15%</span></td>
     </tr>
     <tr><td>Completed Project</td>
