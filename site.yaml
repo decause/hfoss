@@ -2,11 +2,11 @@ course:
     name: HFOSS
     desc: The RIT Humanitarian Free/Open Source Software Development Course
     place: RIT
-    start: 2015-08-25
-    end: 2016-12-15
-    blog_start: 2015-09-17
-    blog_end: 2015-12-13
-    times: Tue & Thu 6:30PM - 7:45PM
+    start: 2016-01-25
+    end: 2016-05-13
+    blog_start: 2015-02-07
+    blog_end: 2015-05-08
+    times: Mon,Wed,Fri 9:00AM - 9:50AM
     course: IGME58201.2151
     location: Orange Hall (ORN)-1380
     final: TBD, 6:30PM-7:45pm, ORN-1380
@@ -17,12 +17,12 @@ instructor:
     name: D. Joe Anderson
     email: deejoe@mail.rit.edu
     irc: dzho
-    avatar: None
+    avatar: https://pbs.twimg.com/profile_images/105005326/r-pentonimo.png
     openhub: None
     twitter: deej0e
     office:
         location: 70-2500
-        hours: Tuesday, Thursday, 5:45-6:15pm
+        hours: Thursday 4:00-5:00pm
     links:
         blog: None
         linkedin: None
@@ -30,7 +30,6 @@ instructor:
         opensource: None
 
 assistant:
-    name: Matt Soucy (msoucy)
-    email: msoucy@csh.rit.edu
-    irc: msoucy
-
+    name: Mike Nolan (Nolski)
+    email: me@michael-nolan.com
+    irc: Nolski
