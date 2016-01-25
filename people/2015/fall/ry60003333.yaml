@@ -1,7 +1,7 @@
 #hfoss
 name: ry60003333
 blog: https://www.allgofree.org/blog/
-feed: https://www.allgofree.org/blog/?feed=rss2
+feed: http://ryan.allgofree.org/blog/?feed=rss2
 forges:
   - https://github.com/ry60003333/
 irc: ry60003333
@@ -21,3 +21,5 @@ hw:
   quiz2: https://www.allgofree.org/blog/?p=91
   teamprop2: https://www.allgofree.org/blog/?p=98
   finalrepo: https://github.com/ry60003333/grapes-of-math/
+  meetup3: https://www.allgofree.org/blog/?p=103
+  finalpreso: http://hfoss-ritigm.rhcloud.com/static/decks/TheGrapesofMathPreso.pdf
