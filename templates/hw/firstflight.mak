@@ -40,6 +40,7 @@ Practices component of your final grade.
             <li>Mac OS X:
               <ul>
                 <li><a class="reference external" href="http://colloquy.info/">Colloquy</a></li>
+                <li><a class="reference external" href="http://limechat.net/mac/">LimeChat</a></li>
               </ul>
             </li>
             <li>Linux:
