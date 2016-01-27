@@ -1,7 +1,7 @@
 hfoss
 ==========
 
-[![test status](https://api.travis-ci.org/decause/hfoss.svg)](https://travis-ci.org/decause/hfoss)
+[![test status](https://api.travis-ci.org/decause/hfoss.svg)](https://travis-ci.org/ritjoe/hfoss)
 
 This is the content repository for the <a target="_blank"
 href="http://rit.edu">RIT</a> <a target="_blank"
@@ -41,7 +41,7 @@ If you don't have virtualenv installed yet, try::
 If you're using a distro like Fedora or Ubuntu, you should try this instead::
 
  Fedora:
- <code>$ sudo yum install python-virtualenv</code>
+ <code>$ sudo dnf install python-virtualenv</code>
 
  Ubuntu/Debian:
  <code>$ sudo apt-get install python-virtualenv</code>

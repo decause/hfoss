@@ -951,7 +951,7 @@
             <td>04/09</td>
             <td>
                 <p class="hackathon ">
-                        <a href="https://brickhack.io/">BrickHack</a>  
+                        <a href="http://hackupstate.com/">Hack Upstate</a>  
                 </p>
             </td>
 
