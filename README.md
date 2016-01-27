@@ -20,7 +20,7 @@ INSTALLATION
 ============
 
 Start by forking the repository on Github. Point your browser to
-http://github.com/decause/hfoss and then click the "Fork" button in the
+http://github.com/ritjoe/hfoss and then click the "Fork" button in the
 top right corner of the page.
 
 Setting up your environment
