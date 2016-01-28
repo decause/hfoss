@@ -6,6 +6,6 @@ major: Game Design and Development 2016
 irc: axelofthekey
 rit_dce: amd3031
 forges:
-  GitHub: https://github.com/Axel-of-the-Key
-  BitBucket: https://bitbucket.org/axelofthekey
+  - https://github.com/Axel-of-the-Key
+  - https://bitbucket.org/axelofthekey
 bio: Game Developer. Rochester-born and raised. Very small humanoid.
