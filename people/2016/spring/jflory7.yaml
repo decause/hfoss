@@ -1,11 +1,15 @@
+#hfoss
 name: Justin W. Flory
+avatar: jwf9260@rit.edu
 blog: https://blog.justinwflory.com
 feed: https://blog.justinwflory.com/tag/hfoss/feed/
 email: jflory7@gmail.com
 major: Networking & Systems Administration 2019
 irc: jflory7
-rit_dce: None
+rit_dce: jwf9260
 forges:
-   GitHub: https://github.com/jflory7
-   BitBucket: https://bitbucket.org/jflory7
+  - https://github.com/jflory7
+  - https://bitbucket.org/jflory7
 bio: FOSS forever. Fedora contributor, RIT Class of 2019, RITlug member.
+hw:
+  firstflight: https://blog.justinwflory.com/404 #coming soon
