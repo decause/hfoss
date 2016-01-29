@@ -154,7 +154,7 @@
             <td>01/29</td>
             <td>
                 <p class="topic ">
-                        <a href="static/decks/g-b4-gh-txt.odp">Formal Introductions</a> to <a href="http://rsb.io/talks/git/">Git</a> and <a href="http://try.github.com/">Github</a>
+			It's All Text
                 </p>
             </td>
 
@@ -173,7 +173,7 @@
             <td>02/01</td>
             <td>
                 <p class="topic ">
-                <a href="/static/books/rhetological_fallacies.png">Writing</a> for <a href="/static/hw/litreview.txt">HFOSS</a>
+                        <a href="static/decks/g-b4-gh-txt.odp">Formal Introductions</a> to <a href="http://rsb.io/talks/git/">Git</a> and <a href="http://try.github.com/">Github</a>
                 </p>
             </td>
 
@@ -233,7 +233,6 @@
 
             <td>
                 <p class="topic ">
-                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
                 </p>
             </td>
 
@@ -243,7 +242,7 @@
             <td>02/05</td>
             <td>
                 <p class="topic ">
-                <a href="">Rights, Restrictions, and Licensing; </a>litreview Discussion: What is Open Source?
+                <a href="/static/books/rhetological_fallacies.png">Writing</a> for <a href="/static/hw/litreview.txt">HFOSS</a>
 
                 </p>
             </td>
@@ -255,7 +254,7 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
                 </p>
             </td>
 
@@ -267,7 +266,7 @@
             <td>02/08</td>
             <td>
                 <p class="topic ">
-                        Intro to OLPC, Sugar, Python
+                <a href="">Rights, Restrictions, and Licensing; </a>litreview Discussion: What is Open Source?
                 </p>
             </td>
 
@@ -276,6 +275,7 @@
 
             <td>
                 <p class="topic ">
+                <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
                 </p>
             </td>
 
@@ -285,7 +285,7 @@
             <td>02/10</td>
             <td>
                 <p class="topic ">
-                ITBWTCL by Stephenson, Fear of Forking, $7 Unix history
+                        Intro to OLPC, Sugar, Python
                 </p>
             </td>
 
@@ -306,6 +306,7 @@
             <td>02/12</td>
             <td>
                 <p class="topic ">
+                ITBWTCL by Stephenson, Fear of Forking, $7 Unix history
                 </p>
             </td>
 
