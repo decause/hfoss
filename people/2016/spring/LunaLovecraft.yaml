@@ -7,5 +7,5 @@ major: Game Design and Development
 irc: LunaLovecraft
 rit_dce: am9813
 forges:
-  GitHub: https://github.com/LunaLovecraft
+  - https://github.com/LunaLovecraft
 bio: Obsessed with procedural generation.
