@@ -9,3 +9,5 @@ forges:
   - https://github.com/redxdev
   - https://bitbucket.org/redxdev
 bio: Game Dev, love working on wildly disparate projects. I usually OSS my stuff under MIT or BSD.
+hw:
+  firstflight: http://redxdev.com/2016/01/hfoss-first-flight/
