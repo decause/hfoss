@@ -10,3 +10,5 @@ forges:
  - https://github.com/benkantor
  - https://bitbucket.org/benkantor
 bio: Automate everything. Ukuleles.
+hw:
+  firstflight: http://benkantor.github.io/hfoss-blog//blog/2016/01/29/first-flight.html
