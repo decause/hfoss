@@ -3,7 +3,8 @@ blog: https://blog.nolski.rocks
 email: me@michael-nolan.com
 major: New Media Interactive Dev 2016
 irc: nolski
+rit_dce: mpn3712
 forges:
-  GitHub: https://github.com/nolski
+  - https://github.com/nolski
 bio: Truth seeking cyber missile. JS/Python hacker. Opinionated freedom fighter
     and life long learner.

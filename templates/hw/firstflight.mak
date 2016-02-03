@@ -119,7 +119,7 @@ here’s a link to <code><a target="_blank" href="http://planet.python.org">Plan
 <p>
 The Planet for the course <em>may</em> be hosted at some point in the future at
 <code><a target="_blank"
-        href="http://yacht.rit.edu/planet">http://yacht.rit.edu/planet</a></code>.
+        href="http://people.rit.edu/djaigm/planet/hfoss">http://people.rit.edu/djaigm/planet/hfoss</a></code>.
 </p>
 
 
@@ -137,9 +137,7 @@ and/or all of the above.
         Create a blog if you don’t already have one. There are lots of free
         services available. You might try <code><a target="_blank" href="http://wordpress.com">http://wordpress.com</a></code> or
         <code><a target="_blank"
-                href="http://blogspot.com">http://blogspot.com</a></code>, or
-        even <code><a target="_blank"
-        href="http://foss.rit.edu">http://foss.rit.edu</a></code>.
+                href="http://blogspot.com">http://blogspot.com</a></code>. 
         </li>
         <li>Write an introductory post, detailing the process you went through
         to complete the <em>FirstFlight</em> assignment.</li>
