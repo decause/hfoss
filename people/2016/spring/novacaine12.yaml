@@ -6,5 +6,7 @@ major: Game Design and Development 2016
 irc: novacaine12
 rit_dce: aml9227
 forges:
-  GitHub: https://github.com/alanleeson
+  - https://github.com/alanleeson
 bio: Online game developer who wishes to create educational games.
+hw:
+  firstflight: https://alanleeson.wordpress.com/2016/02/02/hfoss-first-flight/
