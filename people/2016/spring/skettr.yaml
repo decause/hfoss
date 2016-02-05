@@ -6,7 +6,7 @@ major: Game Design & Development, 2016
 irc: skettr
 rit_dce: txs2038
 forges:
-  GitHub: https://github.com/Sanguinary
+  - https://github.com/Sanguinary
 bio: Outdoors, Games, Adventure. New stuff is the best stuff
 hw:
   firstflight: https://blog.sargent.io/2016/02/03/first-flight
