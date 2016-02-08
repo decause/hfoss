@@ -100,7 +100,7 @@ have an existing mailing list where messages of these sort are to be posted.
 
 <p>
 For this course, we use 
-<a href="https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar">
+<a href="https://lists.rit.edu/mailman/listinfo.mmcgi/floss-seminar">
 floss-seminar</a>.  Please subscribe, as part of this exercise.
 </p>
 
