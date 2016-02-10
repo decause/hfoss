@@ -38,7 +38,7 @@
         <!-- li><b>Blog Planet</b> - <a class="" href="http://foss.rit.edu/planet">http://foss.rit.edu/planet</a></li -->
       </ul>
         The source for this syllabus can be found at
-        <a href="http://github.com/ritjoe/hfoss">http://github.com/ritjoe/hfoss</a>
+        <a href="http://github.com/ritjoe/hfoss">https://github.com/ritjoe/hfoss</a>
 
     </div>
   </blockquote>
@@ -1296,7 +1296,9 @@
 <p>Students are <em>required</em> to keep a blog to which they post updates
   about their investigations, progress, success, and pitfalls. This blog can be
   hosted anywhere, but must be added to the course <a href="/checkblogs">participant page</a> (there are instructions on how to do this
-  in <a class="" href="/hw/firstflight"><em>Homework - First Flight</em></a>).</p>
+  in <a class="" href="/hw/firstflight"><em>Homework - First Flight</em></a>). All blog posts are syndicated to the
+  <a href="https://people.rit.edu/djaigm/planet/hfoss/" target="_blank">HFOSS Planet</a>, a blog aggregator that shows all students'
+  posts on a rolling basis.</p>
   <blockquote>
       <li>You must make at least one blog post per week to receive full credit.
       This is in addition to any assignments that are posted to your blog for
