@@ -1,6 +1,6 @@
 name: Tyler W. Sargent
 blog: https://blog.sargent.io
-feed: https://blog.sargent.io/rss
+feed: https://blog.sargent.io/tag/hfoss/
 email: contact@sargent.io
 major: Game Design & Development, 2016
 irc: skettr
@@ -10,3 +10,4 @@ forges:
 bio: Outdoors, Games, Adventure. New stuff is the best stuff
 hw:
   firstflight: https://blog.sargent.io/2016/02/03/first-flight
+  litreview1: https://blog.sargent.io/2016/02/07/books-rapture-of-the-nerds/
