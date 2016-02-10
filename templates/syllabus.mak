@@ -38,7 +38,7 @@
         <!-- li><b>Blog Planet</b> - <a class="" href="http://foss.rit.edu/planet">http://foss.rit.edu/planet</a></li -->
       </ul>
         The source for this syllabus can be found at
-        <a href="http://github.com/ritjoe/hfoss">https://github.com/ritjoe/hfoss</a>
+        <a href="https://github.com/ritjoe/hfoss">https://github.com/ritjoe/hfoss</a>
 
     </div>
   </blockquote>
