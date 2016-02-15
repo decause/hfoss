@@ -266,7 +266,10 @@
             <td>02/08</td>
             <td>
                 <p class="topic ">
-                <a href="">Rights, Restrictions, and Licensing; </a>litreview Discussion: What is Open Source?
+                    <a href="">Rights, Restrictions, and Licensing: GNU/FSF</a>
+                </p>
+                <p class="topic ">
+		    litreview Discussion: What is Open Source?
                 </p>
             </td>
 
@@ -285,13 +288,12 @@
             <td>02/10</td>
             <td>
                 <p class="topic ">
-                        Intro to OLPC, Sugar, Python
+		    litreview Discussion: What is Open Source?
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 </p>
             </td>
 
@@ -306,12 +308,15 @@
             <td>02/12</td>
             <td>
                 <p class="topic ">
-                ITBWTCL by Stephenson, Fear of Forking, $7 Unix history
+                    <a href="">Rights, Restrictions, and Licensing: Open Source</a>
                 </p>
             </td>
-
             <td>
                 <p class="topic ">
+                    <a href="/static/books/unix.html">$7 Unix history</a>
+                </p>
+                <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 </p>
             </td>
 
@@ -327,13 +332,19 @@
             <td>02/15</td>
             <td>
                 <p class="topic ">
-                    Quiz; OLPC Distribution &amp; Smoke testing
+                    OLPC Distribution &amp; Smoke testing
+                </p>
+                <p class="topic ">
+                    <a target="_blank" href="http://wiki.laptop.org/go/Testing">Tests</a>
+                </p>
+                <p class="topic ">
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test">Smoke Tests</a>
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
             <td>
@@ -366,10 +377,11 @@
             <td>02/17</td>
             <td>
                 <p class="topic ">
-                        Quiz comments
+                        <!-- Quiz comments -->
                 </p>
                 <p class="special ">
-                        Work session: Bugfix & Smoke Test
+                        <!-- Work session: Bugfix & Smoke Test -->
+                        Intro to OLPC, Sugar, Python
                 </p>
             </td>
 
@@ -382,7 +394,6 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -403,6 +414,7 @@
 
             <td>
                 <p class="topic ">
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
         </tr>
@@ -434,7 +446,6 @@
             <td>02/22</td>
             <td>
                 <p class="topic">
-                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                 </p>
             </td>
 
@@ -448,6 +459,9 @@
             </td>
 
             <td>
+                <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
+                </p>
             </td>
         </tr>
         <tr>
@@ -455,6 +469,7 @@
             <td>02/24</td>
             <td>
                 <p class="topic">
+                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                     COMMARCH: Reporting and analysis using GBAB et al
                 </p>
             </td>
