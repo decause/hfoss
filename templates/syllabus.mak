@@ -124,7 +124,7 @@
                         <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
                 </p>
                 <p class="topic ">
-                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a> 
+                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
                 </p>
             </td>
 
@@ -414,7 +414,6 @@
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
         </tr>
@@ -425,7 +424,7 @@
             <td>02/20</td>
             <td>
                 <p class="special ">
-                        <a href="http://www.interlockroc.org/">Linux Workshop @ Interlock</a>  
+                        <a href="http://www.interlockroc.org/">Linux Workshop @ Interlock</a>
                 </p>
             </td>
 
@@ -435,7 +434,7 @@
             </td>
             <td>
                 <p class="special">
-                        <a href="http://www.interlockroc.org/">Linux Workshop @ Interlock</a>  
+                        <a href="http://www.interlockroc.org/">Linux Workshop @ Interlock</a>
                 </p>
             </td>
         </tr>
@@ -595,7 +594,7 @@
             <td>03/05</td>
             <td>
                 <p class="hackathon ">
-                        <a href="https://brickhack.io/">BrickHack</a>  
+                        <a href="https://brickhack.io/">BrickHack</a>
                 </p>
             </td>
 
@@ -605,7 +604,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>  
+                        <a href="https://brickhack.io/">BrickHack</a>
                 </p>
             </td>
         </tr>
@@ -640,7 +639,7 @@
 
             <td>
                 <p class="topic">
-                
+
                 </p>
             </td>
         </tr>
@@ -660,7 +659,7 @@
 
             <td>
                 <p class="topic">
-                
+
                 </p>
             </td>
         </tr>
@@ -879,7 +878,7 @@
             </td>
 
             <td>
-               
+
             </td>
 
             <td>
@@ -932,7 +931,7 @@
             <td>04/06</td>
             <td>
                 <p class="topic">
-                TBD 
+                TBD
                 </p>
             </td>
 
@@ -948,7 +947,7 @@
             <td>04/08</td>
             <td>
                 <p class="topic">
-                TBD 
+                TBD
                 </p>
             </td>
 
@@ -967,7 +966,7 @@
             <td>04/09</td>
             <td>
                 <p class="hackathon ">
-                        <a href="http://hackupstate.com/">Hack Upstate</a>  
+                        <a href="http://hackupstate.com/">Hack Upstate</a>
                 </p>
             </td>
 
@@ -977,7 +976,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="http://hackupstate.com/">Hack Upstate, Syracuse</a>  
+                        <a href="http://hackupstate.com/">Hack Upstate, Syracuse</a>
                 </p>
             </td>
         </tr>
@@ -1182,7 +1181,7 @@
             </td>
 
             <td>
-              Projects completed 
+              Projects completed
             </td>
         </tr>
         <tr>
@@ -1351,7 +1350,7 @@
   <h2>Bug Fix - Extra Credit</h2>
   <p>You can earn extra credit by successfully fixing a bug in a FOSS project.</p>
   <p>You will receive +1 extra credit points towards your final grade for every
-  pull request accepted by an independently-maintained project against a pre-existing bug (eg, fixing new bugs you found, or even generated don't count!).</p> 
+  pull request accepted by an independently-maintained project against a pre-existing bug (eg, fixing new bugs you found, or even generated don't count!).</p>
   <p>Send an <a href="email:deejoe@mail.rit.edu">email to the instructor</a> with sufficient detail to confirm your bug fix was accepted.</p></div>
 
 <%def name='topic_block(section)'>
