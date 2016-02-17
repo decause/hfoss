@@ -6,11 +6,11 @@ hw:
   - litreview1
 #  - litreview2
 #  - quiz1
-#  - meetup1
+  - meetup1
 #  - meetup2
 #  - meetup3
-#  - bugfix
-#  - smoketest
+  - bugfix
+  - smoketest
 #  - teamprop1
 #  - commarchreport
 #  - commarchpreso
