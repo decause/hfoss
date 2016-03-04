@@ -1,5 +1,5 @@
 Humanitarian Free and Open Source Software 
-Fall 2015 – D. Joe Anderson
+Spring 2016 – D. Joe Anderson
 Original Design – Professor David Shein
 Refinements – Remy DeCausemaker
 
@@ -7,7 +7,7 @@ Refinements – Remy DeCausemaker
 
 Open Source Community Characterization Assignment
 
-Working in groups of two or three (formed during class), you are going to look
+Working in groups of three or four (formed during class), you are going to look
 at FOSS community/project and deduce how that community is organized. You may
 also use some of these techniques to assess pre-existing FOSS projects you wish
 to contribute to for your term project (highly recommended!)
