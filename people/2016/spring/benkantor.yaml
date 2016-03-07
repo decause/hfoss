@@ -1,0 +1,19 @@
+name: Ben Kantor
+avatar: bdk3079@rit.edu
+blog: http://benkantor.github.io/hfoss-blog
+feed: http://benkantor.github.io/hfoss-blog/feed
+email: bdk3079@rit.edu
+major: Software Engineering
+irc: benkantor
+rit_dce: bdk3079
+forges:
+ - https://github.com/benkantor
+ - https://bitbucket.org/benkantor
+bio: Automate everything. Ukuleles.
+hw:
+  firstflight: http://benkantor.github.io/hfoss-blog//blog/2016/01/29/first-flight.html
+  smoketest: http://benkantor.github.io/hfoss-blog//homework/blog/2016/02/19/smoketest.html
+  bugfix: http://benkantor.github.io/hfoss-blog//homework/blog/2016/02/21/bugfix.html
+  quiz1: http://benkantor.github.io/hfoss-blog//quiz/blog/2016/03/04/quiz1.html
+  meetup1: http://benkantor.github.io/hfoss-blog//meetup/blog/2016/03/06/brickhack.html
+  teamprop1: http://benkantor.github.io/hfoss-blog//blog/homework/2016/03/06/commarch-team-prop.html
