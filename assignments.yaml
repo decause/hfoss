@@ -10,10 +10,10 @@ hw:
   - bugfix
   - smoketest
   - teamprop1
-#  - commarchreport
-#  - commarchpreso
+  - commarchreport
+  - commarchpreso
   - quiz1
-#  # - projteam
+#   - teamprop2
   - meetup2
 #  - quiz2
 #  - teamprop2
