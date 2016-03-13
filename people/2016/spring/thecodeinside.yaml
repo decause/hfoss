@@ -8,6 +8,7 @@ irc: TheCodeInside
 rit_dce: ras7150
 forges:
   - https://github.com/TheCodeInside
+  - https://bitbucket.org/TheCodeInside
 bio: Game player. Music listener. C++ and graphics programming are my life.
 hw:
   firstflight: http://richard.ismakinggames.com/2016/01/hfoss-first-flight/
