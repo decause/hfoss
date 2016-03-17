@@ -627,6 +627,10 @@
             <td>03/09</td>
             <td>
                 <p class="topic ">
+			SJ: Playtesting, FOSS minor, FOSS@MAGIC.
+                </p>
+                <p class="topic ">
+			Work on commarch
                 </p>
             </td>
 
@@ -656,7 +660,6 @@
 
             <td>
                 <p class="topic">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
         </tr>
@@ -678,6 +681,7 @@
             </td>
 
             <td>
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
 
         </tr>
@@ -706,6 +710,9 @@
             <td class="sessionnumber">2</td>
             <td>03/16</td>
             <td>
+                <p class="topic ">
+                        Commarch reports
+                </p>
                 <p class="topic ">
                         EDU: Curriculum Exploration.
                 </p>
