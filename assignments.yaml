@@ -5,16 +5,16 @@ hw:
   - firstflight
   - litreview1
 #  - litreview2
-#  - quiz1
-#  - meetup1
-#  - meetup2
-#  - meetup3
-#  - bugfix
-#  - smoketest
-#  - teamprop1
-#  - commarchreport
-#  - commarchpreso
-#  # - projteam
+  - meetup1
+  - bugfix
+  - smoketest
+  - teamprop1
+  - commarchreport
+  - commarchpreso
+  - quiz1
+#   - teamprop2
+  - meetup2
+  - meetup3
 #  - quiz2
 #  - teamprop2
 #  # - curriculum
