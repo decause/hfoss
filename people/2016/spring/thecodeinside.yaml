@@ -8,7 +8,14 @@ irc: TheCodeInside
 rit_dce: ras7150
 forges:
   - https://github.com/TheCodeInside
+  - https://bitbucket.org/TheCodeInside
 bio: Game player. Music listener. C++ and graphics programming are my life.
 hw:
   firstflight: http://richard.ismakinggames.com/2016/01/hfoss-first-flight/
   litreview1: http://richard.ismakinggames.com/2016/02/hfoss-litreview1/
+  smoketest: http://richard.ismakinggames.com/2016/02/hfoss-xo-smoke-test/
+  bugfix: http://richard.ismakinggames.com/2016/02/hfoss-bugfix/
+  quiz1: http://richard.ismakinggames.com/2016/03/hfoss-quiz-1/
+  teamprop1: http://richard.ismakinggames.com/2016/03/hfoss-team-proposal/
+  commarchreport: http://richard.ismakinggames.com/2016/03/hfoss-commarch-report/
+  commarchpreso: http://richard.ismakinggames.com/2016/03/hfoss-commarch-presentation/
