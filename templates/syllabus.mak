@@ -38,7 +38,7 @@
         <!-- li><b>Blog Planet</b> - <a class="" href="http://foss.rit.edu/planet">http://foss.rit.edu/planet</a></li -->
       </ul>
         The source for this syllabus can be found at
-        <a href="http://github.com/ritjoe/hfoss">http://github.com/ritjoe/hfoss</a>
+        <a href="https://github.com/ritjoe/hfoss">https://github.com/ritjoe/hfoss</a>
 
     </div>
   </blockquote>
@@ -124,7 +124,7 @@
                         <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
                 </p>
                 <p class="topic ">
-                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a> 
+                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
                 </p>
             </td>
 
@@ -266,7 +266,10 @@
             <td>02/08</td>
             <td>
                 <p class="topic ">
-                <a href="">Rights, Restrictions, and Licensing; </a>litreview Discussion: What is Open Source?
+                    <a href="">Rights, Restrictions, and Licensing: GNU/FSF</a>
+                </p>
+                <p class="topic ">
+		    litreview Discussion: What is Open Source?
                 </p>
             </td>
 
@@ -285,13 +288,12 @@
             <td>02/10</td>
             <td>
                 <p class="topic ">
-                        Intro to OLPC, Sugar, Python
+		    litreview Discussion: What is Open Source?
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 </p>
             </td>
 
@@ -306,12 +308,15 @@
             <td>02/12</td>
             <td>
                 <p class="topic ">
-                ITBWTCL by Stephenson, Fear of Forking, $7 Unix history
+                    <a href="">Rights, Restrictions, and Licensing: Open Source</a>
                 </p>
             </td>
-
             <td>
                 <p class="topic ">
+                    <a href="/static/books/unix.html">$7 Unix history</a>
+                </p>
+                <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 </p>
             </td>
 
@@ -327,13 +332,19 @@
             <td>02/15</td>
             <td>
                 <p class="topic ">
-                    Quiz; OLPC Distribution &amp; Smoke testing
+                    OLPC Distribution &amp; Smoke testing
+                </p>
+                <p class="topic ">
+                    <a target="_blank" href="http://wiki.laptop.org/go/Testing">Tests</a>
+                </p>
+                <p class="topic ">
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test">Smoke Tests</a>
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
             <td>
@@ -366,10 +377,11 @@
             <td>02/17</td>
             <td>
                 <p class="topic ">
-                        Quiz comments
+                        <!-- Quiz comments -->
                 </p>
                 <p class="special ">
-                        Work session: Bugfix & Smoke Test
+                        <!-- Work session: Bugfix & Smoke Test -->
+                        Intro to OLPC, Sugar, Python
                 </p>
             </td>
 
@@ -382,7 +394,6 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -413,7 +424,7 @@
             <td>02/20</td>
             <td>
                 <p class="special ">
-                        <a href="http://www.interlockroc.org/">Linux Workshop @ Interlock</a>  
+                        <a href="http://www.interlockroc.org/">Linux Workshop @ Interlock</a>
                 </p>
             </td>
 
@@ -423,7 +434,7 @@
             </td>
             <td>
                 <p class="special">
-                        <a href="http://www.interlockroc.org/">Linux Workshop @ Interlock</a>  
+                        <a href="http://www.interlockroc.org/">Linux Workshop @ Interlock</a>
                 </p>
             </td>
         </tr>
@@ -434,7 +445,6 @@
             <td>02/22</td>
             <td>
                 <p class="topic">
-                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                 </p>
             </td>
 
@@ -448,6 +458,9 @@
             </td>
 
             <td>
+                <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
+                </p>
             </td>
         </tr>
         <tr>
@@ -455,6 +468,7 @@
             <td>02/24</td>
             <td>
                 <p class="topic">
+                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                     COMMARCH: Reporting and analysis using GBAB et al
                 </p>
             </td>
@@ -464,7 +478,7 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
         </tr>
@@ -481,7 +495,6 @@
 
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
             </td>
         </tr>
@@ -538,7 +551,7 @@
             <td>03/02</td>
             <td>
                 <p class="special ">
-                        Work session: Commarch
+                        Work session: Sugar-on-a-Stick
                 </p>
             </td>
 
@@ -558,6 +571,7 @@
             <td>03/04</td>
             <td>
                 <p class="">
+                    Quiz
                 </p>
             </td>
 
@@ -566,9 +580,9 @@
 
             <td>
                 <p class="topic ">
+                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
 
@@ -580,7 +594,7 @@
             <td>03/05</td>
             <td>
                 <p class="hackathon ">
-                        <a href="https://brickhack.io/">BrickHack</a>  
+                        <a href="https://brickhack.io/">BrickHack</a>
                 </p>
             </td>
 
@@ -590,7 +604,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>  
+                        <a href="https://brickhack.io/">BrickHack</a>
                 </p>
             </td>
         </tr>
@@ -601,7 +615,6 @@
             <td>03/07</td>
             <td>
                 <p class="topic">
-                        Commarch reports
                 </p>
             </td>
             <td>
@@ -614,18 +627,21 @@
             <td>03/09</td>
             <td>
                 <p class="topic ">
+			SJ: Playtesting, FOSS minor, FOSS@MAGIC.
+                </p>
+                <p class="topic ">
+			Work on commarch
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/oer"><em>NY &amp; MA 4th Grade Curriculum</em></a>
                 </p>
             </td>
 
             <td>
                 <p class="topic">
-                
+
                 </p>
             </td>
         </tr>
@@ -639,13 +655,11 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/oer"><em>NY &amp; MA 4th Grade Curriculum</em></a>
                 </p>
             </td>
 
             <td>
                 <p class="topic">
-                
                 </p>
             </td>
         </tr>
@@ -655,16 +669,19 @@
             <td class="sessionnumber">1</td>
             <td>3/14</td>
             <td>
-                <p class="topic cancelled">
+                <p class="topic ">
+                        Commarch reports
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
+                <a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf"><em>NY </a>&amp;  <a href="/static/decks/MA-0111-grade4only.pdf">MA </a>4th Grade Curriculum</em>
                 </p>
             </td>
 
             <td>
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
 
         </tr>
@@ -694,8 +711,10 @@
             <td>03/16</td>
             <td>
                 <p class="topic ">
+                        Commarch reports
+                </p>
+                <p class="topic ">
                         EDU: Curriculum Exploration.
-                <!-- EDU: Curriculum Discussion -->
                 </p>
             </td>
 
@@ -704,7 +723,7 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/oer"><em>NY &amp; MA 4th Grade Curriculum</em></a>
+                  <a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf"><em>NY </a>&amp;  <a href="/static/decks/MA-0111-grade4only.pdf">MA </a>4th Grade Curriculum</em>
                 </p>
             </td>
 
@@ -734,7 +753,7 @@
             <td>03/19</td>
             <td>
                 <p class="special ">
-                    <a href="http://www.interlock.org/contact">Linux Workshop at Interlock</a> or <a href="http://cposc.org/">CPOSC</a>
+                    <a href="http://www.interlock.org/contact">Linux Workshop at Interlock</a>
                 </p>
             </td>
 
@@ -843,12 +862,10 @@
             <td>03/30</td>
             <td>
                 <p class="topic ">
-                  Quiz 2
                 </p>
             </td>
 
             <td>
-               Team Proposal 2
             </td>
 
             <td>
@@ -864,7 +881,7 @@
             </td>
 
             <td>
-               
+
             </td>
 
             <td>
@@ -917,15 +934,15 @@
             <td>04/06</td>
             <td>
                 <p class="topic">
-                TBD 
                 </p>
             </td>
 
             <td>
+                Quiz 2
             </td>
 
             <td>
-
+               <a href="/static/hw/teamproposal.html">Team Proposal 2</a>
             </td>
         </tr>
         <tr>
@@ -933,7 +950,7 @@
             <td>04/08</td>
             <td>
                 <p class="topic">
-                TBD 
+                TBD
                 </p>
             </td>
 
@@ -952,7 +969,7 @@
             <td>04/09</td>
             <td>
                 <p class="hackathon ">
-                        <a href="http://hackupstate.com/">Hack Upstate</a>  
+                        <a href="http://hackupstate.com/">Hack Upstate</a>
                 </p>
             </td>
 
@@ -962,7 +979,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="http://hackupstate.com/">Hack Upstate, Syracuse</a>  
+                        <a href="http://hackupstate.com/">Hack Upstate, Syracuse</a>
                 </p>
             </td>
         </tr>
@@ -1040,6 +1057,7 @@
             <td>
             </td>
         </tr>
+
         <tr>
             <td class="sessionnumber">3</td>
             <td>04/22</td>
@@ -1053,6 +1071,30 @@
             </td>
 
             <td>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>04/22</td>
+            <td>
+                <p class="special">
+                    Game demonstrations for 4th graders
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+
+                </p>
+                <p class="topic ">
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
             </td>
         </tr>
         <tr>
@@ -1167,7 +1209,7 @@
             </td>
 
             <td>
-              Projects completed 
+              Projects completed
             </td>
         </tr>
         <tr>
@@ -1296,7 +1338,9 @@
 <p>Students are <em>required</em> to keep a blog to which they post updates
   about their investigations, progress, success, and pitfalls. This blog can be
   hosted anywhere, but must be added to the course <a href="/checkblogs">participant page</a> (there are instructions on how to do this
-  in <a class="" href="/hw/firstflight"><em>Homework - First Flight</em></a>).</p>
+  in <a class="" href="/hw/firstflight"><em>Homework - First Flight</em></a>). All blog posts are syndicated to the
+  <a href="https://people.rit.edu/djaigm/planet/hfoss/" target="_blank">HFOSS Planet</a>, a blog aggregator that shows all students'
+  posts on a rolling basis.</p>
   <blockquote>
       <li>You must make at least one blog post per week to receive full credit.
       This is in addition to any assignments that are posted to your blog for
@@ -1334,7 +1378,7 @@
   <h2>Bug Fix - Extra Credit</h2>
   <p>You can earn extra credit by successfully fixing a bug in a FOSS project.</p>
   <p>You will receive +1 extra credit points towards your final grade for every
-  pull request accepted by an independently-maintained project against a pre-existing bug (eg, fixing new bugs you found, or even generated don't count!).</p> 
+  pull request accepted by an independently-maintained project against a pre-existing bug (eg, fixing new bugs you found, or even generated don't count!).</p>
   <p>Send an <a href="email:deejoe@mail.rit.edu">email to the instructor</a> with sufficient detail to confirm your bug fix was accepted.</p></div>
 
 <%def name='topic_block(section)'>
