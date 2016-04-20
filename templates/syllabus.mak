@@ -1106,6 +1106,9 @@
                 <p class="hackathon">
                         <a href="https://spaceappschallenge.org">NASA SpaceApps Challenge</a>
                 </p>
+                <p class="hackathon">
+                        <a href="https://www.bsidesroc.com/">BSidesROC 2016</a>
+                </p>
             </td>
 
             <td>
