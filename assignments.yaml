@@ -6,19 +6,18 @@ hw:
   - litreview1
 #  - litreview2
   - meetup1
-#  - meetup3
   - bugfix
   - smoketest
   - teamprop1
-#  - commarchreport
-#  - commarchpreso
+  - commarchreport
+  - commarchpreso
   - quiz1
-#  # - projteam
   - meetup2
-#  - quiz2
-#  - teamprop2
+  - meetup3
+  - quiz2
+  - teamprop2
 #  # - curriculum
 #    #- vidreview1
 #    #- vidreview2
-#  - finalrepo
-#  - finalpreso
+  - finalrepo
+  - finalpreso
