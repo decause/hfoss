@@ -495,7 +495,6 @@
 
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
             </td>
         </tr>
@@ -552,7 +551,7 @@
             <td>03/02</td>
             <td>
                 <p class="special ">
-                        Work session: Commarch
+                        Work session: Sugar-on-a-Stick
                 </p>
             </td>
 
@@ -572,6 +571,7 @@
             <td>03/04</td>
             <td>
                 <p class="">
+                    Quiz
                 </p>
             </td>
 
@@ -580,9 +580,9 @@
 
             <td>
                 <p class="topic ">
+                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
                 <p class="topic ">
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
 
@@ -615,7 +615,6 @@
             <td>03/07</td>
             <td>
                 <p class="topic">
-                        Commarch reports
                 </p>
             </td>
             <td>
@@ -628,12 +627,15 @@
             <td>03/09</td>
             <td>
                 <p class="topic ">
+			SJ: Playtesting, FOSS minor, FOSS@MAGIC.
+                </p>
+                <p class="topic ">
+			Work on commarch
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/oer"><em>NY &amp; MA 4th Grade Curriculum</em></a>
                 </p>
             </td>
 
@@ -653,13 +655,11 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/oer"><em>NY &amp; MA 4th Grade Curriculum</em></a>
                 </p>
             </td>
 
             <td>
                 <p class="topic">
-
                 </p>
             </td>
         </tr>
@@ -669,16 +669,19 @@
             <td class="sessionnumber">1</td>
             <td>3/14</td>
             <td>
-                <p class="topic cancelled">
+                <p class="topic ">
+                        Commarch reports
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
+                <a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf"><em>NY </a>&amp;  <a href="/static/decks/MA-0111-grade4only.pdf">MA </a>4th Grade Curriculum</em>
                 </p>
             </td>
 
             <td>
+                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
 
         </tr>
@@ -708,8 +711,10 @@
             <td>03/16</td>
             <td>
                 <p class="topic ">
+                        Commarch reports
+                </p>
+                <p class="topic ">
                         EDU: Curriculum Exploration.
-                <!-- EDU: Curriculum Discussion -->
                 </p>
             </td>
 
@@ -718,7 +723,7 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/oer"><em>NY &amp; MA 4th Grade Curriculum</em></a>
+                  <a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf"><em>NY </a>&amp;  <a href="/static/decks/MA-0111-grade4only.pdf">MA </a>4th Grade Curriculum</em>
                 </p>
             </td>
 
@@ -748,7 +753,7 @@
             <td>03/19</td>
             <td>
                 <p class="special ">
-                    <a href="http://www.interlock.org/contact">Linux Workshop at Interlock</a> or <a href="http://cposc.org/">CPOSC</a>
+                    <a href="http://www.interlock.org/contact">Linux Workshop at Interlock</a>
                 </p>
             </td>
 
@@ -857,12 +862,10 @@
             <td>03/30</td>
             <td>
                 <p class="topic ">
-                  Quiz 2
                 </p>
             </td>
 
             <td>
-               Team Proposal 2
             </td>
 
             <td>
@@ -931,15 +934,15 @@
             <td>04/06</td>
             <td>
                 <p class="topic">
-                TBD
                 </p>
             </td>
 
             <td>
+                Quiz 2
             </td>
 
             <td>
-
+               <a href="/static/hw/teamproposal.html">Team Proposal 2</a>
             </td>
         </tr>
         <tr>
@@ -1054,6 +1057,7 @@
             <td>
             </td>
         </tr>
+
         <tr>
             <td class="sessionnumber">3</td>
             <td>04/22</td>
@@ -1073,10 +1077,37 @@
             <td></td>
             <!--td rowspan="3">***</td-->
             <td class="sessionnumber">***</td>
+            <td>04/22</td>
+            <td>
+                <p class="special">
+                    Game demonstrations for 4th graders
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+
+                </p>
+                <p class="topic ">
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
             <td>04/22-04/24</td>
             <td>
                 <p class="hackathon">
                         <a href="https://spaceappschallenge.org">NASA SpaceApps Challenge</a>
+                </p>
+                <p class="hackathon">
+                        <a href="https://www.bsidesroc.com/">BSidesROC 2016</a>
                 </p>
             </td>
 
