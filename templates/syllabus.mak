@@ -118,9 +118,9 @@
             </th><th>Due
         </th></tr>
         <tr>
-            <td rowspan="3">1</td>
+            <td rowspan="2">1</td>
             <td class="sessionnumber">1</td>
-            <td>01/25</td>
+            <td>08/23</td>
             <td>
                 <p class="topic ">
                 Welcome, intro, Syllabus, RTFM
@@ -143,7 +143,7 @@
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>01/27</td>
+            <td>08/25</td>
             <td>
                 <p class="topic ">
                 <a target="_blank" href="/lectures/w01c2">First Flight</a>
@@ -161,27 +161,9 @@
 
         </tr>
         <tr>
-            <td class="sessionnumber">3</td>
-            <td>01/29</td>
-            <td>
-                <p class="topic ">
-			It's All Text
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-        </tr>
-        <tr>
-            <td rowspan="4">2</td>
+            <td rowspan="2">2</td>
             <td class="sessionnumber">1</td>
-            <td>02/01</td>
+            <td>08/30</td>
             <td>
                 <p class="topic ">
                         <a href="static/decks/g-b4-gh-txt.odp">Formal Introductions</a> to <a href="http://rsb.io/talks/git/">Git</a> and <a href="http://try.github.com/">Github</a>
@@ -215,33 +197,11 @@
             </td>
 
             <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.interlockroc.org">Interlock Rochester</a>
-                </p>
-                <p class="topic ">
-
-                </p>
             </td>
 
-            <td>
-                <p class="topic ">
-                </p>
-            </td>
-        </tr>
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>02/03</td>
-            <td>
-                <p class="topic special">
-                        Work session: Git and Github
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                </p>
-            </td>
-
+            <td>09/01</td>
             <td>
                 <p class="topic ">
                 </p>
@@ -263,6 +223,9 @@
                 </p>
             </td>
 
+        </tr><tr>
+            <td class="sessionnumber">2</td>
+            <td>09/08</td>
             <td>
                 <p class="topic ">
                         <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
@@ -272,9 +235,9 @@
         </tr>
 
         <tr>
-            <td rowspan="3">3</td>
+            <td rowspan="2">3</td>
             <td class="sessionnumber">1</td>
-            <td>02/08</td>
+            <td>09/06</td>
             <td>
                 <p class="topic ">
                     <a href="">Rights, Restrictions, and Licensing: GNU/FSF</a>
@@ -313,10 +276,6 @@
                 </p>
             </td>
 
-        </tr>
-        <tr>
-            <td class="sessionnumber">3</td>
-            <td>02/12</td>
             <td>
                 <p class="topic ">
                     <a href="">Rights, Restrictions, and Licensing: Open Source</a>
@@ -338,9 +297,9 @@
 
         </tr>
         <tr>
-            <td rowspan="4">4</td>
+            <td rowspan="2">4</td>
             <td class="sessionnumber">1</td>
-            <td>02/15</td>
+            <td>09/13</td>
             <td>
                 <p class="topic ">
                     OLPC Distribution &amp; Smoke testing
@@ -385,7 +344,7 @@
         </tr>
         <tr>
             <td class="sessionnumber">2</td>
-            <td>02/17</td>
+            <td>09/15</td>
             <td>
                 <p class="topic ">
                         <!-- Quiz comments -->
@@ -409,14 +368,10 @@
             </td>
         </tr>
         <tr>
-            <td class="sessionnumber">3</td>
-            <td>02/19</td>
-            <td>
-                <p class="topic special">
-                        IRC-only Class (instructor travel)
-                </p>
-            </td>
-
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>09/17</td>
             <td>
                 <p class="topic ">
                 </p>
@@ -451,9 +406,9 @@
         </tr>
 
         <tr>
-            <td rowspan="3">5</td>
+            <td rowspan="2">5</td>
             <td class="sessionnumber">1</td>
-            <td>02/22</td>
+            <td>09/20</td>
             <td>
                 <p class="topic">
                 </p>
@@ -469,17 +424,12 @@
             </td>
 
             <td>
-                <p class="topic ">
-                    <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
-                </p>
             </td>
-        </tr>
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>02/24</td>
+            <td>09/22</td>
             <td>
                 <p class="topic">
-                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
                     COMMARCH: Reporting and analysis using GBAB et al
                 </p>
             </td>
@@ -510,9 +460,9 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="4">6</td>
+            <td rowspan="2">6</td>
             <td class="sessionnumber">1</td>
-            <td>02/29</td>
+            <td>09/27</td>
             <td>
                 <p class="topic ">
                 </p>
@@ -527,42 +477,16 @@
             </td>
             <td>
                 <p class="topic ">
+                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
             </td>
 
 
-        </tr>
-        <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>03/01</td>
-            <td>
-                <p class="special ">
-                    Interlock Rochester
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.interlockroc.org">Interlock Rochester</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                </p>
-            </td>
-        </tr>
-
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>03/02</td>
+            <td>09/29</td>
             <td>
-                <p class="special ">
-                        Work session: Sugar-on-a-Stick
+                <p class="">
                 </p>
             </td>
 
@@ -759,24 +683,9 @@
         </tr>
         <tr>
             <td></td>
-            <!--td rowspan="3">***</td-->
+            <!--td rowspan="2">***</td-->
             <td class="sessionnumber">***</td>
-            <td>03/19</td>
-            <td>
-                <p class="special ">
-                    <a href="http://www.interlock.org/contact">Linux Workshop at Interlock</a>
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
+            <td>10/15</td>
             <td>
                 <p class="topic ">
                 </p>
@@ -808,52 +717,42 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">9</td>
+            <td rowspan="2">9</td>
             <td class="sessionnumber">1</td>
-            <td>03/21</td>
+            <td>10/18</td>
             <td>
-                <p class="cancelled">
-                        SPRING BREAK
+                <p class="special">
+                RocPy
                 </p>
+            </td>
+
+            <td><a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">ROCpy on Meetup.com</a>
             </td>
 
             <td>
             </td>
-            <td>
-            </td>
-        </tr>
-        <tr>
+
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>03/23</td>
+            <td>10/20</td>
             <td>
-                <p class="cancelled">
-                        SPRING BREAK
+                <p class="">
+                TBD
                 </p>
             </td>
 
             <td>
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td class="sessionnumber">3</td>
-            <td>03/25</td>
-            <td>
-                <p class="cancelled">
-                        SPRING BREAK
-                </p>
+                 Team formation
             </td>
 
             <td>
             </td>
-            <td>
-            </td>
+
         </tr>
         <tr>
-            <td rowspan="3">10</td>
+            <td rowspan="2">10</td>
             <td class="sessionnumber">1</td>
-            <td>03/28</td>
+            <td>10/25</td>
             <td>
                 <p class="topic ">
                 Creative Commons & Free Culture
@@ -867,32 +766,17 @@
                  Team formation
             </td>
 
-        </tr>
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>03/30</td>
+            <td>10/27</td>
             <td>
                 <p class="topic ">
+                  Quiz 2
                 </p>
             </td>
 
             <td>
-            </td>
-
-            <td>
-            </td>
-
-        </tr>
-        <tr>
-            <td class="sessionnumber">3</td>
-            <td>04/01</td>
-            <td>
-                <p class="topic ">
-                </p>
-            </td>
-
-            <td>
-
+               Team Proposal 2
             </td>
 
             <td>
@@ -901,9 +785,32 @@
         </tr>
         <tr>
             <td></td>
-            <!--td rowspan="3">***</td-->
+            <!--td rowspan="2">***</td-->
             <td class="sessionnumber">***</td>
-            <td>04/01</td>
+            <td>10/28</td>
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+
+                </p>
+                <p class="topic ">
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <!--td rowspan="2">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>10/27-28</td>
             <td>
                 <p class="special">
                     <a href="http://ritlug.github.io">RITLUG</a>
@@ -924,9 +831,9 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">11</td>
+            <td rowspan="2">11</td>
             <td class="sessionnumber">1</td>
-            <td>04/04</td>
+            <td>11/01</td>
             <td>
                 <p class="">
                 </p>
@@ -939,12 +846,12 @@
 
             <td>
             </td>
-        </tr>
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>04/06</td>
+            <td>11/03</td>
             <td>
                 <p class="topic">
+                TBD 
                 </p>
             </td>
 
@@ -995,54 +902,9 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">12</td>
+            <td rowspan="2">12</td>
             <td class="sessionnumber">1</td>
-            <td>04/11</td>
-            <td>
-                <p class="topic special">
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td class="sessionnumber">2</td>
-            <td>04/13</td>
-            <td>
-                <p class="topic">
-                TBD
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td class="sessionnumber">2</td>
-            <td>04/15</td>
-            <td>
-                <p class="topic">
-                TBD
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="3">13</td>
-            <td class="sessionnumber">1</td>
-            <td>04/18</td>
+            <td>11/08</td>
             <td>
                 <p class="topic special">
                 </p>
@@ -1055,7 +917,7 @@
             </td>
         </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>04/20</td>
+            <td>11/10</td>
             <td>
                 <p class="topic">
                 TBD
@@ -1068,10 +930,23 @@
             <td>
             </td>
         </tr>
-
         <tr>
-            <td class="sessionnumber">3</td>
-            <td>04/22</td>
+            <td rowspan="2">13</td>
+            <td class="sessionnumber">1</td>
+            <td>11/15</td>
+            <td>
+                <p class="topic special">
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">2</td>
+            <td>11/17</td>
             <td>
                 <p class="topic">
                 TBD
@@ -1136,9 +1011,9 @@
         </tr>
 
         <tr>
-            <td rowspan="3">14</td>
+            <td rowspan="2">14</td>
             <td class="sessionnumber">1</td>
-            <td>04/25</td>
+            <td>11/22</td>
             <td>
                 <p class="topic special">
                 TBD
@@ -1150,13 +1025,12 @@
 
             <td>
             </td>
-        </tr>
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>04/27</td>
+            <td>11/24</td>
             <td>
                 <p class="topic">
-                TBD
+                No class. Thanksgiving.
                 </p>
             </td>
 
@@ -1167,24 +1041,9 @@
             </td>
         </tr>
         <tr>
-            <td class="sessionnumber">3</td>
-            <td>04/29</td>
-            <td>
-                <p class="topic">
-                TBD
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="3">15</td>
+            <td rowspan="2">15</td>
             <td class="sessionnumber">1</td>
-            <td>05/02</td>
+            <td>11/29</td>
             <td>
                 <p class="topic special">
                 TBD
@@ -1196,10 +1055,9 @@
 
             <td>
             </td>
-        </tr>
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>05/04</td>
+            <td>12/01</td>
             <td>
                 <p class="topic">
                 </p>
@@ -1209,30 +1067,16 @@
             </td>
 
             <td>
+              Projects completed 
             </td>
         </tr>
         <tr>
-            <td class="sessionnumber">3</td>
-            <td>05/06</td>
-            <td>
-                <p class="topic">
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-              Projects completed
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="3">16</td>
+            <td rowspan="2">16</td>
             <td class="sessionnumber">1</td>
-            <td>05/09</td>
+            <td>12/06</td>
             <td>
                 <p class="special">
-                        TBD
+			TBD
                 </p>
             </td>
 
@@ -1241,10 +1085,9 @@
 
             <td>
             </td>
-        </tr>
-        <tr>
+        </tr><tr>
             <td class="sessionnumber">2</td>
-            <td>05/11</td>
+            <td>12/08</td>
             <td>
                 <p class="topic">
                 Final presentations
@@ -1258,8 +1101,9 @@
             </td>
         </tr>
         <tr>
-            <td class="sessionnumber">3</td>
-            <td>05/13</td>
+            <td rowspan="2">16</td>
+            <td class="sessionnumber">1</td>
+            <td>12/13</td>
             <td>
                 <p class="topic">
                 Last day of class -- Final presentations
@@ -1271,11 +1115,9 @@
 
             <td>
             </td>
-        </tr>
-        <tr>
-            <td rowspan="3">17</td>
-            <td class="sessionnumber">1</td>
-            <td>05/15</td>
+        </tr><tr>
+            <!--td class="sessionnumber">2</td>
+            <td>12/15</td>
             <td>
                 <p class="special">
                 POSSIBLE EXAM SLOT Final presentations
@@ -1286,8 +1128,9 @@
             </td>
 
             <td>
-            </td>
+            </td -->
         </tr>
+
         </tbody>
     </table>
 </div>
