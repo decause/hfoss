@@ -9,6 +9,7 @@
     <ul class="list-unstyled">
       <li><span class='glyphicon glyphicon-info-sign'></span> <a href="#course-info">Course Information</a></li>
       <li><span class='glyphicon glyphicon-book'></span> <a href="#text-books">Text Books</a></li>
+      <li><span class='glyphicon glyphicon-book'></span> <a href="#hardware">Hardware</a></li>
       <li><span class='glyphicon glyphicon-tasks'></span> <a href="#what-you-ll-do">What You'll Do</a></li>
       <li><span class='glyphicon glyphicon-heart'></span> <a href="#the-spirit-of-the-course">The spirit</a></li>
       <li><span class='glyphicon glyphicon-briefcase'></span> <a href="#licensing">Licensing</a></li>
@@ -48,7 +49,14 @@
   <h2>Text Books</h2>
   <p>There are a number of textbooks we&#8217;ll be referencing throughout the semester. You can
   find these books/texts/articles here <a href="/oer">on the resources page</a></p>
-  <p>Purchase of a textbook, then, is not required.  However, you will need to have at least one USB keychain flash drive, 8GB capacity or better, USB 2 or 3, <em>completely</em> empty to start with.  Be prepared to turn that over to your instructor or TA by the 2nd week of class.</p>
+</div>
+<div class="section">
+  <a class="headerlink" name="hardware"></a>
+  <h2>Hardware</h2>
+  <p>You will be loaned a USB keychain drive and an OLPC XO computer. Please
+  take good care of these, they must be returned before the end of the
+  semester. You might also make use of classroom and lab machines, even
+  though they are not configured to run our primary target operating system.</p>
 </div>
 <div class="section">
   <a class="headerlink" name="what-you-ll-do"></a>
