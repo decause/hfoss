@@ -228,7 +228,7 @@ forge.
         <h3 class="label label-success">Tasks:</h3>
         <ul>
             <li>Load up the git cheatsheet at <a href="http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html"><em>Zack Rusin's blog</em></a> and keep it nearby.</li>
-            <li>Work through this <a href="http://gitimmersion.com/index.html">git tutorial</a> if you don’t have any experience with git.</li>
+            <li>Work through this <a href="http://gitimmersion.com/index.html">git tutorial</a> or <a href="https://try.github.io">this interactive example</a> if you don’t have any experience with git.</li>
             <li>Fork <a href="${course['repo']}">the repository</a> (link to <a href="http://help.github.com/fork-a-repo/">github help</a> on this).</li>
             <li>Clone a local copy.</li>
             <li>Add a file in the <code>/scripts/people/$YEAR/$TERM</code> folder titled <code>$YOUR_IRC_NICK.yaml</code>. Perhaps obviously, it is
