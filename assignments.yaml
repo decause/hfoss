@@ -4,20 +4,35 @@
 hw:
   - firstflight
   - litreview1
+#  - blog02 
+#  - blog03 
+#  - blog04 
+#  - blog05 
+#  - blog06 
+#  - blog07 
+#  - blog08 
+#  - blog09 
+#  - blog10 
+#  - blog11
+#  - blog12 
+#  - blog14
+#  - blog15
+#  - bugreport
 #  - litreview2
-  - meetup1
-  - bugfix
-  - smoketest
-  - teamprop1
-  - commarchreport
-  - commarchpreso
-  - quiz1
-  - meetup2
-  - meetup3
-  - quiz2
-  - teamprop2
+#  - meetup1
+#  - bugfix
+#  - smoketest
+#  - teamprop1
+#  - commarchreport
+#  - commarchpreso
+#  - quiz1
+#  - meetup2
+#  - meetup3
+#  - quiz2
+#  - teamprop2
 #  # - curriculum
 #    #- vidreview1
 #    #- vidreview2
   - finalrepo
   - finalpreso
+deejoe@koompassia:~/foss-courses/hfoss16f/hfoss$ 
