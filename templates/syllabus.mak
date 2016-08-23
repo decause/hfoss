@@ -129,10 +129,13 @@
 
             <td>
                 <p class="topic ">
-                        <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
+                <!--a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a-->
                 </p>
-                <p class="topic ">
-                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
+                <p>
+                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal</a>
+                </p>
+                <p>
+                        <a target="_blank" href="/static/books/unix.html"><em>Nick Moffitt's $7 History of Unix</em></a>
                 </p>
             </td>
 
