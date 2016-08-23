@@ -2,16 +2,16 @@ course:
     name: HFOSS
     desc: The RIT Humanitarian Free/Open Source Software Development Course
     place: RIT
-    start: 2016-01-25
-    end: 2016-05-13
-    blog_start: 2015-02-07
-    blog_end: 2015-05-08
-    times: Mon,Wed,Fri 9:00AM - 9:50AM
-    course: IGME58201.2151
+    start: 2016-08-23
+    end: 2016-12-15
+    blog_start: 2016-08-30
+    blog_end: 2016-12-08
+    times: Tue,Thu 9:30AM - 10:45AM
+    course: IGME58201.2161
     location: Orange Hall (ORN)-1380
     final: TBD, 6:30PM-7:45pm, ORN-1380
     repo: http://github.com/ritjoe/hfoss
-    public_url: http://hfoss-ritigm.rhcloud.com
+    public_url: http://hfoss16f-ritigm.rhcloud.com
 
 instructor:
     name: D. Joe Anderson
@@ -21,15 +21,15 @@ instructor:
     openhub: None
     twitter: deej0e
     office:
-        location: 70-3450
-        hours: Thursday 3:30-4:00pm
+        location: 70-2500
+        hours: Wednesday 4:00-5:00pm
     links:
-        blog: None
+        blog: http://deejoe.etrumeus.com/update
         linkedin: None
         github: http://github.com/ritjoe
         opensource: None
 
 assistant:
-    name: Mike Nolan (Nolski)
-    email: me@michael-nolan.com
-    irc: Nolski
+    name: Justin Flory (jflory7)
+    email: jflory@example.com
+    irc: jflory7
