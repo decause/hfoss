@@ -240,10 +240,10 @@ forge.
             <div class="alert alert-warning">
             <strong>BE WARNED</strong>: Your .yaml file must match the format *exactly* (meaning it is case and whitespace sensitive.)
             </div>
-            <div class="alert alert-warning">
+            <!-- div class="alert alert-warning">
             <strong>CRUFTY</strong>: There is a <code>people.yaml</code> file in that directory.  It is a legacy hangover from older code.  Do not bother editing it.  It will actually make merges more difficult.
             The .yaml file contains a <code>name</code> field, which will be used to refer to you publicly. Feel free to use a nickname or just your first name if you prefer.
-            </div></li>
+            </div --></li>
 
             <li>Once you've confirmed your .yaml file matches exactly, commit and push your changes to github, and issue a pull request.</li>
             <li>Once the patch is accepted upstream and pushed to production, this
