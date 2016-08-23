@@ -812,8 +812,8 @@
             <td class="sessionnumber">***</td>
             <td>10/27-28</td>
             <td>
-                <p class="special">
-                    <a href="http://ritlug.github.io">RITLUG</a>
+                <p class="topic ">
+                    <a href="http://cdot.fsoss.ca/">Free Software & Open Source Symposium, Seneca@York, Toronto</a>
                 </p>
             </td>
 
