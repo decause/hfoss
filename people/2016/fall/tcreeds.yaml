@@ -1,8 +1,8 @@
 #hfoss
 name: Trevor Creed
 avatar: tpc6382@rit.edu
-blog: 
-feed: 
+blog: https://tcreeds.wordpress.com
+feed: https://tcreeds.wordpress.com/?feed=rss
 email: tcreeds@gmail.com
 major: Game Design and Development
 irc: tcreeds
@@ -10,6 +10,6 @@ rit_dce: tpc6382
 forges:
   - https://github.com/tcreeds
   - https://bitbucket.org/tcreeds
-bio: Coding and whatnot
+bio: Half Game Developer, half Web Developer, all tennis player.
 hw:
-  firstflight: https://blog
+  firstflight: https://tcreeds.wordpress.com/firstflight
