@@ -132,7 +132,7 @@
                 <!--a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a-->
                 </p>
                 <p>
-                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal</a>
+                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal (preface through page 37)</a>
                 </p>
                 <p>
                         <a target="_blank" href="/static/books/unix.html"><em>Nick Moffitt's $7 History of Unix</em></a>
@@ -166,6 +166,8 @@
             <td>08/30</td>
             <td>
                 <p class="topic ">
+                <a href="static/decks/its-all-text.html">It's All Text</a>
+		and
                 <a href="static/decks/g-b4-gh-txt.odp">Formal Introduction to Git and Github</a>
                 </p>
             </td>
@@ -181,7 +183,8 @@
             <td>09/01</td>
             <td>
                 <p class="topic ">
-                IP and Licensing; Writing for HFOSS - litreviews and blog posts
+                continuing <a href="static/decks/g-b4-gh-txt.odp">Formal Introduction to Git and Github</a>
+                <!-- IP and Licensing; Writing for HFOSS - litreviews and blog posts -->
                 </p>
             </td>
 
@@ -207,7 +210,7 @@
             <td>09/06</td>
             <td>
                 <p class="topic ">
-                litreview Discussion: What is Open Source?
+                litreview1 Discussion: Brief histories of FOSS: Eghbal & Moffitt
                 </p>
             </td>
 
@@ -219,7 +222,7 @@
                 <!--a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a -->
                 </p>
                 <p>
-                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal</a>
+                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal (preface through page 37)</a>
                 </p>
                 <p>
                         <a target="_blank" href="/static/books/unix.html"><em>Nick Moffitt's $7 History of Unix</em></a>
