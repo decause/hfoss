@@ -6,7 +6,7 @@
 </div>
 
 <div class="alert alert-info">
-    <h2>Team Evaluations <span class="label label-primary">10%</span></h2>
+    <h2>Team Assessments <span class="label label-primary">10%</span></h2>
     <ul class="simple">
         <li>200-1000 words per teammate. 
         <li>Indicate what they did to contribute to the project.</li>

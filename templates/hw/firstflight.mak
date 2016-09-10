@@ -228,11 +228,11 @@ forge.
         <h3 class="label label-success">Tasks:</h3>
         <ul>
             <li>Load up the git cheatsheet at <a href="http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html"><em>Zack Rusin's blog</em></a> and keep it nearby.</li>
-            <li>Work through this <a href="http://gitimmersion.com/index.html">git tutorial</a> if you don’t have any experience with git.</li>
+            <li>Work through this <a href="http://gitimmersion.com/index.html">git tutorial</a> or <a href="https://try.github.io">this interactive example</a> if you don’t have any experience with git.</li>
             <li>Fork <a href="${course['repo']}">the repository</a> (link to <a href="http://help.github.com/fork-a-repo/">github help</a> on this).</li>
             <li>Clone a local copy.</li>
             <li>Add a file in the <code>/scripts/people/$YEAR/$TERM</code> folder titled <code>$YOUR_IRC_NICK.yaml</code>. Perhaps obviously, it is
-            a <a href="http://www.yaml.org/">YAML</a> file. You can use the <code>rjbpop.yaml</code> file as an example. You will want to make sure
+            a <a href="http://www.yaml.org/">YAML</a> file. You can use the <code>jflory7.yaml</code> file as an example. You will want to make sure
             that you have $TERM in all lowercase. For example a student in HFOSS fall of 2014 would have their YAML file in the
             <code>/scripts/people/2014/fall</code> folder.
 
@@ -240,10 +240,10 @@ forge.
             <div class="alert alert-warning">
             <strong>BE WARNED</strong>: Your .yaml file must match the format *exactly* (meaning it is case and whitespace sensitive.)
             </div>
-            <div class="alert alert-warning">
+            <!-- div class="alert alert-warning">
             <strong>CRUFTY</strong>: There is a <code>people.yaml</code> file in that directory.  It is a legacy hangover from older code.  Do not bother editing it.  It will actually make merges more difficult.
             The .yaml file contains a <code>name</code> field, which will be used to refer to you publicly. Feel free to use a nickname or just your first name if you prefer.
-            </div></li>
+            </div --></li>
 
             <li>Once you've confirmed your .yaml file matches exactly, commit and push your changes to github, and issue a pull request.</li>
             <li>Once the patch is accepted upstream and pushed to production, this
