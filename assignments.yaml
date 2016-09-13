@@ -7,9 +7,9 @@ hw:
   - blog02 
   - bugfix
 #  - smoketest
-#  - blog03 
-#  - blog04 
-#  - blog05 
+  - blog03 
+  - blog04 
+  - blog05 
 #  - blog06 
 #  - blog07 
 #  - blog08 
