@@ -9,6 +9,7 @@ hw:
 #  - smoketest
   - blog03 
   - blog04 
+  - quiz1
   - blog05 
 #  - blog06 
 #  - blog07 
@@ -25,7 +26,6 @@ hw:
 #  - teamprop1
 #  - commarchreport
 #  - commarchpreso
-#  - quiz1
   - meetup2
 #  - meetup3
 #  - quiz2
