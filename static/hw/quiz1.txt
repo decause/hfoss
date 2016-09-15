@@ -1,6 +1,6 @@
 Humanitarian Free and Open Source Software
 
-Spring 2016, Quiz #1
+Fall 2016, Quiz #1
 
 1) What is the name of the version control system we use in this course?
 
@@ -21,25 +21,25 @@ column on the left.
 
 For example:
 
-A) Randall Munroe                    a) Saturday Morning Breakfast Cereal
-B) Zach Weiner                       b) XKCD
-C) Walt Disney                       c) Mickey Mouse
+A) 1618                       a) War of 1812
+B) 1776                       b) Second Defenestration of Prague
+C) 1812                       c) United States' Declaration of Independence
 
 becomes
 
-A) Randall Munroe                    b) XKCD
-B) Zach Weiner                       a) Saturday Morning Breakfast Cereal
-C) Walt Disney                       c) Mickey Mouse
+A) 1618                       a) Second Defenestration of Prague
+B) 1776                       b) United States' Declaration of Independence
+C) 1812                       c) War of 1812
+
 
 
 3) So, rearrange these to make the best matches:
 
-A) Andrew Tannenbaum                 a) Debian Free Software Guidelines
-B) Linus Torvalds                    b) Free Software Foundation/Gnu Project
-C) Bruce Perens                      c) Linux 
-D) Richard Stallman                  d) Minix 
+A) 1985                 a) Open Source Initiative founded
+B) 1991                 b) Free Software Foundation established
+C) 1998                 c) Facebook opens to the general public
+D) 2006                 d) first announcement of what was to become Linux 
      
-
 
 
 
@@ -48,13 +48,16 @@ licensing. Match the term on the left with the most appropriate description
 on the right.
 
 
-A) trademark                          a) 20 year term
-B) copyright                          b) lasts as long as used & defended
-C) patent                             c) life of the author plus 70 years
+A) trademark                   a) 20 year term
+B) copyright                   b) lasts as long as used & defended
+C) patent                      c) no restrictions due to their expiry or inapplicability
+D) public domain               d) life of the author plus 70 years
+
 
 D) trademark                          d) arises as soon as a work takes tangible form
 E) copyright                          e) precedence is given to the first to file an application
 F) patent                             f) protects consumers from confusing one product with another
+
 
 
 5) I've presented "the four R's" as a shorthand for the freedoms attached to
