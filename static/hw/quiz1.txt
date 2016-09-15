@@ -39,8 +39,15 @@ A) 1985                 a) Open Source Initiative founded
 B) 1991                 b) Free Software Foundation established
 C) 1998                 c) Facebook opens to the general public
 D) 2006                 d) first announcement of what was to become Linux 
-     
 
+Bonus:
+
+Associate a name (or, where applicable, their well-recognized initials) with
+each date and the matching event above:
+
+A) 1985                 
+B) 1991                 
+C) 1998                 
 
 
 4) We discussed several concepts involving rights, restrictions, and
