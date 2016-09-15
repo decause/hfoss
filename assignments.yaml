@@ -4,10 +4,12 @@
 hw:
   - firstflight
   - litreview1
-#  - blog02 
-#  - blog03 
-#  - blog04 
-#  - blog05 
+  - blog02 
+  - bugfix
+#  - smoketest
+  - blog03 
+  - blog04 
+  - blog05 
 #  - blog06 
 #  - blog07 
 #  - blog08 
@@ -19,14 +21,12 @@ hw:
 #  - blog15
 #  - bugreport
 #  - litreview2
-#  - meetup1
-#  - bugfix
-#  - smoketest
+  - meetup1
 #  - teamprop1
 #  - commarchreport
 #  - commarchpreso
 #  - quiz1
-#  - meetup2
+  - meetup2
 #  - meetup3
 #  - quiz2
 #  - teamprop2
