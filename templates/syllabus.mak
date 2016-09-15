@@ -277,7 +277,8 @@
             <td>09/15</td>
             <td>
                 <p class="topic ">
-                    Quiz OLPC Distribution &amp; Smoke testing
+                <a target="_blank" href="/static/hw/quiz1.txt">Quiz1</a -->
+
                 </p>
             </td>
 
