@@ -276,8 +276,10 @@
             <td>09/15</td>
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/quiz1.txt">Quiz1</a -->
-
+                  <a target="_blank" href="/static/hw/quiz1.txt">Quiz1</a -->
+                </p>
+                <p class="topic ">
+                  FOSS project name check
                 </p>
             </td>
 
