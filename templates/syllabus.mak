@@ -234,7 +234,7 @@
             <td>09/08</td>
             <td>
                 <p class="topic ">
-                Ethics of Unpaid Labor
+                  Rights, Restrictions & Licensing
                 </p>
             </td>
 
@@ -259,7 +259,7 @@
             <td>09/13</td>
             <td>
                 <p class="topic ">
-                
+                  Rights, Restrictions & Licensing                 
                 </p>
             </td>
 
@@ -269,7 +269,6 @@
                 </p>
             </td>
             <td>
-                <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
             </td>
         </tr>
         <tr>
@@ -285,14 +284,10 @@
             <td>
                 <p class="topic ">
                 </p>
-                <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
-                </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -327,16 +322,24 @@
             <td>09/20</td>
             <td>
                 <p class="topic">
-                Quiz comments; COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
+                  Quiz comments
+                  <!-- ; COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.-->
                 </p>
+                <p class="topic">
+			Introduction to OLPC, Sugar, and XO.
+                </p>
+                <p class="topic">
+                        OLPC Distribution & Smoke testing
+                </p>
+                <p class="special">
+                  <a href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>    
+                </p>
+
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
-                </p>
-                <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                  <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
 
@@ -352,11 +355,14 @@
             </td>
 
             <td>
+                <p class="topic ">
+                         <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
+                </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                  <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -379,7 +385,7 @@
             </td>
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                  <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
 
@@ -388,7 +394,8 @@
             <td class="sessionnumber">2</td>
             <td>09/29</td>
             <td>
-                <p class="">
+                <p class="topic cancelled">
+                  IRC CLASS ONLY
                 </p>
             </td>
 
@@ -397,9 +404,9 @@
 
             <td>
                 <p class="topic ">
+                         <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
                 </p>
-                <p class="topic ">
-                </p>
+
             </td>
 
         </tr>
@@ -512,12 +519,14 @@
             <td>10/13</td>
             <td>
                 <p class="topic ">
-                	EDU: Curriculum Exploration.
-                <!-- EDU: Curriculum Discussion -->
                 </p>
             </td>
 
             <td>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+                <p class="topic ">
+                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
 
             <td>
@@ -543,7 +552,7 @@
 
                 </p>
                 <p class="topic ">
-
+                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
             </td>
 
