@@ -325,7 +325,6 @@
             <td>
                 <p class="topic">
                   Quiz comments
-                  <!-- ; COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.-->
                 </p>
                 <p class="topic">
 			Introduction to OLPC, Sugar, and XO.
@@ -352,11 +351,16 @@
             <td>09/22</td>
             <td>
                 <p class="topic">
-                    COMMARCH: Reporting and analysis using GBAB et al
+                    Pedagogy 
+                    <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.-->
+                    <!-- COMMARCH: Reporting and analysis using GBAB et al -->
                 </p>
             </td>
 
             <td>
+                <p class="topic ">
+                         <a href="/static/decks/OLPCKidsAdja1.odp">One Laptop Per Child A: Pedagogy</a>
+                </p>
                 <p class="topic ">
                          <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
                 </p>
@@ -373,11 +377,10 @@
             <td class="sessionnumber">1</td>
             <td>09/27</td>
             <td>
-                <p class="topic ">
-                Commarch clean-up; TBD
+                <p class="topic cancelled">
+                  IRC CLASS ONLY
                 </p>
             </td>
-
             <td>
                 <p class="topic ">
                 </p>
@@ -396,8 +399,8 @@
             <td class="sessionnumber">2</td>
             <td>09/29</td>
             <td>
-                <p class="topic cancelled">
-                  IRC CLASS ONLY
+                <p class="topic ">
+                Commarch clean-up; TBD
                 </p>
             </td>
 
