@@ -276,8 +276,10 @@
             <td>09/15</td>
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/quiz1.txt">Quiz1</a -->
-
+                  <a target="_blank" href="/static/hw/quiz1.txt">Quiz1</a -->
+                </p>
+                <p class="topic ">
+                  FOSS project name check
                 </p>
             </td>
 
@@ -323,7 +325,6 @@
             <td>
                 <p class="topic">
                   Quiz comments
-                  <!-- ; COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.-->
                 </p>
                 <p class="topic">
 			Introduction to OLPC, Sugar, and XO.
@@ -339,7 +340,7 @@
 
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                  <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
 
@@ -350,11 +351,16 @@
             <td>09/22</td>
             <td>
                 <p class="topic">
-                    COMMARCH: Reporting and analysis using GBAB et al
+                    Pedagogy 
+                    <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.-->
+                    <!-- COMMARCH: Reporting and analysis using GBAB et al -->
                 </p>
             </td>
 
             <td>
+                <p class="topic ">
+                         <a href="/static/decks/OLPCKidsAdja1.odp">One Laptop Per Child A: Pedagogy</a>
+                </p>
                 <p class="topic ">
                          <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
                 </p>
@@ -371,21 +377,20 @@
             <td class="sessionnumber">1</td>
             <td>09/27</td>
             <td>
-                <p class="topic ">
-                Commarch clean-up; TBD
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                </p>
-
-                <p class="topic ">
+                <p class="topic cancelled">
+                  IRC CLASS ONLY
                 </p>
             </td>
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                </p>
+
+                <p class="topic ">
+                </p>
+            </td>
+            <td>
+                <p class="topic ">
+                  <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
 
@@ -394,8 +399,8 @@
             <td class="sessionnumber">2</td>
             <td>09/29</td>
             <td>
-                <p class="topic cancelled">
-                  IRC CLASS ONLY
+                <p class="topic ">
+                Commarch clean-up; TBD
                 </p>
             </td>
 
