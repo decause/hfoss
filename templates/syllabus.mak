@@ -380,6 +380,9 @@
                 <p class="topic cancelled">
                   IRC CLASS ONLY
                 </p>
+                <p class="topic ">
+                  <a href="/static/hw/commarch.txt">Brief CommArch introduction</a>
+                </p>
             </td>
             <td>
                 <p class="topic ">
@@ -400,7 +403,7 @@
             <td>09/29</td>
             <td>
                 <p class="topic ">
-                Commarch clean-up; TBD
+                TBD
                 </p>
             </td>
 
@@ -460,7 +463,7 @@
             <td>10/06</td>
             <td>
                 <p class="topic guest">
-                Commarch reports
+                <!-- Commarch reports -->
                 </p>
             </td>
 
