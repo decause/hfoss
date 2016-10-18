@@ -132,7 +132,7 @@
                 <!--a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a-->
                 </p>
                 <p>
-                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal</a>
+                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal (preface through page 37)</a>
                 </p>
                 <p>
                         <a target="_blank" href="/static/books/unix.html"><em>Nick Moffitt's $7 History of Unix</em></a>
@@ -166,6 +166,8 @@
             <td>08/30</td>
             <td>
                 <p class="topic ">
+                <a href="static/decks/its-all-text.html">It's All Text</a>
+		and
                 <a href="static/decks/g-b4-gh-txt.odp">Formal Introduction to Git and Github</a>
                 </p>
             </td>
@@ -181,7 +183,8 @@
             <td>09/01</td>
             <td>
                 <p class="topic ">
-                IP and Licensing; Writing for HFOSS - litreviews and blog posts
+                continuing <a href="static/decks/g-b4-gh-txt.odp">Formal Introduction to Git and Github</a>
+                <!-- IP and Licensing; Writing for HFOSS - litreviews and blog posts -->
                 </p>
             </td>
 
@@ -207,7 +210,7 @@
             <td>09/06</td>
             <td>
                 <p class="topic ">
-                litreview Discussion: What is Open Source?
+                litreview1 Discussion: Brief histories of FOSS: Eghbal & Moffitt
                 </p>
             </td>
 
@@ -219,7 +222,7 @@
                 <!--a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a -->
                 </p>
                 <p>
-                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal</a>
+                        <a target="_blank" href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview1: <em>Roads and Bridges ...</em> by Nadia Eghbal (preface through page 37)</a>
                 </p>
                 <p>
                         <a target="_blank" href="/static/books/unix.html"><em>Nick Moffitt's $7 History of Unix</em></a>
@@ -231,7 +234,7 @@
             <td>09/08</td>
             <td>
                 <p class="topic ">
-                Ethics of Unpaid Labor
+                  Rights, Restrictions & Licensing
                 </p>
             </td>
 
@@ -256,7 +259,7 @@
             <td>09/13</td>
             <td>
                 <p class="topic ">
-                
+                  Rights, Restrictions & Licensing                 
                 </p>
             </td>
 
@@ -266,7 +269,6 @@
                 </p>
             </td>
             <td>
-                <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
             </td>
         </tr>
         <tr>
@@ -274,21 +276,20 @@
             <td>09/15</td>
             <td>
                 <p class="topic ">
-                    Quiz OLPC Distribution &amp; Smoke testing
+                  <a target="_blank" href="/static/hw/quiz1.txt">Quiz1</a -->
+                </p>
+                <p class="topic ">
+                  FOSS project name check
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
                 </p>
-                <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
-                </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -323,16 +324,23 @@
             <td>09/20</td>
             <td>
                 <p class="topic">
-                Quiz comments; COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.
+                  Quiz comments
                 </p>
+                <p class="topic">
+			Introduction to OLPC, Sugar, and XO.
+                </p>
+                <p class="topic">
+                        OLPC Distribution & Smoke testing
+                </p>
+                <p class="special">
+                  <a href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>    
+                </p>
+
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
-                </p>
-                <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                  <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
 
@@ -343,16 +351,24 @@
             <td>09/22</td>
             <td>
                 <p class="topic">
-                    COMMARCH: Reporting and analysis using GBAB et al
+                    Pedagogy 
+                    <!-- COMMARCH: Git-by-a-bus and CCF: Callaway Coefficient of Fail.-->
+                    <!-- COMMARCH: Reporting and analysis using GBAB et al -->
                 </p>
             </td>
 
             <td>
+                <p class="topic ">
+                         <a href="/static/decks/OLPCKidsAdja1.odp">One Laptop Per Child A: Pedagogy</a>
+                </p>
+                <p class="topic ">
+                         <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
+                </p>
             </td>
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test">Smoke Test</a>
+                  <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -361,21 +377,23 @@
             <td class="sessionnumber">1</td>
             <td>09/27</td>
             <td>
-                <p class="topic ">
-                Commarch clean-up; TBD
+                <p class="topic cancelled">
+                  IRC CLASS ONLY
                 </p>
-            </td>
-
-            <td>
                 <p class="topic ">
-                </p>
-
-                <p class="topic ">
+                  <a href="/static/hw/commarch.txt">Brief CommArch introduction</a>
                 </p>
             </td>
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+
+                <p class="topic ">
+                </p>
+            </td>
+            <td>
+                <p class="topic ">
+                  <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
 
@@ -384,7 +402,8 @@
             <td class="sessionnumber">2</td>
             <td>09/29</td>
             <td>
-                <p class="">
+                <p class="topic ">
+                TBD
                 </p>
             </td>
 
@@ -393,9 +412,9 @@
 
             <td>
                 <p class="topic ">
+                         <a target="_blank" href="http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community">litreview2: <em>Ethics of Unpaid Labor & the OSS Community</em> by Ashe Dryden</a>
                 </p>
-                <p class="topic ">
-                </p>
+
             </td>
 
         </tr>
@@ -444,7 +463,7 @@
             <td>10/06</td>
             <td>
                 <p class="topic guest">
-                Commarch reports
+                <!-- Commarch reports -->
                 </p>
             </td>
 
@@ -508,12 +527,14 @@
             <td>10/13</td>
             <td>
                 <p class="topic ">
-                	EDU: Curriculum Exploration.
-                <!-- EDU: Curriculum Discussion -->
                 </p>
             </td>
 
             <td>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+                <p class="topic ">
+                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
 
             <td>
@@ -539,7 +560,7 @@
 
                 </p>
                 <p class="topic ">
-
+                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
             </td>
 
