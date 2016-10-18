@@ -14,9 +14,9 @@ hw:
   - litreview2
   - blog06 
   - blog07 
-#  - blog08 
-#  - blog09 
-#  - blog10 
+  - blog08 
+  - blog09 
+  - blog10 
 #  - blog11
 #  - blog12 
 #  - blog14
@@ -24,12 +24,12 @@ hw:
 #  - bugreport
   - meetup1
 #  - teamprop1
-#  - commarchreport
-#  - commarchpreso
+  - commarchreport
+  - commarchpreso
   - meetup2
-#  - meetup3
+  - meetup3
 #  - quiz2
-#  - teamprop2
+  - teamprop2
 #  # - curriculum
 #    #- vidreview1
 #    #- vidreview2
