@@ -551,7 +551,7 @@
             <td>10/15</td>
             <td>
                 <p class="topic ">
-                    <a href="http://www.interlock.org/contact">Linux Workshop at Interlock</a> or <a href="http://cposc.org/">CPOSC</a>
+                    <a href="http://www.interlockroc.org/contact">Linux Workshop at Interlock</a> or <a href="http://cposc.org/">CPOSC</a>
                 </p>
             </td>
 
