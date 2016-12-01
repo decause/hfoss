@@ -26,7 +26,16 @@
   <li>
     1.6) PR
   </li>
+  <li>
+    1.7)* PGP
+  </li>
+  <li>
+    1.8)* GPG
+  </li>
 </ul>
+</p>
+<p>
+<em>* extra credit</em>
 </p>
 
 <p>
@@ -147,11 +156,12 @@ describing any of them. (1pt each)
 
 
 <p><strong>Bonus</strong>:</p>
-	<p>True or False: You cannot sell GPL'd software (1pt)</p>
-	<p>True or False: You can fork a GPL licensed Project and release it under an MIT license? (1 pt)</p>
-	<p>True or False: You can fork a MIT licensed Project and release it under an GPL license? (1 pt)</p>
-	<p>When does a work become "copyrighted" by an Author? (3 pt)</li>
-
+  <ul>
+	<li>X1) True or False: You cannot sell GPL'd software (1pt)</li>
+	<li>X2) True or False: You can fork a GPL licensed Project and release it under an MIT license? (1 pt)</li>
+	<li>X3) True or False: You can fork a MIT licensed Project and release it under an GPL license? (1 pt)</li>
+	<li>X4) Perhaps the shortest way to sum up the freedoms from #10 above is the one short word that completes the following phrase: "A project is free and open if one has the freedom to __________ it (3 pt)</li>
+  </ul>
 
 
 <div class="alert alert-info">
