@@ -1,4 +1,4 @@
-Humanitarian Free and Open Source Software 
+Humanitarian Free and Open Source Software
 Fall 2016 – D. Joe Anderson
 Original Design – Professor David Shein
 Refinements – Remy DeCausemaker
@@ -26,7 +26,9 @@ stack.
 2.  Follow the instructions included in the "Git By A Bus" repository on Github
     to generate a report on your selected project, available here:
 
-    https://github.com/tomheon/git_by_a_bus
+    https://github.com/tomheon/git_by_a_bus (Resource limited but refined output. May fail to run on large projects)
+
+    https://github.com/tomheon/git_by_a_bus/tree/v2 (More powerful but output is raw. Run it as gbab.py)
 
     or, alternately:
 
@@ -44,7 +46,7 @@ stack.
         I.      The project's IRC Channel
         II      Source Code repository
         III.    Mail list archive
-        IV.     Documentation 
+        IV.     Documentation
         V.      Other communication channels
         VI.     Project Website and/or Blog
 
