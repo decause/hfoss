@@ -20,7 +20,7 @@ hw:
   - blog11
   - blog12 
   - blog14
-#  - blog15
+  - blog15
 #  - bugreport
   - meetup1
 #  - teamprop1
@@ -29,7 +29,7 @@ hw:
   - meetup2
   - meetup3
   - curriculum
-#  - quiz2
+  - quiz2
   - teamprop2
 #    #- vidreview1
 #    #- vidreview2
