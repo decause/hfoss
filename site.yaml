@@ -2,10 +2,10 @@ course:
     name: HFOSS
     desc: The RIT Humanitarian Free/Open Source Software Development Course
     place: RIT
-    start: 2016-08-23
-    end: 2017-01-23
+    start: 2017-01-23
+    end: 2017-05-19
     blog_start: 2017-01-29
-    blog_end: 2017-05-15
+    blog_end: 2017-05-12
     times: Mon,Wed,Fri 9:00AM - 9:50AM
     course: IGME58201.2165
     location: Orange Hall (ORN)-1375
@@ -33,4 +33,3 @@ assistant:
     name: None
     email: None
     irc: None
-
