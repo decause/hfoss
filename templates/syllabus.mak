@@ -89,6 +89,10 @@
   <p>Code that you write is <strong>your</strong> code, with which you can do what you will;
   true. However, if you&#8217;re unwilling to license code you write for an Free/Open Source
   course with a Free/Open Source license, you may be in the wrong course.</p>
+  <p>
+   Similarly, the essence of this course entails your doing significant collaborative
+   work in public, the results of which will remain public. If you do not wish to make your work public in this way, please contact me during the first week of class to make other arrangements.
+  </p>
 </div>
 <div class="section">
     <a class="headerlink" name="schedule"></a>
@@ -1466,6 +1470,21 @@
   <p>You will receive +10 extra credit points towards your final grade for every
   pull request accepted by an independently-maintained project against a pre-existing bug (eg, fixing new bugs you found, or even generated don't count!).</p>
   <p>Send an <a href="email:deejoe@mail.rit.edu">email to the instructor</a> with sufficient detail to confirm your bug fix was accepted.</p></div>
+
+<div class="section">
+  <a class="headerlink" name="Policy requirements"></a>
+  <h2>Accomodations</h2>
+   <p>
+     RIT is committed to providing reasonable accommodations to students with disabilities. If you would like to request accommodations such as special seating or testing modifications due to a disability, please contact the Disability Services Office. It is located in the Student Alumni Union, Room 1150; the Web site is www.rit.edu/dso. After you receive accommodation approval, it is imperative that you see me during office hours so that we can work out whatever arrangement is necessary.
+   </p>
+  <h2>Academic Integrity</h2>
+   <p>
+    <a  href="http://www.rit.edu/academicaffairs/policiesmanual/sectionA/honorcode.html">RIT Honor Code
+   </a></p>
+  <p>
+   <a href="http://www.rit.edu/~w-policy/sectionD/D8.html">RIT Academic Integrity Policy
+  </a></p>
+
 
 <%def name='topic_block(section)'>
   <td>
