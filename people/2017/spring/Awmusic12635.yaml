@@ -1,0 +1,16 @@
+#hfoss
+name: Alex Wacker
+avatar: alex@alexwacker.com
+blog: https://blog.alexwacker.com
+feed: https://blog.alexwacker.com/?feed=rss2
+email: alex@alexwacker.com
+major: Information Technology + Networking & Systems Administration Minor
+irc: Awmusic12635
+rit_dce: None
+forges:
+  - https://github.com/FOSSRIT
+  - https://github.com/Awmusic12635
+  
+bio: IT major with a sysadmin background as well. Involved in FOSS@RIT and RITLUG. 
+hw:
+  firstflight: https://blog.alexwacker.com/2017/01/hfoss-first-flight/
