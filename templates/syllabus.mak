@@ -1362,7 +1362,8 @@
     <a class="headerlink" name="attendance"></a>
     <h2>Attendance</h2>
     <p>Attendance is <em><strong>required</strong></em> for this course. Students are allotted <span class="label label-danger">2</span> <strong><u>excused</u></strong> absences per semester.</p>
-    <p>Subsequent absences will result in a <span class="label label-danger">10%</span> reduction of your final letter grade <strong><em>for each</em></strong> class missed.</p>
+    <p>Subsequent absences will result in a <span class="label label-danger">50 point</span> reduction of your
+    total point score <strong><em>for each</em></strong> class missed.</p>
 </div>
 <div class="section">
   <a class="headerlink" name="grading"></a>
@@ -1379,31 +1380,35 @@
     <col style="width: 20%;" />
   </colgroup>
   <thead>
-    <tr><th class="head">Component</th>
-      <th class="head">Weight</th>
+    <tr><th class="head">Component (#)</th>
+      <th class="head">Points</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>In-Class Participation</td>
-      <td class="center padded"><span class="label label-warning">10%</span></td>
+    <tr><td>Participation & Practices (15)</td>
+      <td class="center padded"><span class="label label-warning">150</span></td>
     </tr>
-    <tr><td>Quizzes</td>
-      <td class="center padded"><span class="label label-warning">10%</span></td>
+    <tr><td>Weekly Blog (15)</td>
+      <td class="center padded"><span class="label label-warning">75</span></td>
     </tr>
-    <tr><td>Literature Reviews</td>
-      <td class="center padded"><span class="label label-warning">10%</span></td>
+    <tr><td>Quizzes (2) </td>
+      <td class="center padded"><span class="label label-warning">50</span></td>
     </tr>
-    <tr><td>Team Peer Assessments</td>
-      <td class="center padded"><span class="label label-info">15%</span></td>
+    <tr><td>Literature Review (3)</td>
+      <td class="center padded"><span class="label label-info">75</span></td>
     </tr>
-    <tr><td>Project Presentations</td>
-      <td class="center padded"><span class="label label-info">15%</span></td>
+    <tr><td>Meetups (3)</td>
+      <td class="center padded"><span class="label label-info">60</span></td>
     </tr>
-    <tr><td>Completed Project</td>
-      <td class="center padded"><span class="label label-success">20%</span></td>
+    <tr><td>Assignments (5)</td>
+      <td class="center padded"><span class="label label-success">200</span></td>
     </tr>
-    <tr><td>FOSS Dev Practices (Blog posts, commits, tickets, IRC)</td>
-      <td class="center padded"><span class="label label-success">20%</span></td>
+    <tr><td>Team Project 1: CommArch (Peer eval & presentation) </td>
+      <td class="center padded"><span class="label label-success">110</span></td>
+    </tr>
+    <tr><td>Team Project 2: OLPC Activity (Peer eval, presentation, and
+    final project</td>
+      <td class="center padded"><span class="label label-success">280</span></td>
     </tr>
   </tbody>
 </table>
@@ -1419,8 +1424,8 @@
   about their investigations, progress, success, and pitfalls. This blog can be
   hosted anywhere, but must be added to the course <a href="/checkblogs">participant page</a> (there are instructions on how to do this
   in <a class="" href="/hw/firstflight"><em>Homework - First Flight</em></a>). All blog posts are syndicated to the
-  <a href="https://people.rit.edu/djaigm/planet/hfoss/" target="_blank">HFOSS Planet</a>, a blog aggregator that shows all students'
-  posts on a rolling basis.</p>
+  blog aggregator 
+  <a href="https://people.rit.edu/djaigm/planet/hfoss/" target="_blank">HFOSS Planet</a>.</p>
   <blockquote>
       <li>You must make at least one blog post per week to receive full credit.
       This is in addition to any assignments that are posted to your blog for
@@ -1446,8 +1451,8 @@
     to give a <code><a href="http://en.wikipedia.org/wiki/Lightning_Talk">lightning talk</a></code> on a
     topic of their chosing. Your lightning talk must be less than 5 minutes in
     length and must be at least remotely related to the course material.</p>
-    <p>You will receive +1 extra credit points towards your final grade for every
-      lightning talk you give. Only the first <span class="label
+    <p>All students will do at least one lightning talk. You will receive +10 extra credit points towards your final grade for every
+      subsequent lightning talk you give. Only the first <span class="label
       label-success">2</span> lightning talks offered will be allowed during a given
       class. Talks will be chosen from among those offered by students on a <code><a
       target="_blank" href="http://en.wikipedia.org/wiki/FIFO">FIFO</a></code>
@@ -1457,7 +1462,7 @@
   <a class="headerlink" name="bugfix-extra-credit"></a>
   <h2>Bug Fix - Extra Credit</h2>
   <p>You can earn extra credit by successfully fixing a bug in a FOSS project.</p>
-  <p>You will receive +1 extra credit points towards your final grade for every
+  <p>You will receive +10 extra credit points towards your final grade for every
   pull request accepted by an independently-maintained project against a pre-existing bug (eg, fixing new bugs you found, or even generated don't count!).</p>
   <p>Send an <a href="email:deejoe@mail.rit.edu">email to the instructor</a> with sufficient detail to confirm your bug fix was accepted.</p></div>
 

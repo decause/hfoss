@@ -6,7 +6,7 @@
 </div>
 
 <div class="alert alert-info">
-    <h2>Team Evaluations <span class="label label-primary">5%</span></h2>
+    <h2>Team Evaluations <span class="label label-primary">50 pts.</span></h2>
     <ul class="simple">
         <li>200-1000 words per teammate. 
         <li>Indicate what they did to contribute to the project.</li>
@@ -20,7 +20,7 @@
 </div>
 
 <div class="alert alert-info">
-    <h2>CommArch Presentation <span class="label label-primary">5%</span></h2>
+    <h2>CommArch Presentation <span class="label label-primary">60 pts.</span></h2>
     <ul>
         <li>Your presentations should last 5-10 minutes with another 3-5 minutes
         for discussion.</li>
