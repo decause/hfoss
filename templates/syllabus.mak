@@ -48,7 +48,8 @@
   <h2>Text Books</h2>
   <p>There are a number of textbooks we&#8217;ll be referencing throughout the semester. You can
   find these books/texts/articles here <a href="/oer">on the resources page</a></p>
-  <p>Purchase of a textbook, then, is not required.  However, you will need to have at least one USB keychain flash drive, 8GB capacity or better, USB 2 or 3, <em>completely</em> empty to start with.  Be prepared to turn that over to your instructor or TA by the 2nd week of class.</p>
+  <p>Purchase of a textbook, then, is not required.</p>
+
 </div>
 <div class="section">
   <a class="headerlink" name="what-you-ll-do"></a>
