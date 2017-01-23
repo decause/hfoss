@@ -3,15 +3,15 @@ course:
     desc: The RIT Humanitarian Free/Open Source Software Development Course
     place: RIT
     start: 2016-08-23
-    end: 2016-12-15
-    blog_start: 2016-08-30
-    blog_end: 2016-12-08
-    times: Tue,Thu 9:30AM - 10:45AM
-    course: IGME58201.2161
-    location: Orange Hall (ORN)-1380
-    final: TBD, 6:30PM-7:45pm, ORN-1380
+    end: 2017-01-23
+    blog_start: 2017-01-29
+    blog_end: 2017-05-15
+    times: Mon,Wed,Fri 9:00AM - 9:50AM
+    course: IGME58201.2165
+    location: Orange Hall (ORN)-1375
+    final: TBD, 6:30PM-7:45pm, ORN-1375
     repo: https://github.com/ritjoe/hfoss
-    public_url: https://hfoss16f-ritjoe.rhcloud.com/
+    public_url: https://hfoss-ritjoe.rhcloud.com/
 
 instructor:
     name: D. Joe Anderson
@@ -21,7 +21,7 @@ instructor:
     openhub: None
     twitter: deej0e
     office:
-        location: 70-2500
+        location: GOL-2500
         hours: Wednesday 4:00-5:00pm
     links:
         blog: http://deejoe.etrumeus.com/update
@@ -30,6 +30,7 @@ instructor:
         opensource: None
 
 assistant:
-    name: Justin W. Flory (jflory7)
-    email: me@justinwflory.com
-    irc: jflory7
+    name: None
+    email: None
+    irc: None
+
