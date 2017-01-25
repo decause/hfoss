@@ -125,12 +125,6 @@
             </td>
 
             <td>
-                <p class="topic ">
-                        <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
-                </p>
-                <p class="topic ">
-                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
-                </p>
             </td>
 
             <td>
@@ -142,7 +136,7 @@
             <td>
                 <p class="topic ">
                 <em>Intros</em>
-                <a target="_blank" href="/lectures/w01c2">First Flight</a>
+                <a target="_blank" href="/hw/firstflight">First Flight</a>
                 <em>Kitting-out</em>
                 </p>
             </td>
@@ -150,6 +144,12 @@
             <td>
                 <p class="topic ">
                 <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
+                </p>
+                <p class="topic ">
+                        <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
+                </p>
+                <p class="topic ">
+                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
                 </p>
             </td>
 
@@ -217,6 +217,9 @@
 
             <td>
                 <p class="topic ">
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> IRC & email & github cloned</a>
+                </p>
+                <p class="topic ">
                 </p>
             </td>
 
@@ -237,9 +240,6 @@
             </td>
 
             <td>
-                <p class="topic ">
-                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
-                </p>
             </td>
 
         </tr>
@@ -305,6 +305,9 @@
             </td>
 
             <td>
+                <p class="topic ">
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> complete with PR</a>
+                </p>
                 <p class="topic ">
                 </p>
             </td>
