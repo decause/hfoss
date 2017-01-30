@@ -361,26 +361,6 @@
         </tr>
 
         <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>02/14</td>
-            <td>
-                <p class="special ">
-                    RocPy
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-        </tr>
-        <tr>
             <td class="sessionnumber">2</td>
             <td>02/15</td>
             <td>
@@ -491,6 +471,26 @@
                     <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/21</td>
+            <td>
+                <p class="special ">
+                    RocPy
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
         <tr>
             <td class="sessionnumber">2</td>
@@ -716,26 +716,6 @@
             </td>
 
         </tr>
-        <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>03/14</td>
-            <td>
-                <p class="special ">
-                    RocPy
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-        </tr>
 
         <tr>
             <td class="sessionnumber">2</td>
@@ -812,6 +792,26 @@
             </td>
             <td>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>03/21</td>
+            <td>
+                <p class="special ">
+                    RocPy
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
         <tr>
             <td class="sessionnumber">2</td>
