@@ -372,6 +372,26 @@
                         Intro to OLPC, Sugar, Python
                 </p>
             </td>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/15</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+        </tr>
 
             <td>
                 <p class="topic ">
@@ -830,6 +850,27 @@
             </td>
         </tr>
         <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>03/22</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+        </tr>
+
+        <tr>
             <td class="sessionnumber">3</td>
             <td>03/24</td>
             <td>
@@ -1087,6 +1128,26 @@
 
             <td>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/15</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
 
         <tr>
