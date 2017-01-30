@@ -235,11 +235,11 @@
             </td>
 
             <td>
-                <p class="topic ">
-                </p>
             </td>
-
             <td>
+                <p class="topic ">
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> complete with PR</a>
+                </p>
             </td>
 
         </tr>
@@ -306,7 +306,6 @@
 
             <td>
                 <p class="topic ">
-                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> complete with PR</a>
                 </p>
                 <p class="topic ">
                 </p>
