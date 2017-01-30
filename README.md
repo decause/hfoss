@@ -1,3 +1,5 @@
+## OFFICIAL CURRENT RIT COURSE CAN BE FOUND AT [RITJOE/HFOSS](https://github.com/ritjoe/hfoss)
+
 hfoss
 ==========
 
