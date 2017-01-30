@@ -372,6 +372,19 @@
                         Intro to OLPC, Sugar, Python
                 </p>
             </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+                <p class="topic ">
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
         <tr>
             <!--td rowspan="3">***</td-->
             <td class="sessionnumber">***</td>
@@ -383,7 +396,7 @@
             </td>
 
             <td>
-                <p class="topic ">
+                <p class="special ">
                    FOSSTalk MAGIC Center 4-6
                 </p>
                 <p class="topic ">
@@ -391,19 +404,6 @@
                 </p>
             </td>
 
-        </tr>
-
-            <td>
-                <p class="topic ">
-                </p>
-                <p class="topic ">
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                </p>
-            </td>
         </tr>
         <tr>
             <td class="sessionnumber">3</td>
@@ -774,8 +774,7 @@
             </td>
 
         </tr>
-        <tr>
-            <td></td>
+        <tr>            
             <!--td rowspan="3">***</td-->
             <td class="sessionnumber">***</td>
             <td>03/18</td>
@@ -860,7 +859,7 @@
             </td>
 
             <td>
-                <p class="topic ">
+                <p class="special ">
                    FOSSTalk MAGIC Center 4-6
                 </p>
                 <p class="topic ">
@@ -1132,7 +1131,7 @@
         <tr>
             <!--td rowspan="3">***</td-->
             <td class="sessionnumber">***</td>
-            <td>02/15</td>
+            <td>04/19</td>
             <td>
                 <p class="special ">
                     
@@ -1140,7 +1139,7 @@
             </td>
 
             <td>
-                <p class="topic ">
+                <p class="special ">
                    FOSSTalk MAGIC Center 4-6
                 </p>
                 <p class="topic ">
