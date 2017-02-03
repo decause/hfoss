@@ -89,6 +89,10 @@
   <p>Code that you write is <strong>your</strong> code, with which you can do what you will;
   true. However, if you&#8217;re unwilling to license code you write for an Free/Open Source
   course with a Free/Open Source license, you may be in the wrong course.</p>
+  <p>
+   Similarly, the essence of this course entails your doing significant collaborative
+   work in public, the results of which will remain public. If you do not wish to make your work public in this way, please contact me during the first week of class to make other arrangements.
+  </p>
 </div>
 <div class="section">
     <a class="headerlink" name="schedule"></a>
@@ -121,12 +125,6 @@
             </td>
 
             <td>
-                <p class="topic ">
-                        <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
-                </p>
-                <p class="topic ">
-                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
-                </p>
             </td>
 
             <td>
@@ -138,7 +136,7 @@
             <td>
                 <p class="topic ">
                 <em>Intros</em>
-                <a target="_blank" href="/lectures/w01c2">First Flight</a>
+                <a target="_blank" href="/hw/firstflight">First Flight</a>
                 <em>Kitting-out</em>
                 </p>
             </td>
@@ -146,6 +144,12 @@
             <td>
                 <p class="topic ">
                 <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
+                </p>
+                <p class="topic ">
+                        <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
+                </p>
+                <p class="topic ">
+                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
                 </p>
             </td>
 
@@ -213,6 +217,9 @@
 
             <td>
                 <p class="topic ">
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> IRC & email & github cloned</a>
+                </p>
+                <p class="topic ">
                 </p>
             </td>
 
@@ -228,13 +235,10 @@
             </td>
 
             <td>
-                <p class="topic ">
-                </p>
             </td>
-
             <td>
                 <p class="topic ">
-                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> complete with PR</a>
                 </p>
             </td>
 
@@ -303,6 +307,8 @@
             <td>
                 <p class="topic ">
                 </p>
+                <p class="topic ">
+                </p>
             </td>
 
         </tr>
@@ -354,26 +360,6 @@
         </tr>
 
         <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>02/14</td>
-            <td>
-                <p class="special ">
-                    RocPy
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-        </tr>
-        <tr>
             <td class="sessionnumber">2</td>
             <td>02/15</td>
             <td>
@@ -397,6 +383,26 @@
                 <p class="topic ">
                 </p>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/15</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
         <tr>
             <td class="sessionnumber">3</td>
@@ -435,7 +441,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>
+                        <a href="http://www.dandyhacks.org/">DandyHacks '17</a>
                 </p>
             </td>
         </tr>
@@ -484,6 +490,26 @@
                     <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/21</td>
+            <td>
+                <p class="special ">
+                    RocPy
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
         <tr>
             <td class="sessionnumber">2</td>
@@ -538,7 +564,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>
+                        <a href="http://wic-hacks.rit.edu/">WiCHacks</a>
                 </p>
             </td>
         </tr>
@@ -709,26 +735,6 @@
             </td>
 
         </tr>
-        <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>03/14</td>
-            <td>
-                <p class="special ">
-                    RocPy
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-        </tr>
 
         <tr>
             <td class="sessionnumber">2</td>
@@ -767,8 +773,7 @@
             </td>
 
         </tr>
-        <tr>
-            <td></td>
+        <tr>            
             <!--td rowspan="3">***</td-->
             <td class="sessionnumber">***</td>
             <td>03/18</td>
@@ -807,6 +812,26 @@
             </td>
         </tr>
         <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>03/21</td>
+            <td>
+                <p class="special ">
+                    RocPy
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+        </tr>
+        <tr>
             <td class="sessionnumber">2</td>
             <td>03/22</td>
             <td>
@@ -822,6 +847,27 @@
             <td>
             </td>
         </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>03/22</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+        </tr>
+
         <tr>
             <td class="sessionnumber">3</td>
             <td>03/24</td>
@@ -1080,6 +1126,26 @@
 
             <td>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>04/19</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
 
         <tr>
@@ -1466,6 +1532,21 @@
   <p>You will receive +10 extra credit points towards your final grade for every
   pull request accepted by an independently-maintained project against a pre-existing bug (eg, fixing new bugs you found, or even generated don't count!).</p>
   <p>Send an <a href="email:deejoe@mail.rit.edu">email to the instructor</a> with sufficient detail to confirm your bug fix was accepted.</p></div>
+
+<div class="section">
+  <a class="headerlink" name="Policy requirements"></a>
+  <h2>Accomodations</h2>
+   <p>
+     RIT is committed to providing reasonable accommodations to students with disabilities. If you would like to request accommodations such as special seating or testing modifications due to a disability, please contact the Disability Services Office. It is located in the Student Alumni Union, Room 1150; the Web site is www.rit.edu/dso. After you receive accommodation approval, it is imperative that you see me during office hours so that we can work out whatever arrangement is necessary.
+   </p>
+  <h2>Academic Integrity</h2>
+   <p>
+    <a  href="http://www.rit.edu/academicaffairs/policiesmanual/sectionA/honorcode.html">RIT Honor Code
+   </a></p>
+  <p>
+   <a href="http://www.rit.edu/~w-policy/sectionD/D8.html">RIT Academic Integrity Policy
+  </a></p>
+
 
 <%def name='topic_block(section)'>
   <td>
