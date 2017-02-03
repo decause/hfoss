@@ -441,7 +441,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>
+                        <a href="http://www.dandyhacks.org/">DandyHacks '17</a>
                 </p>
             </td>
         </tr>
@@ -564,7 +564,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>
+                        <a href="http://wic-hacks.rit.edu/">WiCHacks</a>
                 </p>
             </td>
         </tr>
