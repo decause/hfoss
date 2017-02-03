@@ -235,11 +235,11 @@
             </td>
 
             <td>
-                <p class="topic ">
-                </p>
             </td>
-
             <td>
+                <p class="topic ">
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> complete with PR</a>
+                </p>
             </td>
 
         </tr>
@@ -306,7 +306,6 @@
 
             <td>
                 <p class="topic ">
-                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> complete with PR</a>
                 </p>
                 <p class="topic ">
                 </p>
@@ -361,26 +360,6 @@
         </tr>
 
         <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>02/14</td>
-            <td>
-                <p class="special ">
-                    RocPy
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-        </tr>
-        <tr>
             <td class="sessionnumber">2</td>
             <td>02/15</td>
             <td>
@@ -404,6 +383,26 @@
                 <p class="topic ">
                 </p>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/15</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
         <tr>
             <td class="sessionnumber">3</td>
@@ -442,7 +441,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>
+                        <a href="http://www.dandyhacks.org/">DandyHacks '17</a>
                 </p>
             </td>
         </tr>
@@ -491,6 +490,26 @@
                     <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/21</td>
+            <td>
+                <p class="special ">
+                    RocPy
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
         <tr>
             <td class="sessionnumber">2</td>
@@ -545,7 +564,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>
+                        <a href="http://wic-hacks.rit.edu/">WiCHacks</a>
                 </p>
             </td>
         </tr>
@@ -716,26 +735,6 @@
             </td>
 
         </tr>
-        <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>03/14</td>
-            <td>
-                <p class="special ">
-                    RocPy
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-        </tr>
 
         <tr>
             <td class="sessionnumber">2</td>
@@ -774,8 +773,7 @@
             </td>
 
         </tr>
-        <tr>
-            <td></td>
+        <tr>            
             <!--td rowspan="3">***</td-->
             <td class="sessionnumber">***</td>
             <td>03/18</td>
@@ -814,6 +812,26 @@
             </td>
         </tr>
         <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>03/21</td>
+            <td>
+                <p class="special ">
+                    RocPy
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+        </tr>
+        <tr>
             <td class="sessionnumber">2</td>
             <td>03/22</td>
             <td>
@@ -829,6 +847,27 @@
             <td>
             </td>
         </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>03/22</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+        </tr>
+
         <tr>
             <td class="sessionnumber">3</td>
             <td>03/24</td>
@@ -1087,6 +1126,26 @@
 
             <td>
             </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>04/19</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
 
         <tr>
