@@ -6,7 +6,7 @@
 </div>
 
 <div class="alert alert-info">
-    <h2>Team Assessments <span class="label label-primary">10%</span></h2>
+    <h2>Team Assessments <span class="label label-primary">80 pts.</span></h2>
     <ul class="simple">
         <li>200-1000 words per teammate. 
         <li>Indicate what they did to contribute to the project.</li>
@@ -20,7 +20,7 @@
 </div>
 
 <div class="alert alert-info">
-    <h2>Final Presentation <span class="label label-primary">10%</span></h2>
+    <h2>Final Presentation <span class="label label-primary">80 pts.</span></h2>
     <ul>
         <li>Your presentations should last 10 minutes with another 5 minutes
         for discussion.</li>
@@ -55,7 +55,7 @@
 </div>
 
 <div class="alert alert-info">
-    <h2>Finished Project <span class="label label-primary">20%</span></h2>
+    <h2>Finished Project <span class="label label-primary">120 pts</span></h2>
     <ul>
         <li>Add a fully-fleshed out entry and link to your project information
         to this wiki page (Use the examples already there as a standard for the
