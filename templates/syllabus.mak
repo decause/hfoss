@@ -802,10 +802,10 @@
             <td class="sessionnumber">1</td>
             <td>03/20</td>
             <td>
-            </td>
                 <p class="topic ">
                         Commarch reports
                 </p>
+            </td>
             <td>
             </td>
             <td>
