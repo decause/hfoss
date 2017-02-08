@@ -1,6 +1,6 @@
 #hfoss
 name: Jacob Westerback
-avatar:  sjc5283@g.rit.edu
+avatar: sjc5283@g.rit.edu
 blog: http://hfoss-solanin.blogspot.com/
 feed: http://hfoss-solanin.blogspot.com/feeds/posts/default
 email: sjc5283@rit.edu
@@ -9,8 +9,10 @@ irc: Solanin
 rit_dce: sjc5283
 forges:
   - https://github.com/solanin
+  - https://people.rit.edu/sjc5283/
 bio: gamer, long time anime nerd, recent bullet journal user and house plant owner
 hw:
   firstflight: http://hfoss-solanin.blogspot.com/2017/01/first-flight.html
+  litreview1: http://hfoss-solanin.blogspot.com/2017/01/litreview-1.html
+  blog01: http://hfoss-solanin.blogspot.com/2017/01/github.html
   blog02: http://hfoss-solanin.blogspot.com/2017/02/intellectual-property-law.html
-
