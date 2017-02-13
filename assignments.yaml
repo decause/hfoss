@@ -6,9 +6,9 @@ hw:
   - litreview1
   - meetup1
   - blog01
-#  - blog02 
+  - blog02 
 #  - bugfix
-#  - blog03 
+  - blog03 
 #  - blog04 
 #  - quiz1
 #  - blog05 
@@ -34,5 +34,5 @@ hw:
 #  - teamprop2
 #    #- vidreview1
 #    #- vidreview2
-#  - finalrepo
-#  - finalpreso
+  - finalrepo
+  - finalpreso

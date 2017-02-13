@@ -250,7 +250,7 @@
             <td>02/06</td>
             <td>
                 <p class="topic ">
-                    <a href="">Rights, Restrictions, and Licensing: GNU/FSF</a>
+                    <a href="">Rights, Restrictions, and Licensing: Status Quo Ante</a>
                 </p>
                 <p class="topic ">
 		    litreview Discussion: What is Open Source?
@@ -272,6 +272,9 @@
             <td>02/08</td>
             <td>
                 <p class="topic ">
+                    <a href="">Rights, Restrictions, and Licensing: The Rise of Freedom</a>
+                </p>
+                <p class="topic ">
 		    litreview Discussion: What is Open Source?
                 </p>
             </td>
@@ -292,15 +295,16 @@
             <td>02/10</td>
             <td>
                 <p class="topic ">
-                    <a href="">Rights, Restrictions, and Licensing: Open Source</a>
+                    OLCP Intro
                 </p>
             </td>
             <td>
                 <p class="topic ">
-                    <a href="/static/books/unix.html">$7 Unix history</a>
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
+                    <!-- a href="/static/books/unix.html">$7 Unix history</a -->
                 </p>
                 <p class="topic ">
-                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
+                    <!-- a target="_blank" href="/hw/bugfix">Homework - Bugfix</a -->
                 </p>
             </td>
 
@@ -339,19 +343,17 @@
             <td>02/13</td>
             <td>
                 <p class="topic ">
-                    OLPC Distribution &amp; Smoke testing
                 </p>
                 <p class="topic ">
-                    <a target="_blank" href="http://wiki.laptop.org/go/Testing">Tests</a>
+                    <!-- a target="_blank" href="http://wiki.laptop.org/go/Testing"> OLPC Distribution &amp; Smoke testing ; Tests</a -->
                 </p>
                 <p class="topic ">
-                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test">Smoke Tests</a>
+                    <!-- a target="_blank" href="http://wiki.laptop.org/go/Smoke_test">Smoke Tests</a -->
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
             <td>
@@ -421,6 +423,7 @@
 
             <td>
                 <p class="topic ">
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
         </tr>
