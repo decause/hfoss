@@ -366,6 +366,7 @@
             <td>02/15</td>
             <td>
                 <p class="topic ">
+			Bugs
                         <!-- Quiz comments -->
                 </p>
                 <p class="special ">
@@ -377,6 +378,7 @@
             <td>
                 <p class="topic ">
                 </p>
+                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 <p class="topic ">
                 </p>
             </td>
