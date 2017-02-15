@@ -345,6 +345,7 @@
                 <p class="topic ">
                 </p>
                 <p class="topic ">
+                        Intro to OLPC & Sugar community links
                     <!-- a target="_blank" href="http://wiki.laptop.org/go/Testing"> OLPC Distribution &amp; Smoke testing ; Tests</a -->
                 </p>
                 <p class="topic ">
@@ -366,19 +367,16 @@
             <td>02/15</td>
             <td>
                 <p class="topic ">
-			Bugs
-                        <!-- Quiz comments -->
+                        Bugfix 1: Example, Distros as collections of programs (that have bugs).<!-- Quiz comments -->
                 </p>
                 <p class="special ">
                         <!-- Work session: Bugfix & Smoke Test -->
-                        Intro to OLPC, Sugar, Python
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
                 </p>
-                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 <p class="topic ">
                 </p>
             </td>
@@ -413,7 +411,6 @@
             <td>02/17</td>
             <td>
                 <p class="topic special">
-                        IRC-only Class (instructor travel)
                 </p>
             </td>
 
@@ -1104,11 +1101,12 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">13</td>
+            <td rowspan="4">13</td>
             <td class="sessionnumber">1</td>
             <td>04/17</td>
             <td>
                 <p class="topic special">
+                        IRC-only Class (instructor travel)
                 </p>
             </td>
 
@@ -1165,8 +1163,6 @@
             <td>
             </td>
 
-            <td>
-            </td>
         </tr>
 
         <tr>
