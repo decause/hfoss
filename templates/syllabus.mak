@@ -376,8 +376,7 @@
 
             <td>
                 <p class="topic ">
-                </p>
-                <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 </p>
             </td>
 
