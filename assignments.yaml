@@ -6,13 +6,13 @@ hw:
   - litreview1
   - meetup1
   - blog01
-#  - blog02 
+  - blog02 
 #  - bugfix
-#  - blog03 
-#  - blog04 
+  - blog03 
+  - blog04 
 #  - quiz1
-#  - blog05 
-#  - smoketest
+  - blog05 
+  - smoketest
 #  - litreview2
 #  - blog06 
 #  - blog07 
@@ -27,12 +27,12 @@ hw:
 #  - teamprop1
 #  - commarchreport
 #  - commarchpreso
-#  - meetup2
+  - meetup2
 #  - meetup3
 #  - curriculum
 #  - quiz2
 #  - teamprop2
 #    #- vidreview1
 #    #- vidreview2
-#  - finalrepo
-#  - finalpreso
+  - finalrepo
+  - finalpreso

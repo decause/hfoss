@@ -125,12 +125,6 @@
             </td>
 
             <td>
-                <p class="topic ">
-                        <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
-                </p>
-                <p class="topic ">
-                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
-                </p>
             </td>
 
             <td>
@@ -142,7 +136,7 @@
             <td>
                 <p class="topic ">
                 <em>Intros</em>
-                <a target="_blank" href="/lectures/w01c2">First Flight</a>
+                <a target="_blank" href="/hw/firstflight">First Flight</a>
                 <em>Kitting-out</em>
                 </p>
             </td>
@@ -150,6 +144,12 @@
             <td>
                 <p class="topic ">
                 <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
+                </p>
+                <p class="topic ">
+                        <a target="_blank" href="/static/books/Weber-SuccessofOpenSource-Chap3.pdf">litreview1: <em>What is Open Source?</em> by Steve Weber</a>
+                </p>
+                <p class="topic ">
+                       Watch <a href="http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm">FSF 30th Anniversary Video</a>
                 </p>
             </td>
 
@@ -217,6 +217,9 @@
 
             <td>
                 <p class="topic ">
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> IRC & email & github cloned</a>
+                </p>
+                <p class="topic ">
                 </p>
             </td>
 
@@ -232,13 +235,10 @@
             </td>
 
             <td>
-                <p class="topic ">
-                </p>
             </td>
-
             <td>
                 <p class="topic ">
-                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em></a>
+                        <a target="_blank" href="/hw/firstflight"><em>Homework - First Flight</em> complete with PR</a>
                 </p>
             </td>
 
@@ -250,7 +250,7 @@
             <td>02/06</td>
             <td>
                 <p class="topic ">
-                    <a href="">Rights, Restrictions, and Licensing: GNU/FSF</a>
+                    <a href="">Rights, Restrictions, and Licensing: Status Quo Ante</a>
                 </p>
                 <p class="topic ">
 		    litreview Discussion: What is Open Source?
@@ -272,6 +272,9 @@
             <td>02/08</td>
             <td>
                 <p class="topic ">
+                    <a href="">Rights, Restrictions, and Licensing: The Rise of Freedom</a>
+                </p>
+                <p class="topic ">
 		    litreview Discussion: What is Open Source?
                 </p>
             </td>
@@ -292,19 +295,22 @@
             <td>02/10</td>
             <td>
                 <p class="topic ">
-                    <a href="">Rights, Restrictions, and Licensing: Open Source</a>
+                    OLCP Intro
                 </p>
             </td>
             <td>
                 <p class="topic ">
-                    <a href="/static/books/unix.html">$7 Unix history</a>
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
+                    <!-- a href="/static/books/unix.html">$7 Unix history</a -->
                 </p>
                 <p class="topic ">
-                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
+                    <!-- a target="_blank" href="/hw/bugfix">Homework - Bugfix</a -->
                 </p>
             </td>
 
             <td>
+                <p class="topic ">
+                </p>
                 <p class="topic ">
                 </p>
             </td>
@@ -337,19 +343,18 @@
             <td>02/13</td>
             <td>
                 <p class="topic ">
-                    OLPC Distribution &amp; Smoke testing
                 </p>
                 <p class="topic ">
-                    <a target="_blank" href="http://wiki.laptop.org/go/Testing">Tests</a>
+                        Intro to OLPC & Sugar community links
+                    <!-- a target="_blank" href="http://wiki.laptop.org/go/Testing"> OLPC Distribution &amp; Smoke testing ; Tests</a -->
                 </p>
                 <p class="topic ">
-                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test">Smoke Tests</a>
+                    <!-- a target="_blank" href="http://wiki.laptop.org/go/Smoke_test">Smoke Tests</a -->
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
             <td>
@@ -358,56 +363,53 @@
         </tr>
 
         <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>02/14</td>
-            <td>
-                <p class="special ">
-                    RocPy
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-        </tr>
-        <tr>
             <td class="sessionnumber">2</td>
             <td>02/15</td>
             <td>
                 <p class="topic ">
-                        <!-- Quiz comments -->
+                        Bugfix 1: Example, Distros as collections of programs (that have bugs).<!-- Quiz comments -->
                 </p>
                 <p class="special ">
                         <!-- Work session: Bugfix & Smoke Test -->
-                        Intro to OLPC, Sugar, Python
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
                 </p>
-                <p class="topic ">
+            </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/15</td>
+            <td>
+                <p class="special ">
                 </p>
             </td>
 
             <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
                 <p class="topic ">
+
                 </p>
             </td>
+
         </tr>
         <tr>
             <td class="sessionnumber">3</td>
             <td>02/17</td>
             <td>
-                <p class="topic special">
-                        IRC-only Class (instructor travel)
+                <p class="topic ">
+                    Bugfix 2: Bugsearch boogaloo
                 </p>
             </td>
 
@@ -419,6 +421,7 @@
 
             <td>
                 <p class="topic ">
+                    <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
                 </p>
             </td>
         </tr>
@@ -439,7 +442,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>
+                        <a href="http://www.dandyhacks.org/">DandyHacks '17</a>
                 </p>
             </td>
         </tr>
@@ -466,11 +469,48 @@
         </tr>
 
         <tr>
-            <td rowspan="3">5</td>
+            <td rowspan="4">5</td>
             <td class="sessionnumber">1</td>
             <td>02/20</td>
             <td>
                 <p class="topic">
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+                <p class="topic ">
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>02/21</td>
+            <td>
+                <p class="special ">
+                    RocPy
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
+                </p>
+                <p class="topic ">
+                </p>
+            </td>
+
+        </tr>
+        <tr>
+            <td class="sessionnumber">2</td>
+            <td>02/22</td>
+            <td>
+                <p class="topic">
+                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
+                    COMMARCH: Reporting and analysis using GBAB et al
                 </p>
             </td>
 
@@ -484,28 +524,6 @@
             </td>
 
             <td>
-                <p class="topic ">
-                    <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td class="sessionnumber">2</td>
-            <td>02/22</td>
-            <td>
-                <p class="topic">
-                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
-                    COMMARCH: Reporting and analysis using GBAB et al
-                </p>
-            </td>
-
-            <td>
-            </td>
-
-            <td>
-                <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
-                </p>
             </td>
         </tr>
         <tr>
@@ -521,6 +539,7 @@
 
             <td>
                 <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -542,7 +561,7 @@
             </td>
             <td>
                 <p class="topic ">
-                        <a href="https://brickhack.io/">BrickHack</a>
+                        <a href="http://wic-hacks.rit.edu/">WiCHacks</a>
                 </p>
             </td>
         </tr>
@@ -713,26 +732,6 @@
             </td>
 
         </tr>
-        <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>03/14</td>
-            <td>
-                <p class="special ">
-                    RocPy
-                </p>
-            </td>
-
-            <td>
-                <p class="topic ">
-                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
-
-        </tr>
 
         <tr>
             <td class="sessionnumber">2</td>
@@ -771,8 +770,7 @@
             </td>
 
         </tr>
-        <tr>
-            <td></td>
+        <tr>            
             <!--td rowspan="3">***</td-->
             <td class="sessionnumber">***</td>
             <td>03/18</td>
@@ -801,14 +799,34 @@
             <td class="sessionnumber">1</td>
             <td>03/20</td>
             <td>
-            </td>
                 <p class="topic ">
                         Commarch reports
                 </p>
-            <td>
             </td>
             <td>
             </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>03/21</td>
+            <td>
+                <p class="special ">
+                    RocPy
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                   <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
         </tr>
         <tr>
             <td class="sessionnumber">2</td>
@@ -826,6 +844,27 @@
             <td>
             </td>
         </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>03/22</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+        </tr>
+
         <tr>
             <td class="sessionnumber">3</td>
             <td>03/24</td>
@@ -1057,11 +1096,12 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">13</td>
+            <td rowspan="4">13</td>
             <td class="sessionnumber">1</td>
             <td>04/17</td>
             <td>
                 <p class="topic special">
+                        IRC-only Class (instructor travel)
                 </p>
             </td>
 
@@ -1085,6 +1125,26 @@
             <td>
             </td>
         </tr>
+        <tr>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>04/19</td>
+            <td>
+                <p class="special ">
+                    
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+
+        </tr>
 
         <tr>
             <td class="sessionnumber">3</td>
@@ -1098,8 +1158,6 @@
             <td>
             </td>
 
-            <td>
-            </td>
         </tr>
 
         <tr>
