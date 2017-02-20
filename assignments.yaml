@@ -7,12 +7,12 @@ hw:
   - meetup1
   - blog01
   - blog02 
-  - bugfix
+  - smoketest
   - blog03 
+  - bugfix
   - blog04 
 #  - quiz1
   - blog05 
-  - smoketest
 #  - litreview2
 #  - blog06 
 #  - blog07 
