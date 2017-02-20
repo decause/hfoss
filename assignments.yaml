@@ -7,7 +7,7 @@ hw:
   - meetup1
   - blog01
   - blog02 
-#  - bugfix
+  - bugfix
   - blog03 
   - blog04 
 #  - quiz1
