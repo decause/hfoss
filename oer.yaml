@@ -3,6 +3,10 @@
 
 books:
   Neal_Stephenson_In_The_Beginning_was_the_Command_Line: "http://www.cryptonomicon.com/beginning.html"
+  Producing_Open_Source_Software: "http://producingoss.com/"
+  The_Open_Source_Way: "https://www.theopensourceway.org/"
+  Open_Sources:_Voices_From_The_Open_Source_Revolution: "http://www.oreilly.com/openbook/opensources/book/"
+  Free_as_in_Freedom_2.0: "https://archive.org/details/faif-2.0"
 videos:
   Linus_Torvalds_Git_Talk: "http://www.youtube.com/watch?v=4XpnKHJAok8"
   FSF_30_Year_Video: "http://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm"
@@ -13,5 +17,5 @@ decks:
   Ryan_Scott_Brown_Git_Talk: "http://rsb.io/talks/git/"
   SFLC_VMware_Lawsuit_FAQ: "https://sfconservancy.org/linux-compliance/vmware-lawsuit-faq.html"
   Python_Learner's_Glossary: "https://github.com/catherinedevlin/python_learners_glossary"
-
+  Logging_in_to_saskia_using_an_ssh_key: "https://github.com/ritjoe/hfoss/wiki/ssh-vision-to-saskia-pubkey"
 
