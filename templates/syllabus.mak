@@ -345,6 +345,7 @@
                 <p class="topic ">
                 </p>
                 <p class="topic ">
+                        Intro to OLPC & Sugar community links
                     <!-- a target="_blank" href="http://wiki.laptop.org/go/Testing"> OLPC Distribution &amp; Smoke testing ; Tests</a -->
                 </p>
                 <p class="topic ">
@@ -366,18 +367,16 @@
             <td>02/15</td>
             <td>
                 <p class="topic ">
-                        <!-- Quiz comments -->
+                        Bugfix 1: Example, Distros as collections of programs (that have bugs).<!-- Quiz comments -->
                 </p>
                 <p class="special ">
                         <!-- Work session: Bugfix & Smoke Test -->
-                        Intro to OLPC, Sugar, Python
                 </p>
             </td>
 
             <td>
                 <p class="topic ">
-                </p>
-                <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix">Homework - Bugfix</a>
                 </p>
             </td>
 
@@ -392,7 +391,6 @@
             <td>02/15</td>
             <td>
                 <p class="special ">
-                    
                 </p>
             </td>
 
@@ -410,8 +408,8 @@
             <td class="sessionnumber">3</td>
             <td>02/17</td>
             <td>
-                <p class="topic special">
-                        IRC-only Class (instructor travel)
+                <p class="topic ">
+                    Bugfix 2: Bugsearch boogaloo
                 </p>
             </td>
 
@@ -471,7 +469,7 @@
         </tr>
 
         <tr>
-            <td rowspan="3">5</td>
+            <td rowspan="4">5</td>
             <td class="sessionnumber">1</td>
             <td>02/20</td>
             <td>
@@ -480,17 +478,10 @@
             </td>
 
             <td>
-                <p class="topic ">
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
-                </p>
-                <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
-                </p>
             </td>
 
             <td>
                 <p class="topic ">
-                    <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -509,7 +500,6 @@
                    <a target="_blank" href="http://www.meetup.com/Rochester-Python-Meetup/">RocPy</a>
                 </p>
                 <p class="topic ">
-
                 </p>
             </td>
 
@@ -525,12 +515,15 @@
             </td>
 
             <td>
+                <p class="topic ">
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+                <p class="topic ">
+                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
+                </p>
             </td>
 
             <td>
-                <p class="topic ">
-                <a target="_blank" href="http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test">Smoke Test</a>
-                </p>
             </td>
         </tr>
         <tr>
@@ -546,6 +539,7 @@
 
             <td>
                 <p class="topic ">
+                    <a target="_blank" href="/hw/bugfix"><em>Homework - Bugfix</em></a>
                 </p>
             </td>
         </tr>
@@ -805,10 +799,10 @@
             <td class="sessionnumber">1</td>
             <td>03/20</td>
             <td>
-            </td>
                 <p class="topic ">
                         Commarch reports
                 </p>
+            </td>
             <td>
             </td>
             <td>
@@ -1102,11 +1096,12 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">13</td>
+            <td rowspan="4">13</td>
             <td class="sessionnumber">1</td>
             <td>04/17</td>
             <td>
                 <p class="topic special">
+                        IRC-only Class (instructor travel)
                 </p>
             </td>
 
@@ -1163,8 +1158,6 @@
             <td>
             </td>
 
-            <td>
-            </td>
         </tr>
 
         <tr>

@@ -1,0 +1,97 @@
+<h1 id="logging-in-to-saskia-using-an-ssh-key">Logging In To <em>saskia</em> Using An SSH Key</h1>
+<ul>
+<li><a href="#passphrase">Preliminary: Make a new, good passphrase</a></li>
+<li><a href="#intro">Introduction</a></li>
+<li><a href="#gen-keypair">Generating a keypair</a></li>
+<li><a href="#distribute-key">Distributing your public key in an accountable way</a></li>
+<li><a href="#connect">Using your keypair to connect to <em>saskia</em></a></li>
+<li><a href="#rationale">Rationale</a></li>
+<li><a href="#ref">Selected references</a></li>
+</ul>
+<h2 id="preliminary-make-a-new-good-passphrase">Preliminary: Make a new, good passphrase <a name="passphrase"/></h2>
+<p>Prior to completing this key generation exercise, please create and have at hand a good passphrase.</p>
+<p>For discussion and tips on generating good, and possibly memorable, passphrases, see:</p>
+<p><a href="https://www.eff.org/dice" class="uri">https://www.eff.org/dice</a></p>
+<p>there is also a pointer there on the use of password managers.</p>
+<h2 id="introduction">Introduction <a name="intro"/></h2>
+<p>For this exercise, in brief, you will:</p>
+<ul>
+<li>Log in to <em>vision.main.ad.rit.edu</em> using PuTTY or the ssh command from within git bash.</li>
+<li>Create an ssh asymmetric public key encryption keypair (aka &quot;an <em>ssh key</em>&quot;) on <em>vision</em>.</li>
+<li>Copy the public part of the keypair from <em>vision</em> and send to me in IRC by private message (IM).</li>
+<li>Copy the public part of the keypair to your public web space on people.rit.edu.</li>
+</ul>
+<p>We'll be logging in to two machines. We've already logged into <em>vision</em> several times:</p>
+<p><code>vision.main.ad.rit.edu</code></p>
+<p>We will, once again, log in to <em>vision</em>. That's where you'll enter commands to generate a keypair. The keypair will consist of two files, one of which stays on <em>vision</em> and is protected by your new passphrase. The other you will copy and send to me.</p>
+<p>One of the files is, by default, called <code>id_rsa</code>. This is your <em>private key</em>. It should remain on <em>vision</em> and be used only when logged in to <em>vision</em>. You should not copy it to anywhere else, and you should not reveal it to anyone else anywhere else in any way whatsoever. That's why we call it <em>private</em>.</p>
+<p>The other of the two files is, by default, called <code>id_rsa.pub</code>. This is your <em>public key</em>. It is meant for being distributed. The security surrounding use of this file is the concern of anyone to whom you give the key. That person has to ask &quot;does this key belong to whom I think it does?&quot; and &quot;if so, do I want to give that person access to a computer I manage?&quot;.</p>
+<p>(You don't have to worry about this next part, because if you successfully complete all other steps, it will be done for you: Your public key will be installed by the instructor in a subdirectory of your new home directory on <em>saskia.igm.rit.edu</em>. This subdirectory is <code>~/.ssh/</code> and the file into which your public key will be installed is called <code>~/.ssh/authorized_keys</code>.)</p>
+<p>We will be copying your public key file to the system:</p>
+<p><code>banjo.rit.edu</code></p>
+<p>We have not used <em>banjo</em> for this class before now. It hosts material for a public RIT web server known as <em>people.rit.edu</em>. Another alias for <em>banjo</em> is <em>gibson</em>.</p>
+<p>We can use programs like FileZilla to copy files to <em>banjo</em> but in this case we will be using the Secure Copy program, <code>scp</code> from <em>vision</em>.</p>
+<h2 id="generating-a-keypair">Generating a keypair <a name="gen-keypair"/></h2>
+<p>Please complete the following steps over an on-campus Internet connection (or via the <a href="https://www.rit.edu/its/services/network-communication/vpn">RIT VPN</a>) using an ssh client like <em>PuTTY</em> or git bash's <code>ssh</code>.</p>
+<p>Log in to <em>vision</em> with <em>PuTTY</em>, as we've done in class already, or with <em>git bash</em>.</p>
+<p>To log in with <em>PuTTY</em>, find it in the Windows menu or search for it, open it up and put in <em>vision.main.ad.rit.edu</em> in the dialogue box for the host.</p>
+<p>To log in with <em>git bash</em>, find it in the Windows menu or search for it, open it, and at the dollar sign ($) prompt, type in the command:</p>
+<p><code>ssh vision.main.ad.rit.edu</code></p>
+<p>Then, when prompted for a username, give <em>vision</em> your <a href="https://start.rit.edu">RIT Computer Account</a> user name. Once that's entered, you should get a password prompt. At the password prompt, please enter the corresponding password for your RIT Computer Account.</p>
+<p>Once logged in, issue the command</p>
+<p><code>ssh-keygen</code></p>
+<p>It will ask you for a filename. Please hit return to accept the default filename, that will make things easier. (it will actually be two filenames, <code>id_rsa</code> which is the private part of the keypair, and <code>id_rsa.pub</code> which is the public part of the keypair).</p>
+<p>It will also ask you for a passphrase. Please use a good, unique passphrase here, not one you've used anywhere else. A six-word phrase generated as discussed in the links above would be good. As is usual when setting a password or passphrase, you will have to enter it once, then enter it again to confirm.</p>
+<p>As you enter the passphrase, it will appear nothing is happening, there will be no dots echoed to indicate a character has been entered. But your keystrokes will be noted, so please try to keep track of where you are in entering your phrase. You may have to start over.</p>
+<p>Once you have entered and confirmed your passphrase and the key has been generated, some information about it will be displayed to your screen, including a fingerprint hash and a little picture. These can be redisplayed at any time using</p>
+<p><code>ssh-keygen -l -f ~/.ssh/id_rsa.pub</code></p>
+<p>so no need to make special note of them now.</p>
+<p>Once that's done, you can display your public key with:</p>
+<p><code>cat ~/.ssh/id_rsa.pub</code></p>
+<p>(if you are in your home directory, you might be able to just issue</p>
+<p><code>cat .ssh/id_rsa.pub</code> )</p>
+<p>Once your keypair has been created on <em>vision</em> you are then ready to send the public part of the keypair to your instructor.</p>
+<h2 id="distributing-your-public-key-in-an-accountable-way">Distributing your public key in an accountable way <a name="distribute-key"/></h2>
+<p>There are two relatively simple ways for me to get the public half of your keypair while knowing it is yours. We'll try to do both. One will use IRC, one will use the secure copy (scp) program and the RIT &quot;people&quot; web server.</p>
+<p>Then, you can highlight that string by left-clicking and dragging across it. The public key is about 350 characters long, and should start with 'ssh-rsa' and then end with something like <code>dce6789@vision</code> Please include both the initial and ending strings with your key, they are part of it.</p>
+<p>Then, go into IRC, open a private message session with me by typing something like:</p>
+<pre><code>`/msg dzho Here is my public key:`</code></pre>
+<p>and then paste the key in with a right click. If you make a mistake and post this publically, it's ok! That's why this is called a <em>public key</em>.</p>
+<p>The other way I'll have you make the key available to me is to have you upload it to the public web using the webhost <code>banjo.rit.edu</code>.</p>
+<p>While still logged in to <em>vision</em> via <em>PuTTY</em> or <em>git bash</em> <code>ssh</code> type</p>
+<p><code>scp ~/.ssh/id_rsa.pub dce5678@banjo.rit.edu:www/</code></p>
+<p>but please be sure to use your own RIT Computer Account name in place of the example placeholder here, <em>dce5678</em>.</p>
+<p>You will have to enter your RIT Computer Account username and password at the prompts that <code>banjo</code> presents to you.</p>
+<p><code>https://people.rit.edu/dce5678/id_rsa.pub</code></p>
+<p>(Again, <em>dce5678</em> here is an example RIT Computer Account name only. The real URL will have your RIT Computer Account name in it.)</p>
+<p>When you issue the command, if this is your first time connecting, it will ask you to accept <em>banjo</em>'s public key:</p>
+<p><code>The authenticity of host 'banjo.rit.edu (129.21.17.234)' can't be established.     ECDSA key fingerprint is SHA256:vjyc+oCEzpVx9OuxHc6zyJDWeHxxFXhOpq3B2tDqzgw.     Are you sure you want to continue connecting (yes/no)?</code></p>
+<p>(I think everyone will be able to access <em>banjo</em>, and that a www subdirectory will already be on it and working.</p>
+<p>If not, we may have to create them by logging in with PuTTY or gitbash ssh, and then issuing:</p>
+<p><code>mkdir ~/www     chmod a+rx www</code></p>
+<p>The first command creates the directory, the second command helps insure its contents can be read.)</p>
+<p>When all is in place, you should be able to type into a browser the URL as above (but using your own account name in place of dce5678) and should be able to see your public key.</p>
+<h2 id="using-your-keypair-to-connect-to-saskia">Using your keypair to connect to <em>saskia</em> <a name="connect"/></h2>
+<p>With your public key in hand, I will attempt to install it for you on the host</p>
+<p><code>saskia.igm.rit.edu</code></p>
+<p>on which I have already created for you a (password-disabled) account. When all is in place, you will first be sure you are logged in to <em>vision</em> as above. Then, enter</p>
+<p><code>ssh saskia.igm.rit.edu</code></p>
+<p>You will be prompted for the passphrase you created for your key. As before, when you enter it, it will not be echoed back to you, nor will any placeholder characters be displayed to indicate how many characters you have entered. Just do your best to enter your passphrase. If it doesn't work, try again. If after several tries you have no luck getting in to <em>saskia</em> please let me know, providing as many details as you can what error messages you see and about any steps you had problems with.</p>
+<p>Once you successfully log in to <em>saskia</em> you should see a prompt similar to what you've seen already on <em>vision</em>, something like:</p>
+<p><code>dce5678@saskia:~</code></p>
+<p>(again, with your RIT Computer Account name in place of the example <em>dce5678</em> used here.)</p>
+<p>You can issue the command <code>exit</code> at this point and report success, or, before doing so, explore a bit using the basic commands <code>ls</code>, <code>pwd</code>, and <code>cd</code>.</p>
+<h2 id="rationale">Rationale <a name="rationale"/></h2>
+<p>I have more control over your account on <em>saskia</em> and so will more easily be able to do collaborative things with you there than on <em>banjo</em> or <em>vision</em>.</p>
+<p>This key creation and distribution process also gives us some practice in working among different remote hosts, and provides us some practical experience with asymmetric public key encryption which is both of practical use and helps inform future discussion of FOSS and computer security.</p>
+<h2 id="selected-references">Selected references <a name="refs"></h2>
+<ul>
+<li><a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">PuTTY, a Windows SSH GUI</a></li>
+<li><a href="https://wiki.debian.org/Seahorse">Seahorse, a GNOME SSH GUI</a></li>
+<li><a href="https://fedoramagazine.org/open-source-ssh-clients/">Open source SSH clients</a> <em>Fedora Magazine</em>, Eduard Lucena</li>
+<li><a href="https://www.openssh.com/manual.html">OpenSSH manual pages</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Secure_Shell">Secure Shell Wikipedia page</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenSSH">OpenSSH Wikipedia page</a></li>
+<li><a href="https://tools.ietf.org/html/rfc4251">RFC4251 The Secure Shell (SSH) Protocol Architecture</a></li>
+<li><a href="https://tools.ietf.org/html/rfc4252">RFC4252 The Secure Shell (SSH) Authentication Protocol</a></li>
+</ul>
