@@ -1422,18 +1422,19 @@
 </div>
 
 <div class="section">
-    <!--Color Legend for Schedule-->
-    <!--<a class="headerlink" name="Legend"></a>-->
-    <h3>Legend</h3>
-    <table>
-        <!--<tr><td><p class="topic"></p></td></tr>-->
-        <tr><td><p class="special">special topic/assignment</p></td></tr>
-        <tr><td><p class="hackathon">hackathon</p></td></tr>
-        <tr><td><p class="guest">guest</p></td></tr>
-        <tr><td><p class="cancelled">CANCELLED</p></td></tr>
-    </table>
-    
-</div>
+		<!--Color Legend for Schedule-->
+		<!--<a class="headerlink" name="Legend"></a>-->
+		<table class="table-bordered">
+			<tr><th>Legend</th></tr>
+			<!--<tr><td><p class="topic"></p></td></tr>-->
+			<tr><td><p class="special">special topic/assignment</p></td></tr>
+			<tr><td><p class="hackathon">hackathon</p></td></tr>
+			<tr><td><p class="guest">guest</p></td></tr>
+			<tr><td><p class="vaycay">vacation</p></td></tr>
+			<tr><td><p class="cancelled">CANCELLED</p></td></tr>
+		</table>
+		
+	</div>
 
 <div class="section">
     <a class="headerlink" name="attendance"></a>
