@@ -7,12 +7,12 @@ hw:
   - meetup1
   - blog01
   - blog02 
-#  - bugfix
+  - smoketest
   - blog03 
-#  - blog04 
+  - bugfix
+  - blog04 
 #  - quiz1
-#  - blog05 
-#  - smoketest
+  - blog05 
 #  - litreview2
 #  - blog06 
 #  - blog07 
@@ -27,7 +27,7 @@ hw:
 #  - teamprop1
 #  - commarchreport
 #  - commarchpreso
-#  - meetup2
+  - meetup2
 #  - meetup3
 #  - curriculum
 #  - quiz2
