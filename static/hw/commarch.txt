@@ -18,7 +18,7 @@ stack.
 1.  Choose your team. We'll be doing this in class, and teams must be approved
     by your instructor. We'll use proposed projects as an organizing tool.
 
-2.  Choose a FOSS Project. You can use distribution package databases or
+3.  Choose a FOSS Project. You can use distribution package databases or
     OpenHatch.org collect general information on Free/Open Source
     projects (including games!).  Select one active software project
     about which to write.  Have an alternative handy if you find that
@@ -35,6 +35,9 @@ stack.
     https://github.com/ryansb/gitbyatruck
 
     or any newer forks of the above.
+
+    You may wish first to run GBAB on itself, or on another small trial project
+    like https://github.com/FOSSRIT/sugar-quickstart
 
 3.  Calculate your project's "Callaway Coefficient of Fail" using the rubric available here:
     http://hfoss17s-ritjoe.rhcloud.com/static/books/tomspotcallaway-howtotellifyourfossprojectisdoomedtofail.pdf
