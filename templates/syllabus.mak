@@ -509,8 +509,6 @@
             <td>02/22</td>
             <td>
                 <p class="topic">
-                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
-                    COMMARCH: Reporting and analysis using GBAB et al
                 </p>
             </td>
 
@@ -519,7 +517,6 @@
                 <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
 
@@ -572,13 +569,19 @@
             <td>02/27</td>
             <td>
                 <p class="topic ">
+                       <a href="/static/hw/teamproposal.html"><em>Commarch Team</em></a>
+                </p>
+                <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report 1: Candidate Projects</a>
+                </p>
+                <p class="topic ">
+                     <a href="/static/hw/commarch">Commarch grading</a>
                 </p>
             </td>
-
             <td>
                 <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
-
                 <p class="topic ">
                 </p>
             </td>
@@ -619,18 +622,23 @@
             <td>03/01</td>
             <td>
                 <p class="special ">
-                        Work session: Sugar-on-a-Stick
                 </p>
             </td>
 
             <td>
+                <p class="topic ">
+                       <a href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+                <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report</a>
+                </p>
             </td>
 
             <td>
                 <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report 1: Candidate Projects</a>
                 </p>
                 <p class="topic ">
-                </p>
             </td>
 
         </tr>
@@ -639,7 +647,6 @@
             <td>03/03</td>
             <td>
                 <p class="">
-                    Quiz
                 </p>
             </td>
 
@@ -648,9 +655,7 @@
 
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
-                </p>
-                <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report 2: Team Formation</a>
                 </p>
             </td>
 
@@ -728,7 +733,6 @@
             </td>
 
             <td>
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
 
         </tr>
