@@ -18,14 +18,22 @@ stack.
 1.  Choose your team. We'll be doing this in class, and teams must be approved
     by your instructor. We'll use proposed projects as an organizing tool.
 
-3.  Choose a FOSS Project. You can use distribution package databases or
+2.  Choose a FOSS Project. You can use distribution package databases or
     OpenHatch.org collect general information on Free/Open Source
     projects (including games!).  Select one active software project
     about which to write.  Have an alternative handy if you find that
     you cannot get much information about your first choice.  Project
     choices must be approved by your instructor.
 
-3.  Follow the instructions included in the "Git By A Bus" repository on Github
+3.  Write a blog post to present the project(s) you propose to analyze.
+    Discuss what other projects you considered and why you chose what you
+    chose.  Include links at least to the projects you've chosen.  Make some
+    attempt to assign roles to team members, and otherwise address the items
+    from:
+
+    http://hfoss17s-ritjoe.rhcloud.com/static/hw/teamproposal.html
+
+4.  Follow the instructions included in the "Git By A Bus" repository on Github
     to generate a report on your selected project, available here:
 
     https://github.com/tomheon/git_by_a_bus/tree/v2 (More powerful but output is raw. Run it as gbab.py)
@@ -39,12 +47,12 @@ stack.
     You may wish first to run GBAB on itself, or on another small trial project
     like https://github.com/FOSSRIT/sugar-quickstart
 
-3.  Calculate your project's "Callaway Coefficient of Fail" using the rubric available here:
+5.  Calculate your project's "Callaway Coefficient of Fail" using the rubric available here:
     http://hfoss17s-ritjoe.rhcloud.com/static/books/tomspotcallaway-howtotellifyourfossprojectisdoomedtofail.pdf
 
     See also: https://www.theopensourceway.org/wiki/How_to_tell_if_a_FLOSS_project_is_doomed_to_FAIL
 
-4.  Dig deeper. Provide answers to the following questions:
+6.  Dig deeper. Provide answers to the following questions:
 
     If applicable, list or provide links to:
         I.      The project's IRC Channel
@@ -111,12 +119,12 @@ stack.
     R.  Is this the kind of structure you would enjoy working in? Why, or
         why not?
 
-5.  Write up a set of answers to these questions including how you arrived at
+7.  Write up a set of answers to these questions including how you arrived at
     your conclusions (links, convo quotes, irc logs, email threads, etc.) to be
     posted to your blogs individually. Each member can link to the same
     analysis, but should give a personal account "in your own voice."
 
-6.  Prepare in a brief slide-deck to present as a group to the class based on
+8.  Prepare in a brief slide-deck to present as a group to the class based on
     your research.
 
 See also: http://hfoss17s-ritjoe.rhcloud.com/hw/commarch
