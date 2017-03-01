@@ -712,6 +712,7 @@
 
             <td>
                 <p class="topic">
+                     <a href="/static/hw/commarch.txt">Commarch Report, all artifacts posted or submitted</a>
                 </p>
             </td>
         </tr>
