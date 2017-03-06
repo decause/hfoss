@@ -670,7 +670,8 @@
                 </p>
             </td>
             <td>
-            </td>
+                  <a target="_blank"href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview2: <em>Roads and Bridges ...</em> by Nadia Eghbal (preface through page 53)</a>
+           </td>
             <td>
             </td>
         </tr>
@@ -679,7 +680,7 @@
             <td>03/08</td>
             <td>
                 <p class="topic ">
-			SJ: Playtesting, FOSS minor, FOSS@MAGIC.
+
                 </p>
                 <p class="topic ">
 			Work on commarch
@@ -838,7 +839,6 @@
             <td>03/22</td>
             <td>
                 <p class="topic ">
-                        Commarch reports
                 </p>
                 <p class="topic ">
                         EDU: Curriculum Exploration.
@@ -847,6 +847,7 @@
             <td>
             </td>
             <td>
+               <a target="_blank"href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview2: <em>Roads and Bridges ...</em> by Nadia Eghbal (preface through page 53)</a>
             </td>
         </tr>
         <tr>
