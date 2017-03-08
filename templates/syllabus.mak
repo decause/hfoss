@@ -680,7 +680,7 @@
             <td>03/08</td>
             <td>
                 <p class="topic ">
-
+                   <a href="http://hfoss17s-ritjoe.rhcloud.com/quiz/quiz1">Quiz 1</a>
                 </p>
                 <p class="topic ">
 			Work on commarch
