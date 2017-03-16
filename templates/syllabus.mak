@@ -509,8 +509,6 @@
             <td>02/22</td>
             <td>
                 <p class="topic">
-                <a href="/hw/commarch">COMMARCH project:</a> Git-by-a-bus and CCF: Callaway Coefficient of Fail.
-                    COMMARCH: Reporting and analysis using GBAB et al
                 </p>
             </td>
 
@@ -519,7 +517,6 @@
                 <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
                 </p>
                 <p class="topic ">
-                <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
             </td>
 
@@ -572,13 +569,19 @@
             <td>02/27</td>
             <td>
                 <p class="topic ">
+                       <a href="/static/hw/teamproposal.html"><em>Commarch Team</em></a>
+                </p>
+                <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report 1: Candidate Projects</a>
+                </p>
+                <p class="topic ">
+                     <a href="/static/hw/commarch">Commarch grading</a>
                 </p>
             </td>
-
             <td>
                 <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report</a>
                 </p>
-
                 <p class="topic ">
                 </p>
             </td>
@@ -619,18 +622,23 @@
             <td>03/01</td>
             <td>
                 <p class="special ">
-                        Work session: Sugar-on-a-Stick
                 </p>
             </td>
 
             <td>
+                <p class="topic ">
+                       <a href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                </p>
+                <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report</a>
+                </p>
             </td>
 
             <td>
                 <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report 1: Candidate Projects</a>
                 </p>
                 <p class="topic ">
-                </p>
             </td>
 
         </tr>
@@ -639,7 +647,6 @@
             <td>03/03</td>
             <td>
                 <p class="">
-                    Quiz
                 </p>
             </td>
 
@@ -648,9 +655,7 @@
 
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
-                </p>
-                <p class="topic ">
+                     <a href="/static/hw/commarch.txt">Commarch Report 2: Team Formation</a>
                 </p>
             </td>
 
@@ -665,7 +670,8 @@
                 </p>
             </td>
             <td>
-            </td>
+                  <a target="_blank"href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview2: <em>Roads and Bridges ...</em> by Nadia Eghbal (preface through page 53)</a>
+           </td>
             <td>
             </td>
         </tr>
@@ -674,7 +680,7 @@
             <td>03/08</td>
             <td>
                 <p class="topic ">
-			SJ: Playtesting, FOSS minor, FOSS@MAGIC.
+                   <a href="http://hfoss17s-ritjoe.rhcloud.com/quiz/quiz1">Quiz 1</a>
                 </p>
                 <p class="topic ">
 			Work on commarch
@@ -707,6 +713,7 @@
 
             <td>
                 <p class="topic">
+                     <a href="/static/hw/commarch.txt">Commarch Report, all artifacts posted or submitted</a>
                 </p>
             </td>
         </tr>
@@ -728,7 +735,6 @@
             </td>
 
             <td>
-                    <a target="_blank" href="/static/hw/commarch.txt">Commarch Report</a>
             </td>
 
         </tr>
@@ -833,7 +839,6 @@
             <td>03/22</td>
             <td>
                 <p class="topic ">
-                        Commarch reports
                 </p>
                 <p class="topic ">
                         EDU: Curriculum Exploration.
@@ -842,6 +847,7 @@
             <td>
             </td>
             <td>
+               <a target="_blank"href="/static/books/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf">litreview2: <em>Roads and Bridges ...</em> by Nadia Eghbal (preface through page 53)</a>
             </td>
         </tr>
         <tr>
@@ -1420,6 +1426,21 @@
         </tbody>
     </table>
 </div>
+
+<div class="section">
+		<!--Color Legend for Schedule-->
+		<!--<a class="headerlink" name="Legend"></a>-->
+		<table class="table-bordered">
+			<tr><th>Legend</th></tr>
+			<!--<tr><td><p class="topic"></p></td></tr>-->
+			<tr><td><p class="special">special topic/assignment</p></td></tr>
+			<tr><td><p class="hackathon">hackathon</p></td></tr>
+			<tr><td><p class="guest">guest</p></td></tr>
+			<tr><td><p class="vaycay">vacation</p></td></tr>
+			<tr><td><p class="cancelled">CANCELLED</p></td></tr>
+		</table>
+		
+	</div>
 
 <div class="section">
     <a class="headerlink" name="attendance"></a>
