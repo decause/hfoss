@@ -4,8 +4,8 @@
 
 This is the content repository for the [RIT](https://rit.edu) [Department of Interactive Games and Media](http://igm.rit.edu)
 __Humanitarian Free/Open Source Software Course__ (HFOSS). This course is a
-__required__ part of the RIT [Academic Minor](http://www.rit.edu/news/story.php?id=50590) in
-Free/Open Source Software and Free Culture (a first at any University in the
+__required__ part of the RIT [Academic Minor](https://www.rit.edu/gccis/igm/free-open-source-software-foss-mn) in
+[Free/Open Source Software and Free Culture](http://www.rit.edu/news/story.php?id=50590) (a first at any University in the
 United States!) 
 
 This repository contains course-specific static content, and should be used
