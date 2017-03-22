@@ -575,7 +575,7 @@
                      <a href="/static/hw/commarch.txt">Commarch Report 1: Candidate Projects</a>
                 </p>
                 <p class="topic ">
-                     <a href="/static/hw/commarch">Commarch grading</a>
+                     <a href="/hw/commarch">Commarch grading</a>
                 </p>
             </td>
             <td>
