@@ -923,14 +923,15 @@
             <td>03/27</td>
             <td>
                 <p class="topic ">
+                        Creative Commons & Free Culture
                 </p>
             </td>
 
             <td>
+                 Team formation
             </td>
 
             <td>
-                 Team formation
             </td>
 
         </tr>
@@ -946,6 +947,7 @@
             </td>
 
             <td>
+                 Team formation
             </td>
 
         </tr>
@@ -954,7 +956,6 @@
             <td>03/31</td>
             <td>
                 <p class="topic ">
-                        Creative Commons & Free Culture
                 </p>
             </td>
 
@@ -1017,7 +1018,7 @@
             </td>
 
             <td>
-                Quiz 2
+                <!-- Quiz 2 -->
             </td>
 
             <td>
