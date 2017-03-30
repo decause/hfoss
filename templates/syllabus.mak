@@ -1007,6 +1007,7 @@
             </td>
 
             <td>
+                Show <a href="https://github.com/ritjoe/hfoss/wiki/sugar-desktop-activity-development-quickstarts">quickstarts</a> and <a href="https://developer.sugarlabs.org/desktop-activity.md.html">"Hello, World!"</a>running on your XO.
             </td>
         </tr>
         <tr>
@@ -1163,8 +1164,8 @@
             <td class="sessionnumber">3</td>
             <td>04/21</td>
             <td>
-                <p class="topic">
-                TBD
+                <p class="guest">
+                    Mel Chua
                 </p>
             </td>
 
