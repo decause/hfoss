@@ -1445,9 +1445,8 @@
 			<tr><td><p class="guest">guest</p></td></tr>
 			<tr><td><p class="vaycay">vacation</p></td></tr>
 			<tr><td><p class="cancelled">CANCELLED</p></td></tr>
-		</table>
-		
-	</div>
+		</table>	
+</div>
 
 <div class="section">
     <a class="headerlink" name="attendance"></a>
