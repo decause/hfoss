@@ -18,8 +18,8 @@ hw:
   - commarchreport
   - commarchpreso
   - litreview2
-#  - blog07 
-#  - blog08 
+  - blog07 
+  - blog08 
 #  - blog09 
 #  - blog10 
 #  - blog11
@@ -28,10 +28,10 @@ hw:
 #  - blog15
 #  - bugreport
   - meetup2
-#  - meetup3
-#  - curriculum
+  - meetup3
+  - litreview3
 #  - quiz2
-#  - teamprop2
+  - teamprop2
 #    #- vidreview1
 #    #- vidreview2
   - finalrepo

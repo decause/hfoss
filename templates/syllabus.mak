@@ -801,7 +801,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">9</td>
+            <td rowspan="4">9</td>
             <td class="sessionnumber">1</td>
             <td>03/20</td>
             <td>
@@ -874,12 +874,17 @@
         <tr>
             <td class="sessionnumber">3</td>
             <td>03/24</td>
+            <td class="sessionnumber">3</td>
+
             <td>
-            </td>
                 <p class="topic ">
-                <!-- EDU: Curriculum Discussion -->
+                    <a target="_blank" href="http://hfoss17s-ritjoe.rhcloud.com/static/decks/OLPCKidsAdja1.odp">Instructional Theory</a>
                 </p>
+            </td>
             <td>
+                <p class="topic ">
+                    <a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf">litreview3: 4th grade math curriculum</a>
+                </p>
             </td>
             <td>
             </td>
@@ -918,15 +923,15 @@
             <td>03/27</td>
             <td>
                 <p class="topic ">
-                Creative Commons & Free Culture
+                        Creative Commons & Free Culture
                 </p>
             </td>
 
             <td>
+                 Team formation
             </td>
 
             <td>
-                 Team formation
             </td>
 
         </tr>
@@ -942,6 +947,7 @@
             </td>
 
             <td>
+                 Team formation
             </td>
 
         </tr>
@@ -958,6 +964,7 @@
             </td>
 
             <td>
+                    <a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf">litreview3: 4th grade math curriculum</a>
             </td>
 
         </tr>
@@ -1011,7 +1018,7 @@
             </td>
 
             <td>
-                Quiz 2
+                <!-- Quiz 2 -->
             </td>
 
             <td>
