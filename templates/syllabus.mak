@@ -730,7 +730,7 @@
 
             <td>
                 <p class="topic ">
-                <a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf"><em>NY </a>&amp;  <a href="/static/decks/MA-0111-grade4only.pdf">MA </a>4th Grade Curriculum</em>
+                <!-- a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf"><em>NY </a>&amp;  <a href="/static/decks/MA-0111-grade4only.pdf">MA </a>4th Grade Curriculum</em -->
                 </p>
             </td>
 
@@ -753,7 +753,7 @@
 
             <td>
                 <p class="topic ">
-                  <a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf"><em>NY </a>&amp;  <a href="/static/decks/MA-0111-grade4only.pdf">MA </a>4th Grade Curriculum</em>
+                  <!-- a target="_blank" href="/static/decks/nysp12cclsmath-grade4only.pdf"><em>NY </a>&amp;  <a href="/static/decks/MA-0111-grade4only.pdf">MA </a>4th Grade Curriculum</em -->
                 </p>
             </td>
 
@@ -981,12 +981,11 @@
 
             <td>
                 <p class="topic ">
-
                 </p>
                 <p class="topic ">
                 </p>
             </td>
-
+                 <a href="https://github.com/ritjoe/hfoss/wiki/sugar-desktop-activity-development-quickstarts">quickstarts</a> and <a href="https://developer.sugarlabs.org/desktop-activity.md.html">"Hello, World!"</a>
             <td>
                 <p class="topic ">
                 </p>
@@ -1007,7 +1006,6 @@
             </td>
 
             <td>
-                Show <a href="https://github.com/ritjoe/hfoss/wiki/sugar-desktop-activity-development-quickstarts">quickstarts</a> and <a href="https://developer.sugarlabs.org/desktop-activity.md.html">"Hello, World!"</a>running on your XO.
             </td>
         </tr>
         <tr>
@@ -1023,7 +1021,7 @@
             </td>
 
             <td>
-               <a href="/static/hw/teamproposal.html">Team Proposal 2</a>
+                Show <a href="https://github.com/ritjoe/hfoss/wiki/sugar-desktop-activity-development-quickstarts">quickstarts</a> and <a href="https://developer.sugarlabs.org/desktop-activity.md.html">"Hello, World!"</a>running on your XO.
             </td>
         </tr>
         <tr>
@@ -1039,7 +1037,7 @@
             </td>
 
             <td>
-
+                Team GitHub repository created.
             </td>
         </tr>
 
@@ -1065,7 +1063,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">12</td>
+            <td rowspan="4">12</td>
             <td class="sessionnumber">1</td>
             <td>04/10</td>
             <td>
@@ -1077,6 +1075,7 @@
             </td>
 
             <td>
+               <a href="/static/hw/teamproposal.html">Team Proposal 2</a>
             </td>
         </tr>
         <tr>
@@ -1087,7 +1086,6 @@
                 TBD
                 </p>
             </td>
-
             <td>
             </td>
 
@@ -1095,7 +1093,24 @@
             </td>
         </tr>
         <tr>
-            <td class="sessionnumber">2</td>
+            <!--td rowspan="3">***</td-->
+            <td class="sessionnumber">***</td>
+            <td>04/12</td>
+            <td>
+                <p class="special ">
+                </p>
+            </td>
+
+            <td>
+                <p class="special ">
+                   FOSSTalk MAGIC Center 4-6
+                </p>
+                <p class="topic ">
+
+                </p>
+            </td>
+        <tr>
+            <td class="sessionnumber">3</td>
             <td>04/14</td>
             <td>
                 <p class="topic">
@@ -1110,7 +1125,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="4">13</td>
+            <td rowspan="3">13</td>
             <td class="sessionnumber">1</td>
             <td>04/17</td>
             <td>
@@ -1137,26 +1152,9 @@
             </td>
 
             <td>
+                Proof-of-concept/prototype
             </td>
         </tr>
-        <tr>
-            <!--td rowspan="3">***</td-->
-            <td class="sessionnumber">***</td>
-            <td>04/19</td>
-            <td>
-                <p class="special ">
-                    
-                </p>
-            </td>
-
-            <td>
-                <p class="special ">
-                   FOSSTalk MAGIC Center 4-6
-                </p>
-                <p class="topic ">
-
-                </p>
-            </td>
 
         </tr>
 
@@ -1283,6 +1281,7 @@
             </td>
 
             <td>
+                Working version
             </td>
         </tr>
         <tr>
@@ -1311,7 +1310,6 @@
             </td>
 
             <td>
-              Projects completed
             </td>
         </tr>
         <tr>
@@ -1360,7 +1358,6 @@
             <td>05/10</td>
             <td>
                 <p class="topic">
-                Final presentations
                 </p>
             </td>
 
@@ -1368,6 +1365,7 @@
             </td>
 
             <td>
+                Final version
             </td>
         </tr>
         <tr>
