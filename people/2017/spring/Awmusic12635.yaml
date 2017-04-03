@@ -16,7 +16,7 @@ hw:
   firstflight: https://blog.alexwacker.com/2017/01/hfoss-first-flight/
   litreview1: https://blog.alexwacker.com/2017/02/hfoss-what-is-open-source-review/
   litreview2: https://blog.alexwacker.com/2017/03/hfoss-litrereview2/
-  litreview3: https://blog.alexwacker.com/2017/03/hfoss-litereview3/
+  litreview3: https://blog.alexwacker.com/2017/03/hfoss-litrereview3/
   quiz1: https://blog.alexwacker.com/2017/03/hfoss-quiz1/
   blog01: https://blog.alexwacker.com/2017/01/hfoss-first-flight/
   blog02: https://blog.alexwacker.com/2017/02/the-centralization-of-open-source-to-github/
@@ -25,6 +25,7 @@ hw:
   blog05: https://blog.alexwacker.com/2017/03/hfoss-open-source-documentation/
   blog06: https://blog.alexwacker.com/2017/03/web-browsing-privacy-under-threat/
   blog07: https://blog.alexwacker.com/2017/03/hfoss-patent-riders/ 
+  blog08: https://blog.alexwacker.com/2017/04/hfoss-reasonable-disclosure/
   smoketest: https://blog.alexwacker.com/2017/02/hfoss-xo-smoke-test/
   bugfix: https://blog.alexwacker.com/2017/02/hfoss-bugfix/
   commarchteam: https://blog.alexwacker.com/2017/03/hfoss-team-proposal/
