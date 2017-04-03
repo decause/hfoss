@@ -956,11 +956,12 @@
             <td>03/31</td>
             <td>
                 <p class="topic ">
+                    <a href="https://github.com/ritjoe/hfoss/wiki/sugar-desktop-activity-development-quickstarts">quickstarts</a> and <a href="https://developer.sugarlabs.org/desktop-activity.md.html">"Hello, World!"</a>
                 </p>
             </td>
 
             <td>
-
+                    <a href="https://github.com/ritjoe/hfoss/wiki/sugar-desktop-activity-development-quickstarts">quickstarts</a> and <a href="https://developer.sugarlabs.org/desktop-activity.md.html">"Hello, World!"</a>
             </td>
 
             <td>
@@ -985,7 +986,6 @@
                 <p class="topic ">
                 </p>
             </td>
-                 <a href="https://github.com/ritjoe/hfoss/wiki/sugar-desktop-activity-development-quickstarts">quickstarts</a> and <a href="https://developer.sugarlabs.org/desktop-activity.md.html">"Hello, World!"</a>
             <td>
                 <p class="topic ">
                 </p>
