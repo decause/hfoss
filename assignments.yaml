@@ -20,7 +20,9 @@ hw:
   - litreview2
   - blog07 
   - blog08 
+  - litreview3
   - blog09 
+  - teamprop2
   - blog10 
   - blog11
   - blog12 
@@ -29,9 +31,7 @@ hw:
 #  - bugreport
   - meetup2
   - meetup3
-  - litreview3
 #  - quiz2
-  - teamprop2
 #    #- vidreview1
 #    #- vidreview2
   - finalrepo
