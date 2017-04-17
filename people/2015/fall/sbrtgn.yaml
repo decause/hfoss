@@ -1,0 +1,12 @@
+#hfoss
+name: sbrtgn
+blog: http://sbrtgn.blogspot.com/
+feed: http://sbrtgn.blogspot.com/feeds/posts/default
+forges:
+  - https://github.com/sb3972/
+irc: sbrtgn
+rit_dce: sb3972
+hw:
+  firstflight: http://sbrtgn.blogspot.com/2015/09/first-flight.html
+  litreview1: http://sbrtgn.blogspot.com/2015/09/lit-review-what-is-open-source.html
+  litreview2: http://sbrtgn.blogspot.com/2015/09/the-ethics-of-unpaid-labor-and-oss.html

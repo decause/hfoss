@@ -1,0 +1,13 @@
+#hfoss
+name: sctjkc01
+blog: http://fossstick.wordpress.com/
+feed: http://fossstick.wordpress.com/feed/
+forges:
+  - http://github.com/sctjkc01
+irc: sctjkc01
+rit_dce: cjc9137
+hw:
+  firstflight: https://fossstick.wordpress.com/2015/08/27/post-oh-one/
+  litreview1: https://fossstick.wordpress.com/2015/09/08/post-oh-three-litreview-one/
+  litreview2: https://fossstick.wordpress.com/2015/09/15/post-oh-four-litreview-two/
+  bugfix1: https://fossstick.wordpress.com/2015/09/15/post-oh-five-bug-squash/

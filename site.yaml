@@ -2,35 +2,35 @@ course:
     name: HFOSS
     desc: The RIT Humanitarian Free/Open Source Software Development Course
     place: RIT
-    start: 2015-01-26
-    end: 2015-05-13
-    blog_start: 2015-02-08
-    blog_end: 2015-05-20
-    times: Mon & Wed 5:00PM - 6:15PM
-    course: 4085.582.01
-    location: Orange Hall (ORN)-1375
-    final: 5/20, 5:00PM-7:00pm, ORN-1375
-    repo: http://github.com/decause/hfoss
+    start: 2015-08-25
+    end: 2015-12-10
+    blog_start: 2015-09-08
+    blog_end: 2015-12-20
+    times: Tue & Thu 6:30PM - 7:45PM
+    course: IGME58201.2151
+    location: Orange Hall (ORN)-1380
+    final: TBD, 6:30PM-7:45pm, ORN-1380
+    repo: http://github.com/ritjoe/hfoss
     public_url: http://hfoss-ritigm.rhcloud.com
 
 instructor:
-    name: Remy DeCausemaker
-    email: remydcsi@rit.edu
-    irc: decause
-    avatar: http://www.libravatar.org/user/5d9d0a14af042b2f7877ab58de9b7702ca29bb9d34155dc58eff4ff6509d562c.png
-    openhub: decause
-    coderwall: decause
-    twitter: Remy_D
+    name: D. Joe Anderson
+    email: deejoe@mail.rit.edu
+    irc: dzho
+    avatar: None
+    openhub: None
+    twitter: deej0e
     office:
-        location: The MAGIC Center - SIH 1680
-        hours: Monday, Wednesday, 4:00-5:00pm
+        location: 70-2500
+        hours: Tuesday, Thursday, 5:45-6:15pm
     links:
-        blog: http://opensource.com/users/remyd
-        linkedin: http://linkedin.com/in/decause
-        github: http://github.com/decause
-        opensource: http://opensource.com/users/remyd
+        blog: None
+        linkedin: None
+        github: http://github.com/ritjoe
+        opensource: None
 
 assistant:
-    name: Mike Nolan (Nolski)
-    email: me@michael-nolan.com
-    irc: Nolski
+    name: Matt Soucy (msoucy)
+    email: msoucy@csh.rit.edu
+    irc: msoucy
+
