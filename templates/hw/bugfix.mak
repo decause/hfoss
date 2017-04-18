@@ -33,6 +33,7 @@
                     <li>Scope the OpenHatch Volunteer Opportunity Finder for
                     <code><a target="_blank" href="http://openhatch.org/search/?toughness=bitesize">Bite-sized Bugs</a></code></li>
                     <li>Check out the "easy-fix" bugs <code><a target="_blank" href="https://fedoraproject.org/easyfix">Listed by the Fedora Project</a></li></code>
+                    <li>Look at the OpenHatch wiki's list of <code><a href="https://openhatch.org/wiki/Easy_bugs_for_newcomers">easy bugs for newcomers in various projects.</a></code>                    
                     <li>Use the search function at <code><a target="_blank" href="http://github.com/">http://github.com/</a></code> and filter by language (to a language that you know).</li>
                     <li>You could even look up some of the bounties (AKA Bugs that you get paid to squash) at <code><a target="_blank" href="https://www.bountysource.com/trackers">https://www.bountysource.com/trackers</a></code></li>
                 </ul>
@@ -116,7 +117,7 @@
         upstream.</p>
         <div class="alert alert-error">
             <h3>Submitting the Deliverable</h3>
-	    <p>As with <strong>all</strong> of your assignments, you'll be submitting them via your <code>.yaml</code> file through a pull request on Github. Be sure to follow formatting and whitespace, and to name your entry in the hw directory like so: <code>bugfix1: http://yourblog.blogplace.com/bugfixpost</code>.</p>
+	    <p>As with <strong>all</strong> of your assignments, you'll be submitting them via your <code>.yaml</code> file through a pull request on Github. Be sure to follow formatting and whitespace, and to name your entry in the hw directory like so: <code>bugfix: http://yourblog.blogplace.com/bugfixpost</code>.</p>
         </div>
     </div>
     <div class="alert">

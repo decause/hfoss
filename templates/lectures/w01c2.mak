@@ -12,7 +12,7 @@
             <h3>Welcome</h3>
 
             <ul class="list-unstyled">
-                <li class="alert alert-success">/whois decause</li>
+                <li class="alert alert-success">/whois dzho</li>
             </ul>
         </li>
 
@@ -29,9 +29,13 @@
         <li>
             <h3>Review Hackathon Schedule</h3>
             <ul class="list-unstyled">
-                <li><p><a target="_blank" class="btn btn-large btn-success" href="http://foss.rit.edu/rcac"><span class="glyphicon glyphicon-home"></span> <strong>2/20 - Rochester Civic App Challenge @ MAGIC Center (SIH-1600)</strong></a></p></li>
-                <li><p><a target="_blank" class="btn btn-large btn-warning" href="http://foss.rit.edu/hackupstate-fall-2013"><span class="glyphicon glyphicon-road"></span> <strong>HackUpstate @ SYR</strong></a></p></li>
-                <li><p><a target="_blank" class="btn btn-large btn-success" href="http://foss.rit.edu/election-night-2013"><span class="glyphicon glyphicon-home"></span> <strong>Election Night @ RIT</strong></a></p></li>
+                <!-- li><p><a target="_blank" class="btn btn-large btn-success" href="http://foss.rit.edu/rcac"><span class="glyphicon glyphicon-home"></span> <strong>2/20 - Rochester Civic App Challenge @ MAGIC Center (SIH-1600)</strong></a></p></li -->
+                <!-- li><p><a target="_blank" class="btn btn-large btn-success" href="http://www.softwarefreedomday.org/"><span class="glyphicon glyphicon-home"></span> <strong>Software Freedom Day</strong></a></p></li -->
+                <li><p><a target="_blank" class="btn btn-large btn-success" href="https://brickhack.io/"><span class="glyphicon glyphicon-home"></span> <strong>BrickHack II - March 5-6 2016</strong></a></p></li>
+                <li><p><a target="_blank" class="btn btn-large btn-warning" href="http://hackupstate.com/"><span class="glyphicon glyphicon-road"></span> <strong>HackUpstate @ SYR</strong></a></p></li>
+                <!-- li><p><a target="_blank" class="btn btn-large btn-success" href="https://ohiolinux.org/"><span class="glyphicon glyphicon-home"></span> <strong>Ohio Linux Fest</strong></a></p></li -->
+                <!-- li><p><a target="_blank" class="btn btn-large btn-warning" href="http://cposc.org"><span class="glyphicon glyphicon-home"></span> <strong>Central PA OS Con</strong></a></p></li -->
+                <!-- li><p><a target="_blank" class="btn btn-large btn-success" href="http://magic.rit.edu/foss/hack_election_night.html"><span class="glyphicon glyphicon-home"></span> <strong>Election Night @ RIT</strong></a></p></li -->
             </ul>
         </li>
 
