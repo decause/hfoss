@@ -1,7 +1,7 @@
 <%inherit file="master.mak" />
 
 <div class='jumbotron'>
-    <h1>Teh Prof</h1>
+    <h1>Instructor</h1>
     <p>Failing early and often, so you won't have to</p>
 </div>
 <div class="row">
