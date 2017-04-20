@@ -6,7 +6,7 @@
 </div>
 
 <div class="alert alert-info">
-    <h2>Team Evaluations <span class="label label-primary">15%</span></h2>
+    <h2>Team Assessments <span class="label label-primary">10%</span></h2>
     <ul class="simple">
         <li>200-1000 words per teammate. 
         <li>Indicate what they did to contribute to the project.</li>
@@ -14,13 +14,13 @@
         <li>What skills should they develop further?</li> 
         <li>Give a numeric score (1-10) for them and justify it.</li> 
         <li>These must be emailed to the <a target="_blank"
-        href="mailto:remydcsi@rit.edu">professor</a> They will remain
+        href="mailto:deejoe@mail.rit.edu">instructor</a> They will remain
         private.</li>
     </ul>
 </div>
 
 <div class="alert alert-info">
-    <h2>Final Presentation <span class="label label-primary">20%</span></h2>
+    <h2>Final Presentation <span class="label label-primary">10%</span></h2>
     <ul>
         <li>Your presentations should last 10 minutes with another 5 minutes
         for discussion.</li>
