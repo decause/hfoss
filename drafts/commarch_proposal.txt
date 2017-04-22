@@ -1,0 +1,6 @@
+Drupal/WordPress
+Firefox
+
+Drupal and WordPress are both huge projects that have similar functions (CMS), and have similar architectures, with a core group of developers who guide the direction of the project and many other contributors who fix bugs and add features on a daily basis.
+
+Firefox is a classic Open Source project. I actually don't know much about it from a development/organizational standpoint, but I'm sure it's interesting.
