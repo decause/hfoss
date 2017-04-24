@@ -1496,7 +1496,7 @@
       <td class="center padded"><span class="label label-success">110</span></td>
     </tr>
     <tr><td>Team Project 2: OLPC Activity (Peer eval, presentation, and
-    final project</td>
+    final project)</td>
       <td class="center padded"><span class="label label-success">280</span></td>
     </tr>
   </tbody>
