@@ -4,59 +4,56 @@
   HFOSS is not a lawyer, and this does not constitute legal advice.
 </em></p>
 
-<p>
-1) Please expand each of the following acronyms (1 pt each):
 
-<ul>
-  <li>
-    1.1) IRC
-  </li>
-  <li>
-    1.2) FOSS
-  </li>
-  <li>
-    1.3) OLPC
-  </li>
-  <li>
-    1.4) DVCS
-  </li>
-  <li>
-    1.5) FSF
-  </li>
-  <li>
-    1.6) PR
-  </li>
-  <li>
-    1.7)* PGP
-  </li>
-  <li>
-    1.8)* GPG
-  </li>
-</ul>
-</p>
 <p>
-<em>* extra credit</em>
+<b>Please select the most appropriate span of time for each of the following [8pts in total]:
+</b>
 </p>
 
 <p>
-2) What is the short, two-letter name for the OLPC computers used in the final
-project for this class? (1 pt)
+1) The Bayh-Dole Act was passed, which gave rise to university technology
+transfer offices; the GNU Project and Free Software Foundation were founded;
+and the US acceded to the international Berne Convention on copyrights. [ 3 pts]
 </p>
 
 <p>
-3) Please give the one-word name for the interface used in the OLPC computers?
-(1 pt)
+a) 1960s b) 1970s c) 1980s d) 1990s e) 2000s f) 2010s
 </p>
 
 <p>
-4) What is the grade level at which we are targeting our OLPC applications?
-(1 pt)
+2) Creative Commons was founded. [1 pt]
 </p>
 
 <p>
+a) 1960s b) 1970s c) 1980s d) 1990s e) 2000s f) 2010s
+</p>
+
+<p>
+3) UNIX was published, Michael Hart started digitizing texts for what became Project
+Gutenburg, and Bill Gates wrote his "Open Letter to Hobbyists". [2 pts]
+</p>
+
+<p>
+a) 1960s b) 1970s c) 1980s d) 1990s e) 2000s f) 2010s
+</p>
+
+<p>
+4) Linus Torvalds started writing the Linux kernel, the Digital Millenium
+Copyright Act was passed. [2 pts]
+</p>
+
+<p>
+a) 1960s b) 1970s c) 1980s d) 1990s e) 2000s f) 2010s
+</p>
+
+<p>
+<b>
 5) Briefly define each of the following instructional theories, giving the
-role of the instructor in each (2 pt each):
+role of the instructor in each (1 pt each):
+</b>
+</p>
 
+<p>
 <ul>
   <li>
     5.1) didactic
@@ -71,12 +68,16 @@ role of the instructor in each (2 pt each):
 </p>
 
 <p>
-6) Several elements are combined in different ways to form the various Creative
-Commons licenses.
+<b>
+6) Several elements are combined in different ways to form the various Creative Commons licenses.
 <br>
 Please match each shorthand given in the numbered list with the letter next
-to the description of that license element below (1 pt for each match).
+to the description of that license element below (2 pt for each match).
+<br>
+</b>
+</p>
 
+<p>
 <ul>
   <li>
     6.1) NC ___
@@ -91,15 +92,15 @@ to the description of that license element below (1 pt for each match).
     6.4) BY ___
   </li>
 </ul>
-    
+</p>
+
+<p>    
 <ul>
   <li>
-    A) You must convey the same rights "downstream" that were conveyed to you by
-"upstream".  
+    A) You must convey the same rights "downstream" that were conveyed to you by "upstream".  
   </li>
   <li>
-    B) You must attribute the contributions of the original or upstream creators of
-the work.
+    B) You must attribute the contributions of the original or upstream creators of the work.
   </li>
   <li>
     C) You may not use the work for commercial purposes.
@@ -111,30 +112,43 @@ the work.
 </p>
 
 <p>
-7) The presence of which license elements make a license "non-free" in the eyes
-of the FSF? (give the letters, 1 pt each)
+<b>
+7) The presence of which license elements make a license "non-free" in the eyes of the FSF? (give the letters, 1 pt XC each)
+</b>
 </p>
 
 <p>
-  8) Which license element is a copyleft? (give the letter, 1 pt)
+<b>
+  8) Which license element is a copyleft? (give the letter, 1 pt XC)
+</b>
 </p>
 
 <p>
-  9) Name two projects which distribute a body of non-software, free
-culture data, and briefly name or describe the kind of data. (1 pt each)
+<b>
+  9) Name two projects which distribute a body of non-software, free culture data, and briefly name or describe the kind of data. (1 pt XC each)
+</b>
+<ul>
+  <li>
+    9.1) 
+  </li>
+  <li>
+    9.2) 
+  </li>
+</ul>
+
 </p>
 
 <p>
 10) We've discussed "the four R's" as a shorthand for the freedoms attached
-to software for it to be considered "free" or "open source".  List or
-describe each.  (eg, if you can remember the "r" word you can just give
+to software for it to be considered "free" or "open source".  <b>List or
+describe each.</b>  (eg, if you can remember the "r" word you can just give
 that.  If you cannot remember the term, but can describe the freedom
 involved, that also counts).  Various "r" words are roughly
 synonymous for some of the freedoms, but we're counting freedoms here, not
 synonyms so if you give two (or more) terms for the same freedom, it only
 counts once.  For the purposes of this quiz, "remix" does not count as
-describing any of them. (1pt each)
-
+describing any of them. (2pt each)
+<br>
 <ul>
   <li>
     10.1)
@@ -152,24 +166,12 @@ describing any of them. (1pt each)
     
 </p>
 
-
-
-
-<p><strong>Bonus</strong>:</p>
-  <ul>
-	<li>X1) True or False: You cannot sell GPL'd software (1pt)</li>
-	<li>X2) True or False: You can fork a GPL licensed Project and release it under an MIT license? (1 pt)</li>
-	<li>X3) True or False: You can fork a MIT licensed Project and release it under an GPL license? (1 pt)</li>
-	<li>X4) Perhaps the shortest way to sum up the freedoms from #10 above is the one short word that completes the following phrase: "A project is free and open if one has the freedom to __________ it (3 pt)</li>
-  </ul>
-
-
 <div class="alert alert-info">
     <h4>Q: <em>How do I quiz?</em></h4>
     <h4>A: <em>3 Steps:</em></h4>
     <ol>
         <li>Create a blog post that includes each question, with the answer to each question below it, on your HFOSS Blog you set up in <a target="_blank" href="/hw/firstflight"><em>First Flight</em></a>.</li>
         <li>Add a line to the bottom of your .yaml file you edited in first flight, with the link to your post.</li>
-        <li>Send deejoe a pull request. Once your pull-request is accepted, you have completed the quiz.</li>
+        <li>Send deejoe a pull request.</li>
     </ol>
 </div>
