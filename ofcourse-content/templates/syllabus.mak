@@ -34,7 +34,7 @@
         <a href="https://github.com/ritjoe/hfoss">https://github.com/ritjoe/hfoss</a>
 </p>
 <p>        Please see the syllabus found at
-        <a href="https://github.com/ritjoe/hfoss/wiki/syllabus.md">https://github.com/ritjoe/hfoss/wiki/syllabus.md</a>
+        <a href="https://github.com/ritjoe/hfoss/wiki/syllabus">https://github.com/ritjoe/hfoss/wiki/syllabus</a>
 </p>
 
 
