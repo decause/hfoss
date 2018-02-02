@@ -3,12 +3,12 @@
 # list elements.
 hw:
   - firstflight
-#  - litreview1
-#  - meetup1
   - blog01
   - blog02 
 #  - smoketest
-#  - blog03 
+  - blog03 
+  - litreview1
+  - meetup1
 #  - bugfix
 #  - blog04 
 #  - commarchteam
