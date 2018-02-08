@@ -9,11 +9,12 @@ hw:
   - blog03 
   - litreview1
   - meetup1
-#  - bugfix
-#  - blog04 
+  - bugfix
+  - blog04
 #  - commarchteam
 #  - quiz1
-#  - blog05 
+  - blog05 
+  - meetup2
 #  - blog06 
 #  - commarchreport
 #  - commarchpreso
@@ -22,13 +23,13 @@ hw:
 #  - blog08 
 #  - litreview3
 #  - blog09 
-#  - teamprop2
+#  - finalproposal
+#  - finalrepo
 #  - blog10 
 #  - blog11
 #  - blog12xc 
 #  - blog15
 #  - bugreport
-#  - meetup2
 #  - meetup3
 #  - meetup4
 #  - meetup5
@@ -36,5 +37,5 @@ hw:
 #  - quiz2
 #    #- vidreview1
 #    #- vidreview2
-#  - finalrepo
+
 #  - finalpreso
