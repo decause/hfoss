@@ -5,21 +5,23 @@ hw:
   - firstflight
   - blog01
   - blog02 
-#  - smoketest
   - blog03 
   - litreview1
   - meetup1
   - bugfix
   - blog04
-#  - commarchteam
-#  - quiz1
   - blog05 
   - meetup2
-#  - blog06 
+  - blog06 
+  - blog07 
+  - meetup3
+  - meetup4
+#  - smoketest
+#  - commarchteam
+#  - quiz1
 #  - commarchreport
 #  - commarchpreso
 #  - litreview2
-#  - blog07 
 #  - blog08 
 #  - litreview3
 #  - blog09 
@@ -30,8 +32,6 @@ hw:
 #  - blog12xc 
 #  - blog15
 #  - bugreport
-#  - meetup3
-#  - meetup4
 #  - meetup5
 #  - meetup6
 #  - quiz2
