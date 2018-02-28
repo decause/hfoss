@@ -4,6 +4,7 @@
 | how | well | does | this | work |
 
 
+
 | week |   | dow | mon | dom | topic                                 | assignment            | due                   | notes                           | week |   | dow | mon | dom |
 |------+---+-----+-----+-----+---------------------------------------+-----------------------+-----------------------+---------------------------------+------+---+-----+-----+-----|
 |    1 | 2 | Wed | Jan |  17 | class intros, [[https://github.com/ritjoe/hfoss/wiki/syllabus][syllabus]]                | firstflight           |                       | FOSS Hours GOL-2500 4-6         |    1 | 2 | Wed | Jan |  17 |
@@ -89,5 +90,5 @@
 |------+---+-----+-----+-----+---------------------------------------+-----------------------+-----------------------+---------------------------------+------+---+-----+-----+-----|
 | week |   | dow | mon | dom | topic                                 | assignment            | due                   | notes                           |      |   |     |     |     |
 
-[[https://www.rit.edu/calendar/1718.html][Academic Calendar 2017-2018]]
+[Academic Calendar 2017-2018](https://www.rit.edu/calendar/1718.html)
 
