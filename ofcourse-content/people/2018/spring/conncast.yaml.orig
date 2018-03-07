@@ -14,12 +14,11 @@ hw:
   blog01: https://skimboarder.github.io/week1/
   blog02: https://skimboarder.github.io/week2/
   blog03: https://skimboarder.github.io/week3/
+<<<<<<< HEAD
+  litreview: https://skimboarder.github.io/bugreporting/
+=======
   litreview1: https://skimboarder.github.io/bugreporting/
-  meetup1:
+>>>>>>> Adding old blog posts and lit review.
   bugfix: https://skimboarder.github.io/bugfix/
   blog04: https://skimboarder.github.io/week4/
   blog05: https://skimboarder.github.io/week5/
-  blog06: https://skimboarder.github.io/week6/
-  blog07: https://skimboarder.github.io/week7/
-  litreview2:
-  commarchteam:
