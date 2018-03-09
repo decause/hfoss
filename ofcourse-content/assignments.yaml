@@ -17,12 +17,12 @@ hw:
   - meetup3
   - meetup4
 #  - smoketest
-#  - commarchteam
-#  - quiz1
+  - commarchteam
+  - quiz1
 #  - commarchreport
 #  - commarchpreso
-#  - litreview2
-#  - blog08 
+  - litreview2
+  - blog08 
 #  - litreview3
 #  - blog09 
 #  - finalproposal
