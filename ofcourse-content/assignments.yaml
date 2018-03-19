@@ -18,7 +18,11 @@ hw:
   - meetup4
 #  - smoketest
   - commarchteam
+<<<<<<< HEAD
+#  - quiz1
+=======
   - quiz1
+>>>>>>> 6fd74f94e992673bfbaf7489bec89ebfe2c30303
 #  - commarchreport
 #  - commarchpreso
   - litreview2
