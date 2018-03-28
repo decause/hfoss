@@ -19,21 +19,21 @@ hw:
 #  - smoketest
   - commarchteam
   - quiz1
-#  - commarchreport
-#  - commarchpreso
+  - commarchreport
+  - commarchpreso
   - litreview2
   - blog08 
   - litreview3
   - blog09 
-#  - finalproposal
-#  - finalrepo
-#  - blog10 
-#  - blog11
-#  - blog12xc 
+  - finalproposal
+  - finalrepo
+  - blog10 
+  - blog11
+#  - blog12
 #  - blog15
 #  - bugreport
-#  - meetup5
-#  - meetup6
+  - meetup5
+  - meetup6
 #  - quiz2
 #    #- vidreview1
 #    #- vidreview2
