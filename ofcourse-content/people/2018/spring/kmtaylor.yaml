@@ -17,14 +17,12 @@ hw:
   blog03:  https://kmtaylor023.github.io/Space/
   litreview1: https://kmtaylor023.github.io/bug-reporting/
   meetup1: https://kmtaylor023.github.io/meetup-1/
-  bugfix: 
+  bugfix: https://kmtaylor023.github.io/bugfix/
   blog04: https://kmtaylor023.github.io/mods/
   blog05: https://kmtaylor023.github.io/license/
-  meetup2: 
+  meetup2: https://kmtaylor023.github.io/VSFS/
   blog06: https://kmtaylor023.github.io/python/
   blog07: https://kmtaylor023.github.io/open-source-er/
-  meetup3: 
-  meetup4: 
   commarchteam: https://github.com/ct-martin/hfoss-commarch-godot/blob/master/teamproposal.md
   quiz1: https://kmtaylor023.github.io/quiz1/
   commarchreport: https://kmtaylor023.github.io/commarch-conclusion/
@@ -33,4 +31,7 @@ hw:
   blog08: https://kmtaylor023.github.io/proper-introduction/
   litreview3: https://kmtaylor023.github.io/building-bridges-2/
   blog09: https://kmtaylor023.github.io/open-valve/
+  finalproposal: https://github.com/skimboarder/hfoss-finalproject/blob/master/teamproposal.md
+  finalrepo: https://github.com/skimboarder/hfoss-finalproject
   blog10: https://kmtaylor023.github.io/dependency/
+  blog11: https://kmtaylor023.github.io/PyGame/

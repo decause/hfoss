@@ -29,7 +29,9 @@ hw:
   - finalrepo
   - blog10 
   - blog11
-#  - blog12
+  - blog12
+  - blog13
+  - blog14
 #  - blog15
 #  - bugreport
   - meetup5
@@ -37,5 +39,4 @@ hw:
 #  - quiz2
 #    #- vidreview1
 #    #- vidreview2
-
 #  - finalpreso
