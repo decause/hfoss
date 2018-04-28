@@ -20,18 +20,19 @@ hw:
   blog05: https://skimboarder.github.io/week5/
   blog06: https://skimboarder.github.io/week6/
   blog07: https://skimboarder.github.io/week7/
-  meetup2:
+  meetup2: https://skimboarder.github.io/meetup2/
   bugfix: https://skimboarder.github.io/bugfix/
   blog08: https://skimboarder.github.io/bugfix/
   meetup3:
   litreview2: https://skimboarder.github.io/infrastructure/
-  blog09: 
+  blog09: https://skimboarder.github.io/meetup2/
   quiz1: https://skimboarder.github.io/quiz1/
   commarchteam: https://github.com/ct-martin/hfoss-commarch-godot/blob/master/teamproposal.md
-  litreview3:
+  litreview3: https://skimboarder.github.io/infrastructurepart2/
   quiz1: https://skimboarder.github.io/quiz1/
   commarchreport:
-  blog10: 
+  blog10: https://skimboarder.github.io/infrastructurepart2/
   commarchpreso: https://docs.google.com/presentation/d/1RPPt3ZGDr78KIGnCYvoEirhhCS20JxyjYf2bJlgiiI4/edit?usp=sharing
-  finalpreso: https://github.com/skimboarder/hfoss-finalproject/blob/master/teamproposal.md
-  quiz2: https://skimboarder.github.io/quiz2/
+  finalproposal: https://github.com/skimboarder/hfoss-finalproject/blob/master/teamproposal.md
+  finalrepo: https://github.com/skimboarder/hfoss-finalproject/
+
