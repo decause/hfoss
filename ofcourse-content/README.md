@@ -8,9 +8,9 @@ __required__ part of the RIT [Academic Minor](https://www.rit.edu/gccis/igm/free
 [Free/Open Source Software and Free Culture](http://www.rit.edu/news/story.php?id=50590) (a first at any University in the
 United States!) 
 
-This repository contains course-specific static content, and should be used
-in conjunction with the [ofCourse](http://github.com/FOSSRIT/ofCourse) courseware, distributed
-at [https://pypi.python.org/pypi/ofcourse](https://pypi.python.org/pypi/ofcourse).
+This repository contains that subset of course-specific content served by an
+instance of the [ofCourse](http://github.com/FOSSRIT/ofCourse) courseware, distributed
+and maintained separately at [https://pypi.python.org/pypi/ofcourse](https://pypi.python.org/pypi/ofcourse).
 
 # INSTALLATION
 
