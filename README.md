@@ -5,7 +5,7 @@ __Humanitarian Free/Open Source Software Course__ (HFOSS). This course is a
 __required__ part of the RIT [Academic Minor](https://www.rit.edu/gccis/igm/free-open-source-software-foss-mn) in
 [Free/Open Source Software and Free Culture](http://www.rit.edu/news/story.php?id=50590). 
 
-The directory [ofcourse-content](orcourse-content) contains that subset of course-specific content served by an
+The directory [ofcourse-content](ofcourse-content) contains that subset of course-specific content served by an
 instance of the [ofCourse](http://github.com/FOSSRIT/ofCourse) courseware, distributed
 and maintained separately at [https://pypi.python.org/pypi/ofcourse](https://pypi.python.org/pypi/ofcourse).
 
