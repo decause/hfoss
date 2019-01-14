@@ -1,9 +1,7 @@
 # hfoss
 
 This is the content repository for the [RIT](https://rit.edu) [Department of Interactive Games and Media](http://igm.rit.edu)
-__Humanitarian Free/Open Source Software Course__ (HFOSS). This course is a
-__required__ part of the RIT [Academic Minor](https://www.rit.edu/gccis/igm/free-open-source-software-foss-mn) in
-[Free/Open Source Software and Free Culture](http://www.rit.edu/news/story.php?id=50590). 
+__Humanitarian Free/Open Source Software Course__ (HFOSS). This course is a pre-requisite for advanced courses in [Free and Open Source Software at RIT](https://www.rit.edu/gccis/igm/free-open-source-software-foss-mn) [(see also)](http://www.rit.edu/news/story.php?id=50590).
 
 The directory [ofcourse-content](ofcourse-content) contains that subset of course-specific content served by an
 instance of the [ofCourse](http://github.com/FOSSRIT/ofCourse) courseware, distributed
