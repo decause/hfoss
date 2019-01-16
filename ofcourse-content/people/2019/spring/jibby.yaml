@@ -1,0 +1,15 @@
+#hfoss
+name: Josh Bicking
+avatar: https://avatars3.githubusercontent.com/u/8885466?s=400&v=4
+blog: https://jibby.org
+feed: https://jibby.org/?feed=rss2
+email: jhb2345@rit.edu
+major: Computer Science
+irc: jibby
+rit_dce: jhb2345
+forges:
+  - https://github.com/jibby0
+  - https://gogs.jibby.org/jhb2345
+bio: I have a passion for operating system design and programming language design, both of which are done mostly in the realm of FOSS. I hope to contribute to these domains, either as an employee or a volunteer. I'm the current CFO of Machines Never Sleep LLC, a cybersecurity and threat intelligence startup.
+hw:
+  firstflight: https://jibby.org/?p=107
