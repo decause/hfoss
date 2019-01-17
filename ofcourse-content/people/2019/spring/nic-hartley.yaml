@@ -1,4 +1,3 @@
-# Just guessing at where to put the YAML file, since there didn't seem to be a directory for this semester already
 name: nic-hartley
 blog: https://dev.to/nichartley
 feed: https://dev.to/feed/nichartley
@@ -7,4 +6,4 @@ forges:
 irc: nic-hartley
 rit_dce: nxh9052
 hw:
-  firstflight: # TODO (I'm maybe 50% of the way done with the blogpost)
+  firstflight: https://dev.to/nichartley/why-ill-love-flutter-next-year-3fg2
