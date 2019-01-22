@@ -1,0 +1,15 @@
+#hfoss
+name: Giovanni Aleman
+avatar: https://gitlab.com/uploads/-/system/user/avatar/546408/avatar.png?width=400
+blog: https://pyrophone.github.io/
+feed: http://pyrophone.github.io/atom.xml
+email: ga9494@rit.edu
+major: Game Design and Development
+irc: pyrophone
+rit_dce: ga9494
+forges:
+  - https://github.com/pyrophone
+  - https://gitlab.com/pyrophones
+bio: I'm a fourth year game design and development major that loves game engine development, graphics programming, music production, and open source software. Currently, I spend most of my time working on my game engine.
+hw:
+  firstflight: https://pyrophone.github.io/2019/01/19/first-flight.html
