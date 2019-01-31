@@ -2,7 +2,7 @@
 name: Derek Erway
 avatar: dje4179@rit.edu
 blog: https://erway1998.github.io/Hello-World/
-feed: 
+feed: https://erway1998.github.io/feed.xml
 email: dje4179@rit.edu
 major: Game Design & Development
 irc: GreenGazebo
@@ -12,3 +12,5 @@ forges:
 bio: 
 hw:
   firstflight: https://erway1998.github.io/First-Post/
+  blog02: https://erway1998.github.io/Lit-Review-1/
+  litreview1: https://erway1998.github.io/Lit-Review-1/
