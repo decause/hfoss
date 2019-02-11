@@ -8,10 +8,10 @@ hw:
   - litreview1
   - blog03 
   - meetup1
-#  - bugfix
-#  - blog04
-#  - blog05 
-#  - meetup2
+  - bugfix
+  - blog04
+  - blog05 
+  - meetup2
 #  - blog06 
 #  - blog07 
 #  - meetup3
