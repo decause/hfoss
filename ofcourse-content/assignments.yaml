@@ -11,8 +11,9 @@ hw:
   - bugfix
   - blog04
   - blog05 
+  - litreview2
   - meetup2
-#  - blog06 
+  - blog06 
 #  - blog07 
 #  - meetup3
 #  - meetup4
@@ -21,7 +22,6 @@ hw:
 #  - quiz1
 #  - commarchreport
 #  - commarchpreso
-#  - litreview2
 #  - blog08 
 #  - litreview3
 #  - blog09 
