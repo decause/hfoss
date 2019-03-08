@@ -4,30 +4,30 @@
 hw:
   - firstflight
 #  - blog01
-  - blog02 
+  - blog02
   - litreview1
-  - blog03 
+  - blog03
   - meetup1
   - bugfix
   - blog04
-  - blog05 
+  - blog05
   - litreview2
   - meetup2
-  - blog06 
-#  - blog07 
-#  - meetup3
+  - blog06
+  - blog07
+  - meetup3
 #  - meetup4
 #  - smoketest
-#  - commarchteam
+  - commarchteam
 #  - quiz1
 #  - commarchreport
 #  - commarchpreso
-#  - blog08 
+#  - blog08
 #  - litreview3
-#  - blog09 
+#  - blog09
 #  - finalproposal
 #  - finalrepo
-#  - blog10 
+#  - blog10
 #  - blog11
 #  - blog12
 #  - bugreport
