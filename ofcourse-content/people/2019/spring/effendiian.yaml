@@ -35,9 +35,12 @@ hw:
   blog11: https://rimij405.github.io/blog/hfoss/quicklook-scoop/
   blog12: https://rimij405.github.io/blog/hfoss/discourse-osculture/
   blog13: https://rimij405.github.io/blog/hfoss/quicklook-openal/
-  bugfix: https://rimij405.github.io/freeCodeCamp/bugfix-fcc-35791/
-  bugfix02: https://rimij405.github.io/freeCodeCamp/bugfix-fcc-35751/
+  bugfix:
+    - https://rimij405.github.io/freeCodeCamp/bugfix-fcc-35791/
+    - https://rimij405.github.io/freeCodeCamp/bugfix-fcc-35751/
+    - https://rimij405.github.io/freeCodeCamp/bugfix-fcc-35751/
   blog14: https://rimij405.github.io/freeCodeCamp/commarch-fcc/
   blog15: https://rimij405.github.io/freeCodeCamp/triage-docker-on-wsl/
   blog16: https://rimij405.github.io/freeCodeCamp/triage-fcc-local-dev-setup/
+  finalpreso: https://github.com/rimij405/hfoss-final-2019/blob/presentation/Presentation/Baggage_claim_presentation.pdf
   quiz2: https://rimij405.github.io/blog/quiz-2/
