@@ -1,0 +1,12 @@
+# The name does *not* need to be your full legal name, but will be used as your
+# display name throughout the class web site. It can be a nickname or just your
+# first name if you like.
+name: Thunder Dome
+blog: http://wordpress.com
+feed: http://en.blog.wordpress.com/feed/
+forges:
+  - http://fsf.org
+irc: Thunderdome
+rit_dce: abc123
+hw:
+  firstflight: http://exampleblog.post

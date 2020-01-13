@@ -2,34 +2,32 @@ course:
     name: HFOSS
     desc: The RIT Humanitarian Free/Open Source Software Development Course
     place: RIT
-    start: 2018-01-17
-    end: 2018-04-30
-    blog_start: 2018-01-21
-    blog_end: 2018-04-29
-    times: Mon,Wed,Fri 9:00AM - 9:55AM
-    course: IGME582.01.2175
-    location: Golisano Hall (GOL)-2350
-    final: TBD, 6:30PM-7:45pm, GOL-2350
-    repo: https://github.com/ritjoe/hfoss
-    public_url: https://hfoss.rocfoss.org/
+    start: 2014-09-25
+    end: 2014-12-10
+    times: Tues & Thurs 6:30PM - 7:45PM
+    course: 4085.582.01
+    location: Orange Hall (ORN)-1380
+    repo: https://github.com/decause/hfoss
+# Optional if using OpenShift    public_url: http://hfoss-ritigm.rhcloud.com
 
 instructor:
-    name: D. Joe Anderson
-    email: deejoe@mail.rit.edu
-    irc: dzho
-    avatar: https://deejoe.etrumeus.com/r-pentonimo.png
-    openhub: None
-    twitter: None
+    name: Remy DeCausemaker
+    email: remydcsi@rit.edu
+    irc: decause
+    avatar: http://www.libravatar.org/user/5d9d0a14af042b2f7877ab58de9b7702ca29bb9d34155dc58eff4ff6509d562c.png
+    openhub: decause
+    coderwall: decause
+    twitter: Remy_D
     office:
-        location: GOL-2500
-        hours: Wednesday 4:15-5:15pm
+        location: The MAGIC Center - SIH 1680
+        hours: Monday, Wednesday, 4:00-5:00pm
     links:
-        blog: http://deejoe.etrumeus.com/update
-        linkedin: None
-        github: https://github.com/ritjoe
-        opensource: None
+        blog: http://foss.rit.edu/blog/decause
+        linkedin: http://linkedin.com/in/decause
+        github: http://github.com/decause
+        opensource: http://opensource.com/users/remyd
 
 assistant:
-    name: None
-    email: None
-    irc: None
+    name: Thunderdome
+    email: Thunderdome@foss.rit.edu
+    irc: Thunderdome

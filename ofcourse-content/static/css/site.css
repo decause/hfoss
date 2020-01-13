@@ -20,7 +20,7 @@ div.alert.alert-info, div.alert.alert-success, div.alert.alert-warning, div.aler
     color: #FFF;
 }
 
-a, .alert code>a {
+a, .alert code>a, .alert a {
     color: #303f9f;
 }
 
