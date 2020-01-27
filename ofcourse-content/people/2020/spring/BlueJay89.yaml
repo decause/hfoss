@@ -3,10 +3,10 @@
 # first name if you like.
 name: James Lewis
 blog: http://www.jamesfossinfo.data.blog
-feed: working on it
+feed: https://jamesfossinfo.data.blog/?blogsub=confirmed#538
 forges:
-  - http://fsf.org
+  - http://github.com/BlueJay89/hfoss
 irc: BlueJay89
 rit_dce: jll9160
 hw:
-  firstflight: working on it
+  firstflight: #working on it#
